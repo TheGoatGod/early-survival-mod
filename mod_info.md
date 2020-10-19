@@ -27,14 +27,14 @@ Use the `home` key to get to the top.
 # Sources
 https://www.survivalsullivan.com/primitive-survival-tools/
 https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
-https://primitive.fandom.com/wiki <--- pick this to bits
+https://primitive.fandom.com/wiki
 https://primitive.fandom.com/wiki/Cauldron
 https://primitivetechnology.wordpress.com/
 https://primitivetechnology.wordpress.com/2018/08/17/iron-prills/
 https://primitivetechnology.wordpress.com/2018/07/17/wood-ash-cement/
 https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
-https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark
+https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bits
 
 # Introduction
 
@@ -50,7 +50,7 @@ I want to expand this as much as I can so there is nothing left.
 
 
 ## Tools
-**Sub-category - `Tools`**
+**Sub-category - `items`**
 
 *Sources:*
 https://www.survivalsullivan.com/primitive-survival-tools/
@@ -79,7 +79,7 @@ primitive Skis
 Primitive Ski Sticks
 
 ## Weapons
-**Sub-category - `Weapons`**
+**Sub-category - `items`**
 
 *Sources*
 https://www.survivalsullivan.com/primitive-survival-tools/
@@ -107,7 +107,7 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## Drink
-**Sub-category - `Drink`**
+**Sub-category - `items`**
 
 *Sources:*
 https://primitive.fandom.com/wiki/Consumables
@@ -127,27 +127,7 @@ Wine
 ```
 
 ## Food
-**Sub-category - `Food`**
-
-*Sources:*
-https://primitive.fandom.com/wiki/Consumables
-
-*Items:*
-```JSON
-Bread Loaf
-Chicken and Rice
-Cooked Bacon
-Cooked Chicken
-Cooked Fish Fillet
-Cooked Spare Ribs
-Fat
-Fillet and Bread
-Prime Salad
-Preserved Berry´s (Jam)
-```
-
-## generic
-**Sub-category - `Generic`**
+**Sub-category - `items`**
 
 *Sources:*
 https://primitive.fandom.com/wiki/Consumables
@@ -158,11 +138,11 @@ Cane Sugar
 Cashew Milk
 Cured Bacon
 Dried Tea Bag
-Fresh Bacon
-Fresh Chicken
-Fresh Fish Fillet
-Fresh Dough
-Fresh Spare Ribs
+Bacon
+Chicken
+Fish Fillet
+Dough
+Spare Ribs
 Ground Cashew
 Honey
 Malt
@@ -171,9 +151,52 @@ Sack of Flour
 Salt
 Bucket of Sugar juice
 Yeast
----
+Bread Loaf
+Chicken and Rice
+Cooked Bacon
+Cooked Chicken
+Cooked Fish Fillet
+Cooked Spare Ribs
+Fat
+Fillet and Bread
+Prime Salad
+Preserved Berry´s (Jam)
+Flatbread
+Porridge
+Oven porridge
+Seed porridge
+Berry porridge
+Meat soup
+Meat stew
+```
+
+*Mushrooms:*
+```JSON
+Black ear mushroom
+Sand mushroom
+Noaidi's mushroom
+Yellowcoat mushroom
+Browncoat mushroom
+Bearpaw mushroom
+Hairy mushroom
+Redlegger mushroom
+Yellow fingers mushroom
+Tellervo's gift mushroom
+Ukko's mushroom
+Soft mushroom
+Ringed mushroom
+```
+
+
+## generic
+**Sub-category - `items`**
+
+*Sources:*
+https://primitive.fandom.com/wiki/Consumables
+
+*Items:*
+```JSON
 Bonemeal Fertilizer
----
 Sleeping fur/pelt
 ```
 *bags:*
@@ -184,7 +207,7 @@ Primitive Sack
 
 
 ## seeds
-Sub-category - `Seeds`
+**Sub-category - `items`**
 
 
 *Sources:*
@@ -207,11 +230,16 @@ Tea Seed - Tea Leave
 Tobacco Seed - Tobacco
 Tomato Seed - Tomato
 Wheat Seed - Wheat
+- Turnip
+- Pea
+- Broad bean
+- Rye
+- Hemp
 ```
 
 
 ## Clothing
-**Sub-category `Clothing`**
+**Sub-category - `items`**
 
 
 *Leather clothing:*
@@ -268,19 +296,20 @@ Fur-Leather mittens
 
 
 ## Armor
-**Sub-category - `Armor`**
+**Sub-category - `items`**
+
 
 ## Materials
 **Category  - `Materials`**
 
 *Items:*
 ```JSON
+---- to be looked through to be added
 Hide- to leather process
 leather - final process
 steel
 Cane_sugar
 salt
----- to be looked through to be added
 Brick
 Bucket of Clay
 Carbon
@@ -296,7 +325,6 @@ Pearls
 Steel
 Wood Plank
 rubber
----
 Bucket of Sugarjuice
 Cane Sugar
 Cashew Milk
@@ -325,7 +353,25 @@ sprouce-wood
 *Sources:*
 https://primitive.fandom.com/wiki/Structures
 
-*Items:*
+
+*Terrain flora:*
+```JSON
+Blueberry shrub
+Lingonberry shrub
+Cranberry shrub
+Northern bilberry shrub
+Cloudberry bramble
+Strawberry shrub
+Crowberry shrub
+Raspberry bush
+Black currant bush
+Birch Tree
+Spruce tree
+```
+
+
+*Construction:*
+```JSON
 Apiary
 Bakers Oven
 Bonfire
@@ -352,8 +398,7 @@ Wooden Cabinet 1
 Wooden Cabinet 2
 Wooden Stairs (One Level)
 Wooden Stairs (2 Levels)
-Birch Tree
-Spruce tree
+```
 
 
 ## Locations
@@ -422,9 +467,11 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 https://primitive.fandom.com/wiki/Category:Cooking_Recipies
 "//": "add all items to recipes
 
-**Items**
 
-*Food:*
+## Food
+**Sub-category - `recipes`**
+
+
 ```JSON
 Chicken and Rice
 Prime Salad
@@ -432,10 +479,25 @@ Tea
 Coffee
 Juices
 Bread
-Homemade Soap
+Homemade Soap - water, vegetables, seasoning - knife - boil
+Meat soup - raw meat, water, vegetables, seasoning - knife - boil
+Meat stew - raw meat, water, vegetables, seasoning - knife - bake
+Porridge - flour, Water - boil
+Oven porridge - flour, water - Bake
+Seed porridge - flour, seed, water - boil
+Berry porridge - flour, berry, water - boil
+fish - raw fish, water, vegetables, seasoning - knife - boil
+Pea soup - peas, water, raw meat, seasoning - boil
+Green soup - herbs, water, flour, seasoning - boil
+Vegetable soup - vegetables, water, seasoning - boil
+Mushroom soup - mushrooms, water, flour, seasoning - boil
+Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 ```
 
-*Tools:*
+## Tools
+**Sub-category - `recipes`**
+
+
 ```JSON
 Birch-bark box  - birch-bark, knife
 Birch-bark basket - birch-bark, knife
@@ -447,7 +509,10 @@ cordage - cloth, knife - tying equipment
 Wooden stake - wood
 ```
 
-*Clothes:*
+## Clothes
+**Sub-category - `recipes`**
+
+
 ```JSON
 Leather belt
 Leather cap
@@ -483,7 +548,10 @@ Fur-Leather cloak
 Fur-Leather mittens
 ```
 
-*Wepons:*
+## Wepons
+**Sub-category - `recipes`**
+
+
 ```JSON
 Primitive Spears
 Primitive Stone Tomahawks
@@ -507,7 +575,8 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-*other:*
+## Other
+**Sub-category - `recipes`**
 ```JSON
 Glue
 Primitive Backpack
@@ -515,7 +584,7 @@ Primitive Sack
 ```
 
 
-## Vehicles
+# Vehicles
 **Category - `Vehicles`**
 
 
@@ -527,7 +596,7 @@ Log cart
 
 
 ## Vehicle_parts
-**Sub-category - `Vehicle_parts`**
+**Sub-category - `Vehicles`**
 
 *Items:*
 ```JSON
