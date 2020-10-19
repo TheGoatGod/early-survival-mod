@@ -20,6 +20,11 @@ Use the `home` key to get to the top.
   + [Locations](#locations)
   + [Construction](#construction)
 - [Recipes](#recipes)
+  + [Food](#Food)
+  + [Tools](#Tools)
+  + [Clothes](#Clothes)
+  + [Weapons](#Weapons)
+  + [Other](#Other)
 - [Vehicles](#vehicles)
   + [Vehicles_parts](#vehicle_parts)
 
@@ -548,7 +553,7 @@ Fur-Leather cloak
 Fur-Leather mittens
 ```
 
-## Wepons
+## Weapons
 **Sub-category - `recipes`**
 
 
