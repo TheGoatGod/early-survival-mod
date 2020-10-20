@@ -783,6 +783,8 @@ Atlatls (A.k.a. Spear Throwers)
 ## R-Other **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Other`**
+
+*Items:*
 ```JSON
 Glue
 Primitive Backpack
