@@ -144,6 +144,7 @@ Atlatls (A.k.a. Spear Throwers)
 *Sources:*
 ```JSON
 https://primitive.fandom.com/wiki/Consumables
+https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
 ```
 
 *Items:*
