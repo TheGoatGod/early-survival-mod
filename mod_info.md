@@ -150,9 +150,10 @@ https://primitive.fandom.com/wiki/Consumables
 ```JSON
 Amarberry Juices
 Azulberry Juices
-Mejoberry Juice
-Stimbull Juice
-Tintoberry Juice
+Mejoberry Juices
+Stimbull Juices
+Tintoberry Juices
+Sugar juice
 Beer
 Lagar
 Coffee
