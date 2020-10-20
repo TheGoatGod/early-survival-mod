@@ -36,7 +36,7 @@ Use the `home` key to get to the top.
     + [Materials](#r-materials)
     + [Other](#r-other)
     - [Consumables](#r-consumables)
-      + [Drink](#drink)
+      + [Drink](#r-drink)
       + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
     + [Vehicle-parts](#r-vehicle-parts)
