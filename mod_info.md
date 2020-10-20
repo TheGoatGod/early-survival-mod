@@ -494,6 +494,7 @@ Stone Roof
 
 
 *Mushrooms:* **needs proper naming to be included**
+https://en.wikipedia.org/wiki/Edible_mushroom
 ```JSON
 Black ear mushroom
 Sand mushroom
