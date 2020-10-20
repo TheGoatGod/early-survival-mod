@@ -31,7 +31,7 @@ Use the `home` key to get to the top.
 
 
 # Sources
-**Category `sources`**
+**Category `Sources`**
 
 
 ```JSON
@@ -49,7 +49,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 # Introduction
-**Category `introduction`**
+**Category `Introduction`**
 
 ```JSON
 I wanted to expand the early game and living in the bush or wild living if you will.
@@ -58,7 +58,7 @@ I want to expand this as much as I can so there is nothing left.
 ```
 
 # Features
-**Category `features`**
+**Category `Features`**
 
 ```JSON
 lots of new items,
