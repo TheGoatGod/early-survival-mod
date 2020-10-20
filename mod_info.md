@@ -234,6 +234,7 @@ Ringed mushroom
 **Sub-category - `Generic`**
 
 
+*Sources:*
 ```JSON
 ```
 
@@ -547,6 +548,7 @@ Juices
 Bread
 ```
 
+*Food:*
 ```JSON
 Homemade Soap - water, vegetables, seasoning - knife - boil
 Meat soup - raw meat, water, vegetables, seasoning - knife - boil
