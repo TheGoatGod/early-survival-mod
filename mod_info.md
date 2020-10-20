@@ -475,13 +475,14 @@ https://primitive.fandom.com/wiki/Structures
 
 *Items:*
 ```JSON
-Wood Storage Shed
-Round hut
-Tepee
-Preserving Shed
-Modern Storage Shed
-Modern Storage Shed (Fibre)
-Smoke house
+Primitive Wood Storage Shed
+Primitive Round hut - yurt
+Primitive Tepee
+Primitive Preserving Shed
+Primitive Storage Shed
+Primitive Storage Shed (Fibre)
+Primitive Smoke house
+
 ```
 
 
