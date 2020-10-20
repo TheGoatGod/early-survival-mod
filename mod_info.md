@@ -25,14 +25,13 @@ Use the `home` key to get to the top.
 - [Vehicles](#vehicles)
   + [Vehicles_parts](#vehicle_parts)
 - [Recipes](#recipes)
-  - [Consumables](#r-consumables)
-    + [Drink](#drink)
-    + [Food](#r-food)
   + [Tools](#r-tools)
   + [Clothes](#r-clothes)
   + [Weapons](#r-weapons)
   + [Other](#r-other)
-
+  - [Consumables](#r-consumables)
+    + [Drink](#drink)
+    + [Food](#r-food)
 
 # Sources
 **Category `Sources`**
@@ -663,88 +662,6 @@ Large Mast - 1 log, 4 Sheets
 ```
 
 
-### R-Consumables
-**Category - `Recipes`**
-**Sub-category - `R-Consumables`**
-
-
-### R-Drink **needs update**
-**Category - `Recipes`**
-**Sub-category - `R-Drink`**
-
-
-### R-Food **needs update**
-**Category - `Recipes`**
-**Sub-category - `R-Food`**
-
-
-**update needed**
-```JSON
-Chicken and Rice
-Prime Salad
-Tea
-Coffee
-Juices
-Bread
-```
-
-*Food:*
-```JSON
-Homemade Soap - water, vegetables, seasoning - knife - boil
-Meat soup - raw meat, water, vegetables, seasoning - knife - boil
-Meat stew - raw meat, water, vegetables, seasoning - knife - bake
-Porridge - flour, Water - boil
-Oven porridge - flour, water - Bake
-Seed porridge - flour, seed, water - boil
-Berry porridge - flour, berry, water - boil
-fish - raw fish, water, vegetables, seasoning - knife - boil
-Pea soup - peas, water, raw meat, seasoning - boil
-Green soup - herbs, water, flour, seasoning - boil
-Vegetable soup - vegetables, water, seasoning - boil
-Mushroom soup - mushrooms, water, flour, seasoning - boil
-Vegetable stew - vegetables, water, mushrooms, seasoning - bake
-```
-
-
-*Items:*
-```JSON
-Cane Sugar
-Cashew Milk
-Cured Bacon
-Dried Tea Bag
-Bacon
-Chicken
-Fish Fillet
-Dough
-Spare Ribs
-Ground Cashew
-Honey
-Malt
-Organic Oil
-Sack of Flour
-Salt
-Bucket of Sugar juice
-Yeast
-Bread Loaf
-Chicken and Rice
-Cooked Bacon
-Cooked Chicken
-Cooked Fish Fillet
-Cooked Spare Ribs
-Fat
-Fillet and Bread
-Prime Salad
-Preserved Berry´s (Jam)
-Flatbread
-Porridge
-Oven porridge
-Seed porridge
-Berry porridge
-Meat soup
-Meat stew
-```
-
-
 ## R-Tools
 **Category - `Recipes`**
 **Sub-category - `R-Tools`**
@@ -847,4 +764,86 @@ Primitive Bucket - Wood, Cord -
 *Items:*
 ```JSON
 Glue
+```
+
+
+### R-Consumables
+**Category - `Recipes`**
+**Sub-category - `R-Consumables`**
+
+
+### R-Drink **needs update**
+**Category - `Recipes`**
+**Sub-category - `R-Drink`**
+
+
+### R-Food **needs update**
+**Category - `Recipes`**
+**Sub-category - `R-Food`**
+
+
+**update needed**
+```JSON
+Chicken and Rice
+Prime Salad
+Tea
+Coffee
+Juices
+Bread
+```
+
+*Food:*
+```JSON
+Homemade Soap - water, vegetables, seasoning - knife - boil
+Meat soup - raw meat, water, vegetables, seasoning - knife - boil
+Meat stew - raw meat, water, vegetables, seasoning - knife - bake
+Porridge - flour, Water - boil
+Oven porridge - flour, water - Bake
+Seed porridge - flour, seed, water - boil
+Berry porridge - flour, berry, water - boil
+fish - raw fish, water, vegetables, seasoning - knife - boil
+Pea soup - peas, water, raw meat, seasoning - boil
+Green soup - herbs, water, flour, seasoning - boil
+Vegetable soup - vegetables, water, seasoning - boil
+Mushroom soup - mushrooms, water, flour, seasoning - boil
+Vegetable stew - vegetables, water, mushrooms, seasoning - bake
+```
+
+
+*Items:*
+```JSON
+Cane Sugar
+Cashew Milk
+Cured Bacon
+Dried Tea Bag
+Bacon
+Chicken
+Fish Fillet
+Dough
+Spare Ribs
+Ground Cashew
+Honey
+Malt
+Organic Oil
+Sack of Flour
+Salt
+Bucket of Sugar juice
+Yeast
+Bread Loaf
+Chicken and Rice
+Cooked Bacon
+Cooked Chicken
+Cooked Fish Fillet
+Cooked Spare Ribs
+Fat
+Fillet and Bread
+Prime Salad
+Preserved Berry´s (Jam)
+Flatbread
+Porridge
+Oven porridge
+Seed porridge
+Berry porridge
+Meat soup
+Meat stew
 ```
