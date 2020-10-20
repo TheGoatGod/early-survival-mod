@@ -65,11 +65,12 @@ lots of new items,
 
 
 # items
-**Category `items`**
+**Category `Items`**
 
 
 ## Tools
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Tools`**
 
 
 *Sources:*
@@ -104,7 +105,9 @@ Primitive Ski Sticks
 
 
 ## Weapons
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Weapons`**
+
 
 *Sources*
 ```JSON
@@ -134,7 +137,9 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## Drink
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Drink`**
+
 
 *Sources:*
 ```JSON
@@ -157,7 +162,9 @@ Wine
 
 
 ## Food
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Food`**
+
 
 *Sources:*
 ```JSON
@@ -220,8 +227,9 @@ Ringed mushroom
 ```
 
 
-## generic
-**Sub-category - `items`**
+## Generic
+**Category `Items`**
+**Sub-category - `Generic`**
 
 *Sources:*
 https://primitive.fandom.com/wiki/Consumables
@@ -267,11 +275,13 @@ Wheat Seed - Wheat
 - Broad bean
 - Rye
 - Hemp
+Sleeping fur/pelt
 ```
 
 
 ## Clothing
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Clothing`**
 
 
 *Leather clothing:*
@@ -328,10 +338,13 @@ Fur-Leather mittens
 
 
 ## Armor
-**Sub-category - `items`**
+**Category `Items`**
+**Sub-category - `Armor`**
 
 
 ## Seeds
+**Category `Items`**
+**Sub-category - `Seeds`**
 
 
 *Sources:*
@@ -365,7 +378,7 @@ Hemp seed - Hemp
 
 
 ## Containers
-**Category `items`**
+**Category `Items`**
 **Category  - `Containers`**
 
 
@@ -382,6 +395,7 @@ Primitive Sack
 
 
 ## Materials
+**Category `Items`**
 **Category  - `Materials`**
 
 
@@ -430,6 +444,7 @@ sprouce-wood
 
 
 ## Terrain
+**Category - `Furniture` and `terrain` and `construction`**
 **Sub-category `Terrain`**
 
 
@@ -485,6 +500,7 @@ Wooden Stairs (2 Levels)
 
 
 ## Locations
+**Category - `Furniture` and `terrain` and `construction`**
 **Sub-category - `Locations`**
 
 
@@ -504,6 +520,7 @@ Smoke house
 
 
 ## Construction
+**Category - `Furniture` and `terrain` and `construction`**
 **Sub-category `Construction`**
 
 
@@ -552,7 +569,8 @@ https://primitive.fandom.com/wiki/Category:Cooking_Recipies
 
 
 ## R-Food
-**Sub-category - `recipes`**
+**Category - `Recipes`**
+**Sub-category - `R-Food`**
 
 
 **update needed**
@@ -638,7 +656,8 @@ Ringed mushroom
 ```
 
 ## R-Tools
-**Sub-category - `recipes`**
+**Category - `Recipes`**
+**Sub-category - `R-Tools`**
 
 
 ```JSON
@@ -653,7 +672,8 @@ Wooden stake - wood
 ```
 
 ## R-Clothes
-**Sub-category - `recipes`**
+**Category - `Recipes`**
+**Sub-category - `R-Clothing`**
 
 
 ```JSON
@@ -692,7 +712,8 @@ Fur-Leather mittens
 ```
 
 ## R-Weapons
-**Sub-category - `recipes`**
+**Category - `Recipes`**
+**Sub-category - `R-Weapons`**
 
 
 ```JSON
@@ -719,7 +740,8 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Other
-**Sub-category - `recipes`**
+**Category - `Recipes`**
+**Sub-category - `R-Other`**
 ```JSON
 Glue
 Primitive Backpack
@@ -739,7 +761,8 @@ Log cart
 
 
 ## Vehicle_parts
-**Sub-category - `Vehicles`**
+**Category - `Vehicles`**
+**Sub-category - `Vehicle_parts`**
 
 
 *Items:*
