@@ -23,7 +23,7 @@ Use the `home` key to get to the top.
   + [Locations](#locations)
   + [Construction](#construction)
 - [Vehicles](#vehicles)
-  + [Vehicles_parts](#vehicle_parts)
+  + [Vehicles-parts](#vehicle-parts)
 - [Recipes](#recipes)
   + [Tools](#r-tools)
   + [Clothes](#r-clothes)
@@ -73,13 +73,13 @@ I want to expand this as much as I can so there is nothing left.
 lots of new items,
 ```
 
-# items
+# Items
 **Category `Items`**
 
 
 ## Tools
 **Category `Items`**
-**Sub-category - `Tools`**
+**Sub-Category - `Tools`**
 
 
 *Sources:*
@@ -115,7 +115,7 @@ Primitive Ski Sticks
 
 ## Weapons
 **Category `Items`**
-**Sub-category - `Weapons`**
+**Sub-Category - `Weapons`**
 
 
 *Sources*
@@ -147,7 +147,7 @@ Atlatls (A.k.a. Spear Throwers)
 
 ## Generic
 **Category `Items`**
-**Sub-category - `Generic`**
+**Sub-Category - `Generic`**
 
 
 *Sources:*
@@ -164,7 +164,7 @@ Sleeping fur/pelt
 
 ## Clothing
 **Category `Items`**
-**Sub-category - `Clothing`**
+**Sub-Category - `Clothing`**
 
 
 *Leather clothing:*
@@ -222,12 +222,12 @@ Fur-Leather mittens
 
 ## Armor
 **Category `Items`**
-**Sub-category - `Armor`**
+**Sub-Category - `Armor`**
 
 
 ## Seeds
 **Category `Items`**
-**Sub-category - `Seeds`**
+**Sub-Category - `Seeds`**
 
 
 *Sources:*
@@ -350,12 +350,12 @@ Fish Bait
 
 ### Consumables
 **Category `Items`**
-**Sub-category - `Consumables`**
+**Sub-Category - `Consumables`**
 
 
 ### Drink
 **Category `Items`**
-**Sub-category - `Drink`**
+**Sub-Category - `Drink`**
 
 
 *Sources:*
@@ -408,7 +408,7 @@ Wine
 
 ### Food
 **Category `Items`**
-**Sub-category - `Food`**
+**Sub-Category - `Food`**
 
 
 *Sources:*
@@ -548,7 +548,7 @@ Spruce tree
 Apiary
 Bakers Oven
 Bonfire
-Primitive_Bucket - wood, cord
+Primitive Bucket - wood, cord
 Cauldron
 Cooking Table
 Fermenting Barrel
@@ -576,7 +576,7 @@ Wooden Stairs (2 Levels)
 
 ## Locations **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
-**Sub-category - `Locations`**
+**Sub-Category - `Locations`**
 
 
 *Sources:*
@@ -645,12 +645,12 @@ Materials Cart - Sticks, Tying equipment
 ```
 
 
-## Vehicle_parts **needs update**
+## Vehicle-parts **needs update**
 **Category - `Vehicles`**
-**Sub-category - `Vehicle_parts`**
+**Sub-Category - `Vehicle-parts`**
 
 
-# recipes
+# Recipes
 **Category - `Recipes`**
 
 
@@ -664,7 +664,7 @@ Large Mast - 1 log, 4 Sheets
 
 ## R-Tools
 **Category - `Recipes`**
-**Sub-category - `R-Tools`**
+**Sub-Category - `R-Tools`**
 
 
 ```JSON
@@ -680,7 +680,7 @@ Wooden stake - wood
 
 ## R-Clothes **needs update**
 **Category - `Recipes`**
-**Sub-category - `R-Clothing`**
+**Sub-Category - `R-Clothing`**
 
 
 ```JSON
@@ -747,7 +747,7 @@ Atlatls (A.k.a. Spear Throwers)
 
 ## R-Containers
 **Category - `Recipes`**
-**Sub-category - `R-Containers`**
+**Sub-Category - `R-Containers`**
 
 *Containers:*
 ```JSON
@@ -759,7 +759,9 @@ Primitive Bucket - Wood, Cord -
 
 ## R-Other **needs update**
 **Category - `Recipes`**
-**Sub-category - `R-Other`**
+**Sub-Category - `R-Materials`**
+
+
 
 *Items:*
 ```JSON
@@ -769,17 +771,17 @@ Glue
 
 ### R-Consumables
 **Category - `Recipes`**
-**Sub-category - `R-Consumables`**
+**Sub-Head-Category - `R-Consumables`**
 
 
 ### R-Drink **needs update**
 **Category - `Recipes`**
-**Sub-category - `R-Drink`**
+**Sub-Category - `R-Drink`**
 
 
 ### R-Food **needs update**
 **Category - `Recipes`**
-**Sub-category - `R-Food`**
+**Sub-Category - `R-Food`**
 
 
 **update needed**
