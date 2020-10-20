@@ -788,8 +788,8 @@ Atlatls (A.k.a. Spear Throwers)
 ```JSON
 Glue
 Primitive Backpack
-Primitive Sack - cord,
-Primitive Bucket - wood, cord
+Primitive Sack - Cord -
+Primitive Bucket - Wood, Cord -
 ```
 
 
