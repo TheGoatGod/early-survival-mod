@@ -429,11 +429,11 @@ Steel Ingot
 Fish Bait
 ```
 # Furniture and terrain and construction
-**Category - `Furniture` and `terrain` and `construction`**
+**Category - `Furniture` and `Terrain` and `Construction`**
 
 
 ## Terrain
-**Category - `Furniture` and `terrain` and `construction`**
+**Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Terrain`**
 
 
@@ -534,7 +534,7 @@ Primitive Smoke house
 
 
 ## Construction
-**Category - `Furniture` and `terrain` and `construction`**
+**Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Construction`**
 
 
