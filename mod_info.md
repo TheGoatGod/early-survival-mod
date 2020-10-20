@@ -147,13 +147,37 @@ https://primitive.fandom.com/wiki/Consumables
 https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
 ```
 
-*Items:*
+*Consumables:*
 ```JSON
+-Juice process step 1
+Blueberries
+Raspberries
+Goji berries
+Strawberries
+Bilberries
+Acai berries
+Cranberries
+Grapes
+-Juice process step 2
 Amarberry Juices
-Azulberry Juices
-Mejoberry Juices
-Stimbull Juices
-Tintoberry Juices
+Blueberrie Juices
+Raspberrie Juices
+Goji berrie Juices
+Strawberrie Juices
+Bilberrie Juices
+Acai berrie Juices
+Cranberrie Juices
+Grape Juices
+-Juice process step 3
+Blueberrie Juice
+Raspberrie Juice
+Goji berrie Juice
+Strawberrie Juice
+Bilberrie Juice
+Acai berrie Juice
+Cranberrie Juice
+Grape Juice
+-
 Sugar juice
 Beer
 Lagar
