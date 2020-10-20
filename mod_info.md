@@ -403,8 +403,31 @@ Salt
 Yeast
 birch-wood
 sprouce-wood
+Thatch
 ```
-
+```JSON
+Bonemeal Fertilizer
+Brick
+Carbon
+Clay
+Claystone
+Coal
+Crude Oil
+Dry Firewood
+Feathers
+Fish Bait
+Fresh Cement
+Fresh Firewood
+Glass
+Iron
+Iron Ingot
+Leather
+Limestone
+Lumber
+Salt
+Steel Ingot
+Fish Bait
+```
 # Furniture and terrain and construction
 **Category - `Furniture` and `terrain` and `construction`**
 
