@@ -492,6 +492,24 @@ Stone Wall
 Stone Roof
 ```
 
+
+*Mushrooms:* **needs proper naming to be included**
+```JSON
+Black ear mushroom
+Sand mushroom
+Noaidi's mushroom
+Yellowcoat mushroom
+Browncoat mushroom
+Bearpaw mushroom
+Hairy mushroom
+Redlegger mushroom
+Yellow fingers mushroom
+Tellervo's gift mushroom
+Ukko's mushroom
+Soft mushroom
+Ringed mushroom
+```
+
 *Terrain flora:*
 ```JSON
 Blueberry shrub
@@ -679,22 +697,6 @@ Meat soup
 Meat stew
 ```
 
-*Mushrooms:*
-```JSON
-Black ear mushroom
-Sand mushroom
-Noaidi's mushroom
-Yellowcoat mushroom
-Browncoat mushroom
-Bearpaw mushroom
-Hairy mushroom
-Redlegger mushroom
-Yellow fingers mushroom
-Tellervo's gift mushroom
-Ukko's mushroom
-Soft mushroom
-Ringed mushroom
-```
 
 ## R-Tools
 **Category - `Recipes`**
