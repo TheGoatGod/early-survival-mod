@@ -434,7 +434,7 @@ Fish Bait
 **Category - `Furniture` and `Terrain` and `Construction`**
 
 
-## Terrain
+## Terrain **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Terrain`**
 
@@ -514,7 +514,7 @@ Wooden Stairs (2 Levels)
 ```
 
 
-## Locations
+## Locations **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category - `Locations`**
 
@@ -535,7 +535,7 @@ Primitive Smoke house
 ```
 
 
-## Construction
+## Construction **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Construction`**
 
@@ -574,7 +574,7 @@ Wooden Stairs (2 Levels)
 ```
 
 
-# Recipes
+# Recipes **needs update**
 **Category - `Recipes`**
 
 
@@ -584,7 +584,7 @@ https://primitive.fandom.com/wiki/Category:Cooking_Recipies
 "//": "add all items to recipes
 
 
-## R-Food
+## R-Food **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Food`**
 
@@ -688,7 +688,7 @@ cordage - cloth, knife - tying equipment
 Wooden stake - wood
 ```
 
-## R-Clothes
+## R-Clothes **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Clothing`**
 
@@ -728,7 +728,7 @@ Fur-Leather cloak
 Fur-Leather mittens
 ```
 
-## R-Weapons
+## R-Weapons **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Weapons`**
 
@@ -756,7 +756,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-## R-Other
+## R-Other **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Other`**
 ```JSON
@@ -767,7 +767,7 @@ Primitive Bucket - wood, cord
 ```
 
 
-# Vehicles
+# Vehicles **needs update**
 **Category - `Vehicles`**
 
 
@@ -778,7 +778,7 @@ Log cart
 ```
 
 
-## Vehicle_parts
+## Vehicle_parts **needs update**
 **Category - `Vehicles`**
 **Sub-category - `Vehicle_parts`**
 
