@@ -3,6 +3,7 @@
 Use the `home` key to get to the top.
 
 - [Sources](#sources)
+- [TO-DO](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Items](#items)
@@ -48,6 +49,12 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 ```
 
 
+#TO-DO
+**Category `TO-DO`**
+
+```JSON
+1. fix what needs updated
+```
 # Introduction
 **Category `Introduction`**
 
