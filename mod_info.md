@@ -155,6 +155,7 @@ Atlatls (A.k.a. Spear Throwers)
 
 *Items:*
 ```JSON
+Glue
 Bonemeal Fertilizer
 Sleeping fur/pelt
 ```
@@ -272,6 +273,7 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 ```JSON
 Primitive Backpack
 Primitive Sack
+Primitive Bucket
 ```
 
 
