@@ -10,11 +10,12 @@ Use the `home` key to get to the top.
   + [Tools](#tools)
   + [Weapons](#weapons)
   + [Generic](#generic)
-  + [Clothing](#clothing)
-  + [Armor](#armor)
   + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
+  - [Clothing](#clothing)
+    + [Clothes](#clothes)
+    + [Armor](#armor)
   - [Consumables](#consumables)
     + [Drink](#drink)
     + [Food](#food)
@@ -186,69 +187,6 @@ Sleeping fur/pelt
 ```
 
 
-## Clothing
-**Category `Items`**
-**Sub-Category - `Clothing`**
-
-
-*Leather clothing:*
-```JSON
-Leather belt
-Leather cap
-Leather shirt
-Leather leggings
-Leather shoes
-Leather forearm guards
-Leather shin guards
-Leather cuirass
-```
-
-*Fur clothing:*
-```JSON
-Fur cap
-Fur shirt
-Fur mittens
-Fur leggings
-Fur hood
-Fur shoes
-Fur cloak
-Fur overcoat
-```
-
-*Birch-bark:*
-```JSON
-Birch-bark shoes
-Birch-bark cap
-```
-
-*Source-bark:*
-```JSON
-Source-bark shoes
-Source-bark cap
-```
-
-*Combination clothes:*
-```JSON
-Fur-Leather
-Fur-Leather belt
-Fur-Leather cap
-Fur-Leather shirt
-Fur-Leather leggings
-Fur-Leather shoes
-Fur-Leather forearm guards
-Fur-Leather shin guards
-Fur-Leather cuirass
-Fur-Leather overcoat
-Fur-Leather cloak
-Fur-Leather mittens
-```
-
-
-## Armor
-**Category `Items`**
-**Sub-Category - `Armor`**
-
-
 ## Seeds
 **Category `Items`**
 **Sub-Category - `Seeds`**
@@ -372,9 +310,86 @@ Fish Bait
 ```
 
 
+### Clothing
+**Category `Items`**
+**Sub-Head-Category - `Clothing`**
+
+
+*All Sub Category's:*
+```JSON
+Clothes
+Armor
+```
+
+
+#### Clothes
+**Category `Items`**
+**Sub-Head-Category - `Clothing`**
+**Sub-Category - `Clothes`**
+
+
+*Leather clothing:*
+```JSON
+Leather belt
+Leather cap
+Leather shirt
+Leather leggings
+Leather shoes
+Leather forearm guards
+Leather shin guards
+Leather cuirass
+```
+
+*Fur clothing:*
+```JSON
+Fur cap
+Fur shirt
+Fur mittens
+Fur leggings
+Fur hood
+Fur shoes
+Fur cloak
+Fur overcoat
+```
+
+*Birch-bark:*
+```JSON
+Birch-bark shoes
+Birch-bark cap
+```
+
+*Source-bark:*
+```JSON
+Source-bark shoes
+Source-bark cap
+```
+
+*Combination clothes:*
+```JSON
+Fur-Leather
+Fur-Leather belt
+Fur-Leather cap
+Fur-Leather shirt
+Fur-Leather leggings
+Fur-Leather shoes
+Fur-Leather forearm guards
+Fur-Leather shin guards
+Fur-Leather cuirass
+Fur-Leather overcoat
+Fur-Leather cloak
+Fur-Leather mittens
+```
+
+
+#### Armor
+**Category `Items`**
+**Sub-Head-Category - `Clothing`**
+**Sub-Category - `Armor`**
+
+
 ### Consumables
 **Category `Items`**
-**Sub-Category - `Consumables`**
+**Sub-Head-Category - `Consumables`**
 
 
 *All Sub Category's:*
@@ -386,6 +401,7 @@ Food
 
 ### Drink
 **Category `Items`**
+**Sub-Head-Category - `Consumables`**
 **Sub-Category - `Drink`**
 
 
@@ -439,6 +455,7 @@ Wine
 
 ### Food
 **Category `Items`**
+**Sub-Head-Category - `Consumables`**
 **Sub-Category - `Food`**
 
 
