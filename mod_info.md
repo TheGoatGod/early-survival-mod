@@ -417,6 +417,27 @@ sprouce-wood
 *Sources:*
 https://primitive.fandom.com/wiki/Structures
 
+*Terrain:*
+```JSON
+Mud Door-frame
+Mud Door
+Mud Floor
+Mud Window
+Mud Wall
+Mud Roof
+Thatch Door-frame
+Thatch Door
+Thatch Floor
+Thatch Window
+Thatch Wall
+Thatch Roof
+Stone Door-frame
+Stone Door
+Stone Floor
+Stone Window
+Stone Wall
+Stone Roof
+```
 
 *Terrain flora:*
 ```JSON
