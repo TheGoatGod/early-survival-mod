@@ -30,7 +30,7 @@ Use the `home` key to get to the top.
 
 
 # Sources
-
+**Category `sources`**
 ```JSON
 https://www.survivalsullivan.com/primitive-survival-tools/
 https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
@@ -43,14 +43,19 @@ https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bits
 ```
-# Introduction
 
+
+# Introduction
+**Category `introduction`**
 I wanted to expand the early game and living in the bush or wild living if you will.
 This is a focused expansion and will be part of a bigger mod that will expand early game and wild living.
 I want to expand this as much as I can so there is nothing left.
 
+
 # Features
+**Category `features`**
 lots of new items,
+
 
 # items
 **Category `items`**
@@ -58,6 +63,7 @@ lots of new items,
 
 ## Tools
 **Sub-category - `items`**
+
 
 *Sources:*
 https://www.survivalsullivan.com/primitive-survival-tools/
@@ -390,7 +396,7 @@ Fireplace
 Firewood Holder
 Fruit Press
 Grill
-Handmill
+Hand mill
 Miners Cart
 Sink
 Spinning Mule
@@ -419,10 +425,10 @@ https://primitive.fandom.com/wiki/Structures
 ```JSON
 Wood Storage Shed
 Round hut
-Teepee
+Tepee
 Preserving Shed
 Modern Storage Shed
-Modern Storage Shed (Fiber)
+Modern Storage Shed (Fibre)
 Smoke house
 ```
 
@@ -447,7 +453,7 @@ Fireplace
 Firewood Holder
 Fruit Press
 Grill
-Handmill
+Hand mill
 Miners Cart
 Sink
 Spinning Mule
@@ -479,6 +485,7 @@ https://primitive.fandom.com/wiki/Category:Cooking_Recipies
 **Sub-category - `recipes`**
 
 
+**update needed**
 ```JSON
 Chicken and Rice
 Prime Salad
@@ -499,6 +506,62 @@ Green soup - herbs, water, flour, seasoning - boil
 Vegetable soup - vegetables, water, seasoning - boil
 Mushroom soup - mushrooms, water, flour, seasoning - boil
 Vegetable stew - vegetables, water, mushrooms, seasoning - bake
+```
+
+
+*Items:*
+```JSON
+Cane Sugar
+Cashew Milk
+Cured Bacon
+Dried Tea Bag
+Bacon
+Chicken
+Fish Fillet
+Dough
+Spare Ribs
+Ground Cashew
+Honey
+Malt
+Organic Oil
+Sack of Flour
+Salt
+Bucket of Sugar juice
+Yeast
+Bread Loaf
+Chicken and Rice
+Cooked Bacon
+Cooked Chicken
+Cooked Fish Fillet
+Cooked Spare Ribs
+Fat
+Fillet and Bread
+Prime Salad
+Preserved Berry´s (Jam)
+Flatbread
+Porridge
+Oven porridge
+Seed porridge
+Berry porridge
+Meat soup
+Meat stew
+```
+
+*Mushrooms:*
+```JSON
+Black ear mushroom
+Sand mushroom
+Noaidi's mushroom
+Yellowcoat mushroom
+Browncoat mushroom
+Bearpaw mushroom
+Hairy mushroom
+Redlegger mushroom
+Yellow fingers mushroom
+Tellervo's gift mushroom
+Ukko's mushroom
+Soft mushroom
+Ringed mushroom
 ```
 
 ## R-Tools
@@ -565,8 +628,8 @@ Primitive Stone Tomahawks
 Primitive Hoko Knives
 Primitive Rock Slings
 Primitive Bows And Arrows
-Primitive Shortbow
-Primitive Arrows - curde, non-cude
+Primitive Short bow
+Primitive Arrows - crude, non-crude
 Primitive Blowguns
 Primitive Lassos?
 Primitive Bolas
@@ -607,6 +670,6 @@ Log cart
 
 *Items:*
 ```JSON
-strapped wood - cordage or leather rope or rope or fiber rope, 2 logs.
-mast - 1 log, Sheet.
+strapped wood - cordage or leather rope or rope or fibre rope, 2 logs.
+mast - 7 sticks, Sheet.
 ```
