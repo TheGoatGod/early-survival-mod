@@ -649,6 +649,10 @@ Materials Cart - Sticks, Tying equipment
 **Sub-category - `Vehicle_parts`**
 
 
+# recipes
+**Category - `Recipes`**
+
+
 *Items:*
 ```JSON
 strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
