@@ -32,6 +32,8 @@ Use the `home` key to get to the top.
 
 # Sources
 **Category `sources`**
+
+
 ```JSON
 https://www.survivalsullivan.com/primitive-survival-tools/
 https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
@@ -48,6 +50,8 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 # Introduction
 **Category `introduction`**
+
+
 I wanted to expand the early game and living in the bush or wild living if you will.
 This is a focused expansion and will be part of a bigger mod that will expand early game and wild living.
 I want to expand this as much as I can so there is nothing left.
@@ -55,6 +59,8 @@ I want to expand this as much as I can so there is nothing left.
 
 # Features
 **Category `features`**
+
+
 lots of new items,
 
 
@@ -67,10 +73,13 @@ lots of new items,
 
 
 *Sources:*
+```JSON
 https://www.survivalsullivan.com/primitive-survival-tools/
 https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
+```
 
 *Items:*
+```JSON
 Primitive Stone Hammers
 Primitive Grain Grinders
 Primitive Mortar And Pestles
@@ -91,13 +100,17 @@ Primitive Torch
 Primitive wooden shovel
 primitive Skis
 Primitive Ski Sticks
+```
+
 
 ## Weapons
 **Sub-category - `items`**
 
 *Sources*
+```JSON
 https://www.survivalsullivan.com/primitive-survival-tools/
 https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
+```
 
 *Items:*
 Primitive Spears
@@ -124,7 +137,9 @@ Atlatls (A.k.a. Spear Throwers)
 **Sub-category - `items`**
 
 *Sources:*
+```JSON
 https://primitive.fandom.com/wiki/Consumables
+```
 
 *Items:*
 ```JSON
@@ -140,11 +155,14 @@ Tea
 Wine
 ```
 
+
 ## Food
 **Sub-category - `items`**
 
 *Sources:*
+```JSON
 https://primitive.fandom.com/wiki/Consumables
+```
 
 *Items:*
 ```JSON
@@ -366,6 +384,7 @@ Primitive Sack
 ## Materials
 **Category  - `Materials`**
 
+
 *Items:*
 ```JSON
 ---- to be looked through to be added
@@ -544,6 +563,9 @@ Tea
 Coffee
 Juices
 Bread
+```
+
+```JSON
 Homemade Soap - water, vegetables, seasoning - knife - boil
 Meat soup - raw meat, water, vegetables, seasoning - knife - boil
 Meat stew - raw meat, water, vegetables, seasoning - knife - bake
@@ -718,6 +740,7 @@ Log cart
 
 ## Vehicle_parts
 **Sub-category - `Vehicles`**
+
 
 *Items:*
 ```JSON
