@@ -240,6 +240,7 @@ Ringed mushroom
 
 *Items:*
 ```JSON
+Bonemeal Fertilizer
 Sleeping fur/pelt
 ```
 
