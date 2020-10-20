@@ -10,7 +10,7 @@ Use the `home` key to get to the top.
   + [Weapons](#weapons)
   + [Drink](#drink)
   + [Food](#food)
-  + [generic](#generic)
+  + [Generic](#generic)
   + [Clothing](#clothing)
   + [Armor](#armor)
   + [Seeds](#seeds)
