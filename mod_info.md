@@ -590,7 +590,6 @@ Storage Barrel
 Sugar Press
 Tanning Rack
 Weapon Rack
-Well Chain
 Wooden Arrow Sign
 Wooden Cabinet 1
 Wooden Cabinet 2
