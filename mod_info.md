@@ -25,7 +25,9 @@ Use the `home` key to get to the top.
 - [Vehicles](#vehicles)
   + [Vehicles_parts](#vehicle_parts)
 - [Recipes](#recipes)
-  + [Food](#r-food)
+  - [Consumables](#r-consumables)
+    + [Drink](#drink)
+    + [Food](#r-food)
   + [Tools](#r-tools)
   + [Clothes](#r-clothes)
   + [Weapons](#r-weapons)
@@ -660,7 +662,18 @@ mast - 7 sticks, Sheet
 Large Mast - 1 log, 4 Sheets
 ```
 
-## R-Food **needs update**
+
+### R-Consumables
+**Category - `Recipes`**
+**Sub-category - `R-Consumables`**
+
+
+### R-Drink **needs update**
+**Category - `Recipes`**
+**Sub-category - `R-Drink`**
+
+
+### R-Food **needs update**
 **Category - `Recipes`**
 **Sub-category - `R-Food`**
 
