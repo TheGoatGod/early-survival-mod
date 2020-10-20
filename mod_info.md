@@ -77,6 +77,21 @@ lots of new items,
 **Category `Items`**
 
 
+*All Sub Category's:*
+```JSON
+Tools
+Weapons
+Generic
+Clothing
+Armor
+Seeds
+Containers
+Materials
+Other
+Consumables
+```
+
+
 ## Tools
 **Category `Items`**
 **Sub-Category - `Tools`**
@@ -353,6 +368,13 @@ Fish Bait
 **Sub-Category - `Consumables`**
 
 
+*All Sub Category's:*
+```JSON
+Drink
+Food
+```
+
+
 ### Drink
 **Category `Items`**
 **Sub-Category - `Drink`**
@@ -473,6 +495,13 @@ Ringed mushroom
 
 # Furniture, Terrain and Construction **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
+
+*All Sub Category's:*
+```JSON
+Furniture
+Terrain
+Construction
+```
 
 
 ## Terrain **needs update**
@@ -637,6 +666,12 @@ Wooden Stairs (2 Levels)
 **Category - `Vehicles`**
 
 
+*All Sub Category's:*
+```JSON
+Vehicle-parts
+```
+
+
 *Vehicles:*
 ```JSON
 Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
@@ -661,8 +696,27 @@ mast - 7 sticks, Sheet
 Large Mast - 1 log, 4 Sheets
 ```
 
+## R-Items
+**Category - `Recipes`**
+**Sub-Head-Category - `R-Items`**
 
-## R-Tools
+
+*All Sub Category's:*
+```JSON
+R-Tools
+R-Weapons
+R-Generic
+R-Clothing
+R-Armor
+R-Seeds
+R-Containers
+R-Materials
+R-Other
+R-Consumables
+```
+
+
+### R-Tools
 **Category - `Recipes`**
 **Sub-Category - `R-Tools`**
 
@@ -678,7 +732,36 @@ cordage - cloth, knife - tying equipment
 Wooden stake - wood
 ```
 
-## R-Clothes **needs update**
+
+### R-Weapons **needs update**
+**Category - `Recipes`**
+**Sub-Category - `R-Weapons`**
+
+
+```JSON
+Primitive Spears
+Primitive Stone Tomahawks
+Primitive Hoko Knives
+Primitive Rock Slings
+Primitive Bows And Arrows
+Primitive Short bow
+Primitive Arrows - crude, non-crude
+Primitive Blowguns
+Primitive Lassos?
+Primitive Bolas
+Primitive Throwing/Rabbit Sticks
+Primitive Slingshot
+Primitive Dagger
+Primitive Sword
+Primitive Viking Axe
+Primitive Staff
+Primitive Bat
+Mongol Bow And Arrow
+Atlatls (A.k.a. Spear Throwers)
+```
+
+
+### R-Clothing **needs update**
 **Category - `Recipes`**
 **Sub-Category - `R-Clothing`**
 
@@ -718,34 +801,8 @@ Fur-Leather cloak
 Fur-Leather mittens
 ```
 
-## R-Weapons **needs update**
-**Category - `Recipes`**
-**Sub-category - `R-Weapons`**
 
-
-```JSON
-Primitive Spears
-Primitive Stone Tomahawks
-Primitive Hoko Knives
-Primitive Rock Slings
-Primitive Bows And Arrows
-Primitive Short bow
-Primitive Arrows - crude, non-crude
-Primitive Blowguns
-Primitive Lassos?
-Primitive Bolas
-Primitive Throwing/Rabbit Sticks
-Primitive Slingshot
-Primitive Dagger
-Primitive Sword
-Primitive Viking Axe
-Primitive Staff
-Primitive Bat
-Mongol Bow And Arrow
-Atlatls (A.k.a. Spear Throwers)
-```
-
-## R-Containers
+### R-Containers
 **Category - `Recipes`**
 **Sub-Category - `R-Containers`**
 
@@ -757,11 +814,14 @@ Primitive Bucket - Wood, Cord -
 ```
 
 
-## R-Other **needs update**
+### R-Materials
 **Category - `Recipes`**
 **Sub-Category - `R-Materials`**
 
 
+### R-Other **needs update**
+**Category - `Recipes`**
+**Sub-Category - `R-Other`**
 
 *Items:*
 ```JSON
@@ -774,12 +834,19 @@ Glue
 **Sub-Head-Category - `R-Consumables`**
 
 
-### R-Drink **needs update**
+*All Sub Category's:*
+```JSON
+R-Drink
+R-Food
+```
+
+
+#### R-Drink **needs update**
 **Category - `Recipes`**
 **Sub-Category - `R-Drink`**
 
 
-### R-Food **needs update**
+#### R-Food **needs update**
 **Category - `Recipes`**
 **Sub-Category - `R-Food`**
 
@@ -849,3 +916,12 @@ Berry porridge
 Meat soup
 Meat stew
 ```
+
+## R-Vehicles
+**Category `Recipes`**
+**Sub-Head-Category `R-Vehicles`**
+
+
+### R-Vehicle-Parts
+**Category `Recipes`**
+**Sub-Category `R-Vehicle-Parts`**
