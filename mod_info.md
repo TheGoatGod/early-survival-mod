@@ -189,9 +189,8 @@ Ground Cashew
 Honey
 Malt
 Organic Oil
-Sack of Flour
+Flour
 Salt
-Bucket of Sugar juice
 Yeast
 Bread Loaf
 Chicken and Rice
@@ -408,10 +407,10 @@ Primitive Sack
 Hide- to leather process
 leather - final process
 steel
-Cane_sugar
+Cane sugar
 salt
 Brick
-Bucket of Clay
+Clay
 Carbon
 Claystone
 Concrete
@@ -425,7 +424,7 @@ Pearls
 Steel
 Wood Plank
 rubber
-Bucket of Sugarjuice
+Sugar juice
 Cane Sugar
 Cashew Milk
 Fresh Bacon
@@ -435,7 +434,7 @@ Ground Cashew
 Honey
 Malt
 Organic Oil
-Sack of Flour
+Flour
 Salt
 Yeast
 birch-wood
@@ -476,7 +475,7 @@ Spruce tree
 Apiary
 Bakers Oven
 Bonfire
-Bucket
+Primitive_Bucket - wood, cord
 Cauldron
 Cooking Table
 Fermenting Barrel
@@ -748,7 +747,8 @@ Atlatls (A.k.a. Spear Throwers)
 ```JSON
 Glue
 Primitive Backpack
-Primitive Sack
+Primitive Sack - cord,
+Primitive Bucket - wood, cord
 ```
 
 
