@@ -20,11 +20,11 @@ Use the `home` key to get to the top.
   + [Locations](#locations)
   + [Construction](#construction)
 - [Recipes](#recipes)
-  + [Food](#Food)
-  + [Tools](#Tools)
-  + [Clothes](#Clothes)
-  + [Weapons](#Weapons)
-  + [Other](#Other)
+  + [Food](#r-food)
+  + [Tools](#r-tools)
+  + [Clothes](#r-clothes)
+  + [Weapons](#r-weapons)
+  + [Other](#r-other)
 - [Vehicles](#vehicles)
   + [Vehicles_parts](#vehicle_parts)
 
@@ -48,7 +48,7 @@ This is a focused expansion and will be part of a bigger mod that will expand ea
 I want to expand this as much as I can so there is nothing left.
 
 # Features
-
+lots of new items,
 
 # items
 **Category `items`**
@@ -473,7 +473,7 @@ https://primitive.fandom.com/wiki/Category:Cooking_Recipies
 "//": "add all items to recipes
 
 
-## Food
+## R-Food
 **Sub-category - `recipes`**
 
 
@@ -499,7 +499,7 @@ Mushroom soup - mushrooms, water, flour, seasoning - boil
 Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 ```
 
-## Tools
+## R-Tools
 **Sub-category - `recipes`**
 
 
@@ -514,7 +514,7 @@ cordage - cloth, knife - tying equipment
 Wooden stake - wood
 ```
 
-## Clothes
+## R-Clothes
 **Sub-category - `recipes`**
 
 
@@ -553,7 +553,7 @@ Fur-Leather cloak
 Fur-Leather mittens
 ```
 
-## Weapons
+## R-Weapons
 **Sub-category - `recipes`**
 
 
@@ -580,7 +580,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-## Other
+## R-Other
 **Sub-category - `recipes`**
 ```JSON
 Glue
