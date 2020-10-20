@@ -30,12 +30,13 @@ Use the `home` key to get to the top.
     + [Tools](#r-tools)
     + [Weapons](#r-weapons)
     + [Generic](#r-generic)
-    + [Clothing](#r-clothing)
-    + [Armor](#r-armor)
     + [Seeds](#r-seeds)
     + [Containers](#r-containers)
     + [Materials](#r-materials)
     + [Other](#r-other)
+    - [Clothing](#r-clothing)
+      + [Clothes](#r-clothes)
+      + [Armor](#r-armor)
     - [Consumables](#r-consumables)
       + [Drink](#r-drink)
       + [Food](#r-food)
@@ -792,9 +793,46 @@ Atlatls (A.k.a. Spear Throwers)
 **Sub-Category - `R-Generic`**
 
 
+### R-Seeds
+**Category - `Recipes`**
+**Sub-Category - `R-Seeds`**
+
+
+### R-Containers
+**Category - `Recipes`**
+**Sub-Category - `R-Containers`**
+
+*Containers:*
+```JSON
+Primitive Backpack
+Primitive Sack - Cord -
+Primitive Bucket - Wood, Cord -
+```
+
+
+### R-Materials
+**Category - `Recipes`**
+**Sub-Category - `R-Materials`**
+
+
+### R-Other **needs update**
+**Category - `Recipes`**
+**Sub-Category - `R-Other`**
+
+*Items:*
+```JSON
+Glue
+```
+
+
 ### R-Clothing **needs update**
 **Category - `Recipes`**
 **Sub-Category - `R-Clothing`**
+
+
+#### R-Clothes **needs update**
+**Category - `Recipes`**
+**Sub-Category - `R-Clothes`**
 
 
 ```JSON
@@ -833,41 +871,9 @@ Fur-Leather mittens
 ```
 
 
-### R-Armor
+#### R-Armor
 **Category - `Recipes`**
 **Sub-Category - `R-Armor`**
-
-
-### R-Seeds
-**Category - `Recipes`**
-**Sub-Category - `R-Seeds`**
-
-
-### R-Containers
-**Category - `Recipes`**
-**Sub-Category - `R-Containers`**
-
-*Containers:*
-```JSON
-Primitive Backpack
-Primitive Sack - Cord -
-Primitive Bucket - Wood, Cord -
-```
-
-
-### R-Materials
-**Category - `Recipes`**
-**Sub-Category - `R-Materials`**
-
-
-### R-Other **needs update**
-**Category - `Recipes`**
-**Sub-Category - `R-Other`**
-
-*Items:*
-```JSON
-Glue
-```
 
 
 ### R-Consumables
