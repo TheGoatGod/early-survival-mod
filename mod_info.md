@@ -233,50 +233,12 @@ Ringed mushroom
 **Category `Items`**
 **Sub-category - `Generic`**
 
-*Sources:*
-https://primitive.fandom.com/wiki/Consumables
+
+```JSON
+```
 
 *Items:*
 ```JSON
-Bonemeal Fertilizer
-Sleeping fur/pelt
-```
-*bags:*
-```JSON
-Primitive Backpack
-Primitive Sack
-```
-
-
-## seeds
-**Sub-category - `items`**
-
-
-*Sources:*
-https://primitive.fandom.com/wiki/Crops
-https://primitive.fandom.com/wiki/Plant_Species_X_Seed
-
-*Items:*
-```JSON
-Barley Seed - Barley
-Breadfruit Tree (Seed) - Breadfruit
-Camellia (Tea) Seed - Camellia tea
-Cashew Tree (Seed) - Cashew
-Cabbage Seed - Cabbage
-Coffee Seed - Coffee
-Grape Seed - Grape
-Rice Seed - Rice
-Rubber Seed - Rubber
-Sugar Seed - Cane Sugar
-Tea Seed - Tea Leave
-Tobacco Seed - Tobacco
-Tomato Seed - Tomato
-Wheat Seed - Wheat
-- Turnip
-- Pea
-- Broad bean
-- Rye
-- Hemp
 Sleeping fur/pelt
 ```
 
