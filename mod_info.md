@@ -9,15 +9,15 @@ Use the `home` key to get to the top.
 - [Items](#items)
   + [Tools](#tools)
   + [Weapons](#weapons)
-  - [Consumables](#Consumables)
-    + [Drink](#drink)
-    + [Food](#food)
   + [Generic](#generic)
   + [Clothing](#clothing)
   + [Armor](#armor)
   + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
+  - [Consumables](#Consumables)
+    + [Drink](#drink)
+    + [Food](#food)
 - [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
   + [Terrain](#terrain)
   + [Locations](#locations)
@@ -142,129 +142,6 @@ Primitive Viking Axe
 Primitive Staff
 Mongol Bow And Arrow
 Atlatls (A.k.a. Spear Throwers)
-
-
-### Consumables
-**Category `Items`**
-**Sub-category - `Consumables`**
-
-
-### Drink
-**Category `Items`**
-**Sub-category - `Drink`**
-
-
-*Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Consumables
-https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
-```
-
-*Consumables:*
-```JSON
--Juice process step 1
-Blueberries
-Raspberries
-Goji berries
-Strawberries
-Bilberries
-Acai berries
-Cranberries
-Grapes
--Juice process step 2
-Amarberry Juices
-Blueberrie Juices
-Raspberrie Juices
-Goji berrie Juices
-Strawberrie Juices
-Bilberrie Juices
-Acai berrie Juices
-Cranberrie Juices
-Grape Juices
--Juice process step 3
-Blueberrie Juice
-Raspberrie Juice
-Goji berrie Juice
-Strawberrie Juice
-Bilberrie Juice
-Acai berrie Juice
-Cranberrie Juice
-Grape Juice
--
-Sugar juice
-Beer
-Lagar
-Coffee
-Tea
-Moonshine
-Whiskey
-Wine
-```
-
-
-### Food
-**Category `Items`**
-**Sub-category - `Food`**
-
-
-*Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Consumables
-```
-
-*Items:*
-```JSON
-Cane Sugar
-Cashew Milk
-Cured Bacon
-Dried Tea Bag
-Bacon
-Chicken
-Fish Fillet
-Dough
-Spare Ribs
-Ground Cashew
-Honey
-Malt
-Organic Oil
-Flour
-Salt
-Yeast
-Bread Loaf
-Chicken and Rice
-Cooked Bacon
-Cooked Chicken
-Cooked Fish Fillet
-Cooked Spare Ribs
-Fat
-Fillet and Bread
-Prime Salad
-Preserved Berry´s (Jam)
-Flatbread
-Porridge
-Oven porridge
-Seed porridge
-Berry porridge
-Meat soup
-Meat stew
-```
-
-*Mushrooms:*
-```JSON
-Black ear mushroom
-Sand mushroom
-Noaidi's mushroom
-Yellowcoat mushroom
-Browncoat mushroom
-Bearpaw mushroom
-Hairy mushroom
-Redlegger mushroom
-Yellow fingers mushroom
-Tellervo's gift mushroom
-Ukko's mushroom
-Soft mushroom
-Ringed mushroom
-```
 
 
 ## Generic
@@ -465,6 +342,129 @@ Lumber
 Salt
 Steel Ingot
 Fish Bait
+```
+
+
+### Consumables
+**Category `Items`**
+**Sub-category - `Consumables`**
+
+
+### Drink
+**Category `Items`**
+**Sub-category - `Drink`**
+
+
+*Sources:*
+```JSON
+https://primitive.fandom.com/wiki/Consumables
+https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
+```
+
+*Consumables:*
+```JSON
+-Juice process step 1
+Blueberries
+Raspberries
+Goji berries
+Strawberries
+Bilberries
+Acai berries
+Cranberries
+Grapes
+-Juice process step 2
+Amarberry Juices
+Blueberrie Juices
+Raspberrie Juices
+Goji berrie Juices
+Strawberrie Juices
+Bilberrie Juices
+Acai berrie Juices
+Cranberrie Juices
+Grape Juices
+-Juice process step 3
+Blueberrie Juice
+Raspberrie Juice
+Goji berrie Juice
+Strawberrie Juice
+Bilberrie Juice
+Acai berrie Juice
+Cranberrie Juice
+Grape Juice
+-
+Sugar juice
+Beer
+Lagar
+Coffee
+Tea
+Moonshine
+Whiskey
+Wine
+```
+
+
+### Food
+**Category `Items`**
+**Sub-category - `Food`**
+
+
+*Sources:*
+```JSON
+https://primitive.fandom.com/wiki/Consumables
+```
+
+*Items:*
+```JSON
+Cane Sugar
+Cashew Milk
+Cured Bacon
+Dried Tea Bag
+Bacon
+Chicken
+Fish Fillet
+Dough
+Spare Ribs
+Ground Cashew
+Honey
+Malt
+Organic Oil
+Flour
+Salt
+Yeast
+Bread Loaf
+Chicken and Rice
+Cooked Bacon
+Cooked Chicken
+Cooked Fish Fillet
+Cooked Spare Ribs
+Fat
+Fillet and Bread
+Prime Salad
+Preserved Berry´s (Jam)
+Flatbread
+Porridge
+Oven porridge
+Seed porridge
+Berry porridge
+Meat soup
+Meat stew
+```
+
+*Mushrooms:*
+```JSON
+Black ear mushroom
+Sand mushroom
+Noaidi's mushroom
+Yellowcoat mushroom
+Browncoat mushroom
+Bearpaw mushroom
+Hairy mushroom
+Redlegger mushroom
+Yellow fingers mushroom
+Tellervo's gift mushroom
+Ukko's mushroom
+Soft mushroom
+Ringed mushroom
 ```
 
 
