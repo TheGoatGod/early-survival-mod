@@ -513,7 +513,7 @@ Wooden Stairs (2 Levels)
 
 
 ## Locations
-**Category - `Furniture` and `terrain` and `construction`**
+**Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category - `Locations`**
 
 
