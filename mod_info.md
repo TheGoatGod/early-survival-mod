@@ -25,13 +25,22 @@ Use the `home` key to get to the top.
 - [Vehicles](#vehicles)
   + [Vehicles-parts](#vehicle-parts)
 - [Recipes](#recipes)
-  + [Tools](#r-tools)
-  + [Clothes](#r-clothes)
-  + [Weapons](#r-weapons)
-  + [Other](#r-other)
-  - [Consumables](#r-consumables)
-    + [Drink](#drink)
-    + [Food](#r-food)
+  - [Items](#r-items)
+    + [Tools](#r-tools)
+    + [Weapons](#r-weapons)
+    + [Generic](#r-generic)
+    + [Clothing](#r-clothing)
+    + [Armor](#r-armor)
+    + [Seeds](#r-seeds)
+    + [Containers](#r-containers)
+    + [Materials](#r-materials)
+    + [Other](#r-other)
+    - [Consumables](#r-consumables)
+      + [Drink](#drink)
+      + [Food](#r-food)
+  - [Vehicles](#r-Vehicles)
+    + [Vehicle-parts](#r-vehicle-parts)
+
 
 # Sources
 **Category `Sources`**
@@ -761,6 +770,11 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
+### R-Generic
+**Category - `Recipes`**
+**Sub-Category - `R-Generic`**
+
+
 ### R-Clothing **needs update**
 **Category - `Recipes`**
 **Sub-Category - `R-Clothing`**
@@ -800,6 +814,16 @@ Fur-Leather overcoat
 Fur-Leather cloak
 Fur-Leather mittens
 ```
+
+
+### R-Armor
+**Category - `Recipes`**
+**Sub-Category - `R-Armor`**
+
+
+### R-Seeds
+**Category - `Recipes`**
+**Sub-Category - `R-Seeds`**
 
 
 ### R-Containers
@@ -917,9 +941,16 @@ Meat soup
 Meat stew
 ```
 
+
 ## R-Vehicles
 **Category `Recipes`**
 **Sub-Head-Category `R-Vehicles`**
+
+
+*All Sub Category's:*
+```JSON
+R-Vehicle-Parts
+```
 
 
 ### R-Vehicle-Parts
