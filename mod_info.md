@@ -158,6 +158,8 @@ Beer
 Lagar
 Coffee
 Tea
+Moonshine
+Whiskey
 Wine
 ```
 
