@@ -809,6 +809,17 @@ Mongol Bow And Arrow
 Atlatls (A.k.a. Spear Throwers)
 ```
 
+## R-Containers
+**Category - `Recipes`**
+**Sub-category - `R-Containers`**
+
+*Containers:*
+```JSON
+Primitive Backpack
+Primitive Sack - Cord -
+Primitive Bucket - Wood, Cord -
+```
+
 
 ## R-Other **needs update**
 **Category - `Recipes`**
@@ -817,7 +828,4 @@ Atlatls (A.k.a. Spear Throwers)
 *Items:*
 ```JSON
 Glue
-Primitive Backpack
-Primitive Sack - Cord -
-Primitive Bucket - Wood, Cord -
 ```
