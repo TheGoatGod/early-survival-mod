@@ -9,8 +9,9 @@ Use the `home` key to get to the top.
 - [Items](#items)
   + [Tools](#tools)
   + [Weapons](#weapons)
-  + [Drink](#drink)
-  + [Food](#food)
+  - [Consumables](#Consumables)
+    + [Drink](#drink)
+    + [Food](#food)
   + [Generic](#generic)
   + [Clothing](#clothing)
   + [Armor](#armor)
@@ -143,7 +144,12 @@ Mongol Bow And Arrow
 Atlatls (A.k.a. Spear Throwers)
 
 
-## Drink
+### Consumables
+**Category `Items`**
+**Sub-category - `Consumables`**
+
+
+### Drink
 **Category `Items`**
 **Sub-category - `Drink`**
 
@@ -196,7 +202,7 @@ Wine
 ```
 
 
-## Food
+### Food
 **Category `Items`**
 **Sub-category - `Food`**
 
