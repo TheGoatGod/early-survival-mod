@@ -16,7 +16,7 @@ Use the `home` key to get to the top.
   + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
-- [Furniture and terrain construction](#furniture-and-terrain-construction)
+- [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
   + [Terrain](#terrain)
   + [Locations](#locations)
   + [Construction](#construction)
@@ -430,7 +430,7 @@ Fish Bait
 ```
 
 
-# Furniture and terrain and construction
+# Furniture, Terrain and Construction **needs update**
 **Category - `Furniture` and `Terrain` and `Construction`**
 
 
