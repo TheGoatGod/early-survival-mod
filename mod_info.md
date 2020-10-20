@@ -799,8 +799,9 @@ Primitive Bucket - Wood, Cord -
 
 *Vehicles:*
 ```JSON
-Raft
-Log cart
+Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
+Large Raft - 16 Strapped wood, Tying equipment, Large mast, Steering stick attached to steering wood
+Materials Cart - Sticks, Tying equipment
 ```
 
 
@@ -811,6 +812,7 @@ Log cart
 
 *Items:*
 ```JSON
-strapped wood - cordage or leather rope or rope or fibre rope, 2 logs.
-mast - 7 sticks, Sheet.
+strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
+mast - 7 sticks, Sheet
+Large Mast - 1 log, 4 Sheets
 ```
