@@ -14,6 +14,7 @@ Use the `home` key to get to the top.
   + [Clothing](#clothing)
   + [Armor](#armor)
   + [Seeds](#seeds)
+  + [Containers](#containers)
   + [Materials](#materials)
 - [Furniture and terrain construction](#furniture-and-terrain-construction)
   + [Terrain](#terrain)
@@ -310,6 +311,56 @@ Fur-Leather mittens
 
 ## Armor
 **Sub-category - `items`**
+
+
+## Seeds
+
+
+*Sources:*
+```JSON
+https://primitive.fandom.com/wiki/Crops
+https://primitive.fandom.com/wiki/Plant_Species_X_Seed
+```
+
+*Items:*
+```JSON
+Barley Seed - Barley
+Breadfruit Tree (Seed) - Breadfruit
+Camellia (Tea) Seed - Camellia tea
+Cashew Tree (Seed) - Cashew
+Cabbage Seed - Cabbage
+Coffee Seed - Coffee
+Grape Seed - Grape
+Rice Seed - Rice
+Rubber Seed - Rubber
+Sugar Seed - Cane Sugar
+Tea Seed - Tea Leave
+Tobacco Seed - Tobacco
+Tomato Seed - Tomato
+Wheat Seed - Wheat
+Turnip seed - Turnip
+Pea seed - Pea shoot
+Broad Bean - Broad
+Rye seed - Rye
+Hemp seed - Hemp
+```
+
+
+## Containers
+**Category `items`**
+**Category  - `Containers`**
+
+
+*Sources:*
+```JSON
+https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
+```
+
+*Items:*
+```JSON
+Primitive Backpack
+Primitive Sack
+```
 
 
 ## Materials
