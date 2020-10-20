@@ -15,7 +15,7 @@ Use the `home` key to get to the top.
   + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
-  - [Consumables](#Consumables)
+  - [Consumables](#consumables)
     + [Drink](#drink)
     + [Food](#food)
 - [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
