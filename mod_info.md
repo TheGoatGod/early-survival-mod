@@ -65,8 +65,9 @@ https://primitivetechnology.wordpress.com/2018/08/17/iron-prills/
 https://primitivetechnology.wordpress.com/2018/07/17/wood-ash-cement/
 https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
-https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark 
+https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark
 https://greenhell.gamepedia.com/Green_Hell_Wiki <--- pick this to bits
+https://greenhell.fandom.com/wiki/Green_Hell_Wiki
 ```
 
 
