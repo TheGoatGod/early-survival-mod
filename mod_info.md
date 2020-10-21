@@ -174,6 +174,7 @@ Atlatls (A.k.a. Spear Throwers)
 ## Generic
 **Category `Items`**
 **Sub-Category - `Generic`**
+**needs update**
 
 
 *Sources:*
@@ -191,6 +192,7 @@ Sleeping fur/pelt
 ## Seeds
 **Category `Items`**
 **Sub-Category - `Seeds`**
+**needs update**
 
 
 *Sources:*
@@ -244,6 +246,7 @@ Primitive Bucket
 ## Materials
 **Category `Items`**
 **Category  - `Materials`**
+**needs update**
 
 
 *Items:*
@@ -327,6 +330,7 @@ Armor
 **Category `Items`**
 **Sub-Head-Category - `Clothing`**
 **Sub-Category - `Clothes`**
+**needs update**
 
 
 *Leather clothing:*
@@ -386,6 +390,7 @@ Fur-Leather mittens
 **Category `Items`**
 **Sub-Head-Category - `Clothing`**
 **Sub-Category - `Armor`**
+**needs update**
 
 
 ### Consumables
@@ -520,8 +525,11 @@ Ringed mushroom
 ```
 
 
-# Furniture, Terrain and Construction **needs update**
+# Furniture, Terrain and Construction**needs update**
+
 **Category - `Furniture` and `Terrain` and `Construction`**
+**needs update**
+
 
 *All Sub Category's:*
 ```JSON
@@ -531,10 +539,10 @@ Construction
 ```
 
 
-## Terrain **needs update**
+## Terrain
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Terrain`**
-
+**needs update**
 
 *Sources:*
 https://primitive.fandom.com/wiki/Structures
@@ -630,9 +638,10 @@ Wooden Stairs (2 Levels)
 ```
 
 
-## Locations **needs update**
+## Locations
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-Category - `Locations`**
+**needs update**
 
 
 *Sources:*
@@ -651,10 +660,10 @@ Primitive Smoke house
 ```
 
 
-## Construction **needs update**
+## Construction
 **Category - `Furniture` and `Terrain` and `Construction`**
 **Sub-category `Construction`**
-
+**needs update**
 
 *Sources:*
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
@@ -689,8 +698,9 @@ Wooden Stairs (2 Levels)
 ```
 
 
-# Vehicles **needs update**
+# Vehicles
 **Category - `Vehicles`**
+**needs update**
 
 
 *All Sub Category's:*
@@ -714,6 +724,7 @@ Materials Cart - Sticks, Tying equipment
 
 # Recipes
 **Category - `Recipes`**
+**needs update**
 
 
 *Items:*
@@ -815,9 +826,11 @@ Primitive Bucket - Wood, Cord -
 **Sub-Category - `R-Materials`**
 
 
-### R-Other **needs update**
+### R-Other
 **Category - `Recipes`**
 **Sub-Category - `R-Other`**
+**needs update**
+
 
 *Items:*
 ```JSON
@@ -825,14 +838,15 @@ Glue
 ```
 
 
-### R-Clothing **needs update**
+### R-Clothing
 **Category - `Recipes`**
-**Sub-Category - `R-Clothing`**
+**needs update**
 
 
-#### R-Clothes **needs update**
+#### R-Clothes
 **Category - `Recipes`**
 **Sub-Category - `R-Clothes`**
+**needs update**
 
 
 ```JSON
@@ -879,6 +893,7 @@ Fur-Leather mittens
 ### R-Consumables
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
+**needs update**
 
 
 *All Sub Category's:*
@@ -888,12 +903,12 @@ R-Food
 ```
 
 
-#### R-Drink **needs update**
+#### R-Drink
 **Category - `Recipes`**
 **Sub-Category - `R-Drink`**
 
 
-#### R-Food **needs update**
+#### R-Food
 **Category - `Recipes`**
 **Sub-Category - `R-Food`**
 
