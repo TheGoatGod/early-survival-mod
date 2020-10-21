@@ -21,6 +21,7 @@ Use the `home` key to get to the top.
     + [Clothes](#clothes)
     + [Armor](#armor)
   - [Comestibles](#comestibles)
+    + [Raw-Fruit](#raw-Fruit)
     + [Drink](#drink)
     + [Food](#food)
     + [Mushrooms](#mushrooms)
@@ -146,6 +147,16 @@ rubber
 leather_belt - Leather belt
 dress_shoes -  Leather shoes
 ```
+
+*Raw-Fruit:*
+```JSON
+Blueberries
+Raspberries
+Strawberries
+Cranberries
+Grapes
+```
+
 
 # Items
 **Head-Category -** [Items](#items)
@@ -368,9 +379,23 @@ Fur-Leather cuirass
 
 
 *All Sub Category's:*\
+[Raw-Fruit](#raw-Fruit)\
 [Drink](#drink)\
 [Food](#food)\
 [Seeds](#seeds)
+
+
+## Raw-Fruit
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
+**Sub-Category -** [Raw-Fruit](#raw-Fruit)
+
+*Raw-Fruit:*
+```JSON
+Goji berries
+Bilberries
+Acai berries
+```
 
 
 ## Drink
