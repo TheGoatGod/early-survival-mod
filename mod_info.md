@@ -300,6 +300,7 @@ Coal
 Leather cap
 Leather shirt
 Leather leggings
+Leather overcoat
 ```
 
 *Fur clothing:*
