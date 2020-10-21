@@ -133,6 +133,14 @@ seed_tomato - Tomato Seed - Tomato
 seed_wheat - Wheat Seed - Wheat
 ```
 
+*Materials:*
+```JSON
+leather
+Clay
+rubber
+```
+
+
 # Items
 **Head-Category -** [Items](#items)
 
@@ -281,66 +289,12 @@ Primitive Canteen
 
 *Items:*
 ```JSON
----- to be looked through to be added
-Hide- to leather process
-leather - final process
-steel
-Cane sugar
-salt
-Brick
-Clay
-Carbon
 Claystone
-Concrete
-Dry Firewood
-Fresh Firewood
-Fresh Cement
-Glass
-Leather
 Limestone
-Pearls
-Steel
-Wood Plank
-rubber
-Sugar juice
-Cane Sugar
-Cashew Milk
-Fresh Bacon
-Fresh Dough
-Fresh Spare Ribs
-Ground Cashew
-Honey
+Thatch
 Malt
 Organic Oil
-Flour
-Salt
-Yeast
-birch-wood
-sprouce-wood
-Thatch
-```
-```JSON
-Bonemeal Fertilizer
-Brick
-Carbon
-Clay
-Claystone
 Coal
-Crude Oil
-Dry Firewood
-Feathers
-Fish Bait
-Fresh Cement
-Fresh Firewood
-Glass
-Iron
-Iron Ingot
-Leather
-Limestone
-Lumber
-Salt
-Steel Ingot
-Fish Bait
 ```
 
 
