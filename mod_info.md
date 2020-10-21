@@ -123,18 +123,6 @@ slingshot - Primitive Slingshot
 Glue
 ```
 
-*Seeds:*
-```JSON
-seed_barley - Barley Seed - Barley
-seed_cabbage - Cabbage Seed - Cabbage
-coffee_pod - Coffee Bean - Coffee
-seed_grapes - Grape Seed - Grape
-seed_sugar_beet - Sugar Seed - Cane Sugar
-seed_tobacco - Tobacco Seed - Tobacco
-seed_tomato - Tomato Seed - Tomato
-seed_wheat - Wheat Seed - Wheat
-```
-
 *Materials:*
 ```JSON
 leather
@@ -162,6 +150,17 @@ Grapes
 soup_meat - Meat soup
 ```
 
+*Seeds:*
+```JSON
+seed_barley - Barley Seed - Barley
+seed_cabbage - Cabbage Seed - Cabbage
+coffee_pod - Coffee Bean - Coffee
+seed_grapes - Grape Seed - Grape
+seed_sugar_beet - Sugar Seed - Cane Sugar
+seed_tobacco - Tobacco Seed - Tobacco
+seed_tomato - Tomato Seed - Tomato
+seed_wheat - Wheat Seed - Wheat
+```
 
 # Items
 **Head-Category -** [Items](#items)
