@@ -83,8 +83,8 @@ https://greenhell.fandom.com/wiki/Green_Hell_Wiki
 - [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
 - [ ] Remove unwanted `Recipes`\
 - [ ] Add `More_tea_leaf` mod\
-- [ ] Add `Rice` mod
-
+- [ ] Add `Rice` mod\
+- [ ] Add new construction method for building `Sticks`
 
 
 # Introduction
@@ -325,6 +325,7 @@ Thatch
 **Sub-Category -** [Clothes](#clothes)\
 **needs update**
 
+
 *Cloth Clothing:*
 ```JSON
 Cloth Cap
@@ -485,7 +486,7 @@ Meat stew
 ## Mushrooms
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Comestibles](#comestibles)\
-**Sub-Category -** [Mushrooms](#mushrooms)
+**Sub-Category -** [Mushrooms](#mushrooms)\
 **needs updated to be added**
 
 
