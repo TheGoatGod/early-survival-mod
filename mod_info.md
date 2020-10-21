@@ -719,7 +719,6 @@ Weapon Rack
 *All Sub Category's:*\
 [Vehicle-Parts](#vehicle-parts)
 
-
 *Vehicles:*
 ```JSON
 Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
@@ -884,6 +883,7 @@ Primitive Bucket - Wood, Cord -
 Primitive Backpack
 ```
 
+
 ## R-Materials
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
@@ -903,7 +903,6 @@ Primitive Backpack
 *All Sub Category's:*\
 [Clothes](#r-clothes)\
 [Armor](#r-armor)
-
 
 
 ## R-Clothes
@@ -986,7 +985,6 @@ Fur-Leather mittens
 *All Sub Category's:*\
 [Drink](#r-drink)\
 [Food](#r-food)
-
 
 
 ## R-Drink
