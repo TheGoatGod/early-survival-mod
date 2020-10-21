@@ -10,6 +10,7 @@ Use the `home` key to get to the top.
 - [To-do](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
+- [Vanilla-Code](#vanilla-code)
 - [Items](#items)
   + [Tools](#tools)
   + [Weapons](#weapons)
@@ -69,7 +70,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 - [x] Fix `Recipes` to contain all items and `Vehicle-Parts`\
-- [ ] Make `Vanilla` Category\
+- [x] Make `Vanilla` Category\
 - [ ] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
 - [ ] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
 - [ ] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
@@ -91,6 +92,11 @@ I want to expand this as much as I can so there is nothing left.
 ```JSON
 lots of new items,
 ```
+
+
+# Vanilla-Code
+**Head-Category -** [Vanilla-Code](#vanilla-code)
+
 
 # Items
 **Head-Category -** [Items](#items)
