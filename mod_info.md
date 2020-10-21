@@ -462,7 +462,7 @@ Cooked Spare Ribs
 Fat
 Fillet and Bread
 Prime Salad
-Preserved Berry´s (Jam)
+Preserved Jam
 Flatbread
 Porridge
 Oven porridge
@@ -513,16 +513,18 @@ https://primitive.fandom.com/wiki/Plant_Species_X_Seed
 *Items:*
 ```JSON
 
-Breadfruit Tree (Seed) - Breadfruit
-Camellia (Tea) Seed - Camellia tea
-Cashew Tree (Seed) - Cashew
+Breadfruit Seed - Breadfruit
+Cashew Seed - Cashew Nut
 Rice Seed - Rice
 Rubber Seed - Rubber
 Turnip seed - Turnip
 Pea seed - Pea shoot
-Broad Bean - Broad
+Broad seed - Broad Bean
 Rye seed - Rye
 Hemp seed - Hemp
+Goji seed - Goji berries
+Bilberries seed - Bilberries
+Acai seed - Acai berries
 ```
 
 
