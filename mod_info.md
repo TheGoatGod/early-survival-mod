@@ -15,7 +15,6 @@ Use the `home` key to get to the top.
   + [Tools](#tools)
   + [Weapons](#weapons)
   + [Generic](#generic)
-  + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
   - [Clothing](#clothing)
@@ -24,6 +23,8 @@ Use the `home` key to get to the top.
   - [Comestibles](#comestibles)
     + [Drink](#drink)
     + [Food](#food)
+    + [Mushrooms](#mushrooms)
+    + [Seeds](#seeds)
   - [Resources](#resources)
 - [Furniture and Terrain](#furniture-and-terrain)
   + [Terrain](#terrain)
@@ -383,8 +384,8 @@ Fur-Leather mittens
 
 *All Sub Category's:*\
 [Drink](#drink)\
-[Food](#food)
-
+[Food](#food)\
+[Seeds](#seeds)
 
 
 ## Drink
@@ -491,7 +492,15 @@ Meat soup
 Meat stew
 ```
 
-*Mushrooms:* **needs updated to be added**
+
+## Mushrooms
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
+**Sub-Category -** [Mushrooms](#mushrooms)
+**needs updated to be added**
+
+
+*Mushrooms:*
 ```JSON
 Black ear mushroom
 Sand mushroom
@@ -506,6 +515,34 @@ Tellervo's gift mushroom
 Ukko's mushroom
 Soft mushroom
 Ringed mushroom
+```
+
+
+## Seeds
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
+**Sub-Category -** [Seeds](#seeds)
+
+
+*Sources:*
+```JSON
+https://primitive.fandom.com/wiki/Crops
+https://primitive.fandom.com/wiki/Plant_Species_X_Seed
+```
+
+*Items:*
+```JSON
+
+Breadfruit Tree (Seed) - Breadfruit
+Camellia (Tea) Seed - Camellia tea
+Cashew Tree (Seed) - Cashew
+Rice Seed - Rice
+Rubber Seed - Rubber
+Turnip seed - Turnip
+Pea seed - Pea shoot
+Broad Bean - Broad
+Rye seed - Rye
+Hemp seed - Hemp
 ```
 
 
