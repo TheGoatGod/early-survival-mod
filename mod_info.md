@@ -501,13 +501,20 @@ https://primitive.fandom.com/wiki/Plant_Species_X_Seed
 
 *Items:*
 ```JSON
+Lingonberry Seed - Lingonberry
+Cranberry Seed - Cranberry
+Bilberry Seed - Bilberry
+Cloudberry Seed - Cloudberry
+Crowberry Seed - Crowberry
+Black-currant Seed - Black-currant
 Breadfruit Seed - Breadfruit
 Cashew Seed - Cashew Nut
 Rice Seed - Rice
 Rubber Seed - Rubber
 Turnip seed - Turnip
+Swede seed - Swede
 Pea seed - Pea shoot
-Broad seed - Broad Bean
+Broad Bean seed - Broad Bean
 Rye seed - Rye
 Hemp seed - Hemp
 Goji seed - Goji berries
