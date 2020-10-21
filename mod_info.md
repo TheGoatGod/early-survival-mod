@@ -76,7 +76,10 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 - [ ] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
 - [ ] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
 - [ ] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
-- [ ] Remove unwanted `Recipes`
+- [ ] Remove unwanted `Recipes`\
+- [ ] Add `More_tea_leaf` mod\
+- [ ] Add `Rice` mod
+
 
 
 # Introduction
