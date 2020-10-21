@@ -732,9 +732,10 @@ Materials Cart - Sticks, Tying equipment
 
 *Items:*
 ```JSON
-strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
-mast - 7 sticks, Sheet
-Large Mast - 1 log, 4 Sheets
+Strapped wood
+Mast
+Large Mast
+Steering stick attached to steering wood
 ```
 
 
@@ -773,18 +774,16 @@ Large Mast - 1 log, 4 Sheets
 
 *TODO:*
 ```JSON
-1. add `Tools` from `Items` Category
 ```
-
 
 ```JSON
 Birch-bark box  - birch-bark, knife
 Birch-bark basket - birch-bark, knife
-Birch-bark rope - birch-bark, knife, water - tying equipment
-Birch withe - birch-wood, knife - tying equipment
-Spruce withe - birch-wood, knife - tying equipment
-Leather Rope - knife, water, leather - tying equipment
-cordage - cloth, knife - tying equipment
+Birch-bark rope - birch-bark, knife, water - (tying equipment)
+Birch withe - Birch-wood, knife - (tying equipment)
+Spruce withe - Spruce-wood, knife - (tying equipment)
+Leather Rope - knife, water, leather - (tying equipment)
+cordage - cloth, knife - (tying equipment)
 Wooden stake - wood
 ```
 
@@ -794,6 +793,7 @@ Wooden stake - wood
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Weapons](#r-weapons)\
 **needs update**
+
 
 ```JSON
 Primitive Spears
@@ -832,7 +832,6 @@ Atlatls (A.k.a. Spear Throwers)
 
 *Unfinished-Items:*
 ```JSON
-1. add `Seeds` from `Items` Category
 ```
 
 
@@ -840,6 +839,8 @@ Atlatls (A.k.a. Spear Throwers)
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Containers](#r-containers)
+
+
 
 *Containers:*
 ```JSON
@@ -857,7 +858,6 @@ Primitive Bucket - Wood, Cord -
 
 *TODO:*
 ```JSON
-1. add `Materials` from `Items` Category
 ```
 
 **Head-Category -** [Recipes](#recipes)\
@@ -1069,5 +1069,4 @@ Meat stew
 
 *TODO:*
 ```JSON
-1. add `Vehicle-parts` from `Vehicles` Category
 ```
