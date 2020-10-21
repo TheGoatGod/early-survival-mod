@@ -876,6 +876,7 @@ Glue
 **needs update**
 
 
+*Leather clothing:*
 ```JSON
 Leather belt
 Leather cap
@@ -885,6 +886,10 @@ Leather shoes
 Leather forearm guards
 Leather shin guards
 Leather cuirass
+```
+
+*Fur clothing:*
+```JSON
 Fur cap
 Fur shirt
 Fur mittens
@@ -893,10 +898,22 @@ Fur hood
 Fur shoes
 Fur cloak
 Fur overcoat
+```
+
+*Birch-bark:*
+```JSON
 Birch-bark shoes
 Birch-bark cap
+```
+
+*Source-bark:*
+```JSON
 Source-bark shoes
 Source-bark cap
+```
+
+*Combination clothes:*
+```JSON
 Fur-Leather
 Fur-Leather belt
 Fur-Leather cap
