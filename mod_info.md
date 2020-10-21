@@ -3,7 +3,7 @@
 Use the `home` key to get to the top.
 
 - [Sources](#sources)
-- [To do](#to-do)
+- [To-do](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Items](#items)
@@ -62,12 +62,15 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 ```
 
 
-#To do
-**Category `TO-DO`**
+# To-do
+**Category `To-do`**
+
 
 ```JSON
 1. fix what needs updated
 ```
+
+
 # Introduction
 **Category `Introduction`**
 
@@ -528,7 +531,7 @@ Ringed mushroom
 ```
 
 
-# Furniture, Terrain and Construction**needs update**
+# Furniture, Terrain and Construction
 
 **Category - `Furniture` and `Terrain` and `Construction`**
 **needs update**
@@ -720,9 +723,10 @@ Materials Cart - Sticks, Tying equipment
 ```
 
 
-## Vehicle-parts **needs update**
+## Vehicle-parts
 **Category - `Vehicles`**
 **Sub-Category - `Vehicle-parts`**
+**needs update**
 
 
 *Items:*
@@ -789,10 +793,10 @@ Wooden stake - wood
 ```
 
 
-### R-Weapons **needs update**
+### R-Weapons
 **Category - `Recipes`**
 **Sub-Category - `R-Weapons`**
-
+**needs update**
 
 ```JSON
 Primitive Spears
@@ -992,9 +996,9 @@ R-Food
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
 **Sub-Category - `R-Food`**
-
-
 **update needed**
+
+
 *TODO:*
 ```JSON
 1. unfinished food
