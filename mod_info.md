@@ -1,6 +1,10 @@
-# Primitive Survival mod construction
+###### Primitive Survival mod construction
+
 
 Use the `home` key to get to the top.
+
+# Category's
+
 
 - [Sources](#sources)
 - [To-do](#to-do)
@@ -114,7 +118,7 @@ lots of new items,
 
 
 ## Tools
-**Head-Category -** [Items](#items)
+**Head-Category -** [Items](#items)\
 **Sub-Category -** [Tools](#tools)
 
 
@@ -150,7 +154,7 @@ Primitive Ski Sticks
 
 
 ## Weapons
-**Head-Category -** [Items](#items)
+**Head-Category -** [Items](#items)\
 **Sub-Category -** [Weapons](#weapons)
 
 
@@ -183,8 +187,8 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 ## Generic
-**Head-Category -** [Items](#items)
-**Sub-Category -** [Generic](#generic)
+**Head-Category -** [Items](#items)\
+**Sub-Category -** [Generic](#generic)\
 **needs update**
 
 
@@ -201,8 +205,8 @@ Sleeping fur/pelt
 
 
 ## Seeds
-**Head-Category -** [Items](#items)
-**Sub-Category -** [Seeds](#seeds)
+**Head-Category -** [Items](#items)\
+**Sub-Category -** [Seeds](#seeds)\
 **needs update**
 
 
@@ -237,7 +241,7 @@ Hemp seed - Hemp
 
 
 ## Containers
-**Head-Category -** [Items](#items)
+**Head-Category -** [Items](#items)\
 **Sub-Category  -** [Containers](#containers)
 
 
@@ -255,8 +259,8 @@ Primitive Bucket
 
 
 ## Materials
-**Head-Category -** [Items](#items)
-**Sub-Category  -** [Materials](#materials)
+**Head-Category -** [Items](#items)\
+**Sub-Category  -** [Materials](#materials)\
 **needs update**
 
 
@@ -326,7 +330,7 @@ Fish Bait
 
 
 # Clothing
-**Head-Category -** [Items](#items)
+**Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)
 
 
@@ -337,9 +341,9 @@ Fish Bait
 
 
 ## Clothes
-**Head-Category -** [Items](#items)
-**Sub-Head-Category -** [Clothing](#clothing)
-**Sub-Category - `Clothes`** [Clothes](#clothes)
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Clothing](#clothing)\
+**Sub-Category -** [Clothes](#clothes)\
 **needs update**
 
 
@@ -397,14 +401,14 @@ Fur-Leather mittens
 
 
 ## Armor
-**Head-Category -** [Items](#items)
-**Sub-Head-Category -** [Clothing](#clothing)
-**Sub-Category -** [Armor](#armor)
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Clothing](#clothing)\
+**Sub-Category -** [Armor](#armor)\
 **needs update**
 
 
 # Consumables
-**Head-Category -** [Items](#items)
+**Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Consumables](#consumables)
 
 
@@ -415,8 +419,8 @@ Fur-Leather mittens
 
 
 ## Drink
-**Head-Category -** [Items](#items)
-**Sub-Head-Category -** [Consumables](#consumables)
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Consumables](#consumables)\
 **Sub-Category -** [Drink](#drink)
 
 
@@ -470,8 +474,8 @@ Mushroom tea
 
 
 ## Food
-**Head-Category -** [Items](#items)
-**Sub-Head-Category -** [Consumables](#consumables)
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Consumables](#consumables)\
 **Sub-Category -** [Food](#food)
 
 //note - add names to the different category's of food e.g. `mushroom`
@@ -537,8 +541,7 @@ Ringed mushroom
 
 
 # Furniture and Terrain
-
-**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
 **needs update**
 
 
@@ -549,8 +552,8 @@ Ringed mushroom
 
 
 ## Terrain
-**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
-**Sub-category -** [Terrain](#terrain)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
+**Sub-category -** [Terrain](#terrain)\
 **needs update**
 
 *Sources:*
@@ -648,8 +651,8 @@ Wooden Stairs (2 Levels)
 
 
 ## Locations
-**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
-**Sub-Category -** [Locations](#locations)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
+**Sub-Category -** [Locations](#locations)\
 **needs update**
 
 
@@ -670,7 +673,7 @@ Primitive Smoke house
 
 
 # Construction
-**Head-Category -** [Construction](#construction)
+**Head-Category -** [Construction](#construction)\
 **needs update**
 
 *Sources:*
@@ -707,7 +710,7 @@ Wooden Stairs (2 Levels)
 
 
 # Vehicles
-**Head-Category -** [Vehicles](#vehicles)
+**Head-Category -** [Vehicles](#vehicles)\
 **needs update**
 
 
@@ -724,8 +727,8 @@ Materials Cart - Sticks, Tying equipment
 
 
 ## Vehicle-parts
-**Head-Category -** [Vehicles](#vehicles)
-**Sub-Category -** [Vehicles-parts](#vehicle-parts)
+**Head-Category -** [Vehicles](#vehicles)\
+**Sub-Category -** [Vehicles-parts](#vehicle-parts)\
 **needs update**
 
 
@@ -738,7 +741,7 @@ Large Mast - 1 log, 4 Sheets
 
 
 # Recipes
-**Head-Category -** [Recipes](#recipes)
+**Head-Category -** [Recipes](#recipes)\
 **needs update**
 
 
@@ -750,7 +753,7 @@ Large Mast - 1 log, 4 Sheets
 
 
 ## R-Items
-**Head-Category -** [Recipes](#recipes)
+**Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)
 
 
@@ -767,8 +770,8 @@ Large Mast - 1 log, 4 Sheets
 
 
 ## R-Tools
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Tools](#r-tools)
 
 
@@ -791,9 +794,9 @@ Wooden stake - wood
 
 
 ## R-Weapons
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category -** [Weapons](#r-weapons)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category -** [Weapons](#r-weapons)\
 **needs update**
 
 ```JSON
@@ -820,8 +823,8 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Generic
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Generic](#r-generic)
 
 
@@ -832,8 +835,8 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Seeds
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Seeds](#r-seeds)
 
 
@@ -844,8 +847,8 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Containers
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Containers](#r-containers)
 
 *Containers:*
@@ -857,8 +860,8 @@ Primitive Bucket - Wood, Cord -
 
 
 ## R-Materials
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Materials](#r-materials)
 
 
@@ -869,9 +872,9 @@ Primitive Bucket - Wood, Cord -
 
 
 ## R-Other
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category -** [Other](#r-other
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category -** [Other](#r-other)\
 **needs update**
 
 
@@ -882,9 +885,9 @@ Glue
 
 
 # R-Clothing
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Clothing](#r-clothing)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Clothing](#r-clothing)\
 **needs update**
 
 
@@ -895,10 +898,10 @@ Glue
 
 
 ## R-Clothes
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Clothing](#r-clothing)
-**Sub-Category -** [Clothes](#r-clothes)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Clothing](#r-clothing)\
+**Sub-Category -** [Clothes](#r-clothes)\
 **needs update**
 
 
@@ -956,9 +959,9 @@ Fur-Leather mittens
 
 
 ## R-Armor
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Clothing](#r-clothing)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Clothing](#r-clothing)\
 **Sub-Category -** [Armor](#r-armor)
 
 
@@ -969,9 +972,9 @@ Fur-Leather mittens
 
 
 # R-Consumables
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Consumables](#r-consumables)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Consumables](#r-consumables)\
 **needs update**
 
 
@@ -982,9 +985,9 @@ Fur-Leather mittens
 
 
 ## R-Drink
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Consumables](#r-consumables)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Consumables](#r-consumables)\
 **Sub-Category -** [Drink](#r-drink)
 
 
@@ -999,10 +1002,10 @@ Fur-Leather mittens
 
 
 ## R-Food
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Items](#r-items)
-**Sub-Category-Header -** [Consumables](#r-consumables)
-**Sub-Category -** [Food](#r-food)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category-Header -** [Consumables](#r-consumables)\
+**Sub-Category -** [Food](#r-food)\
 **update needed**
 
 
@@ -1068,7 +1071,7 @@ Meat stew
 
 
 # R-Vehicles
-**Head-Category -** [Recipes](#recipes)
+**Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)
 
 
@@ -1077,8 +1080,8 @@ Meat stew
 
 
 ## R-Vehicle-Parts
-**Head-Category -** [Recipes](#recipes)
-**Sub-Head-Category -** [Vehicles](#r-Vehicles)
+**Head-Category -** [Recipes](#recipes)\
+**Sub-Head-Category -** [Vehicles](#r-Vehicles)\
 **Sub-Category -** [Vehicle-parts](#r-vehicle-parts)
 
 
