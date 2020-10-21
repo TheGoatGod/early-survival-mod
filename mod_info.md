@@ -476,7 +476,7 @@ Mushroom tea
 
 ## Food
 **Head-Category -** [Items](#items)\
-**Sub-Head-Category -** [Consumables](#consumables)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
 **Sub-Category -** [Food](#food)
 
 //note - add names to the different category's of food e.g. `mushroom`
