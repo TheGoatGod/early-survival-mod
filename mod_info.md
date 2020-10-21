@@ -874,13 +874,14 @@ Sleeping fur/pelt
 
 *Containers:*
 ```JSON
-Primitive Sack - Cord -
+Primitive Backpack - Primitive Sack, Cord - bone awl
+Primitive Sack - Cord - Bone awl
 Primitive Bucket - Wood, Cord -
 ```
 
 *Unfinished-Containers:*
 ```JSON
-Primitive Backpack
+Primitive Canteen
 ```
 
 
