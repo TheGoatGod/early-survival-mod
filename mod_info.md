@@ -19,10 +19,10 @@ Use the `home` key to get to the top.
   - [Consumables](#consumables)
     + [Drink](#drink)
     + [Food](#food)
-- [Furniture, Terrain and Construction](#furniture,-terrain-and-construction)
+- [Furniture and Terrain](#furniture-and-terrain)
   + [Terrain](#terrain)
   + [Locations](#locations)
-  + [Construction](#construction)
+- [Construction](#construction)
 - [Vehicles](#vehicles)
   + [Vehicles-parts](#vehicle-parts)
 - [Recipes](#recipes)
@@ -536,9 +536,9 @@ Ringed mushroom
 ```
 
 
-# Furniture, Terrain and Construction
+# Furniture and Terrain
 
-**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
 **needs update**
 
 
@@ -549,7 +549,7 @@ Ringed mushroom
 
 
 ## Terrain
-**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
 **Sub-category -** [Terrain](#terrain)
 **needs update**
 
@@ -648,7 +648,7 @@ Wooden Stairs (2 Levels)
 
 
 ## Locations
-**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
 **Sub-Category -** [Locations](#locations)
 **needs update**
 
@@ -669,9 +669,8 @@ Primitive Smoke house
 ```
 
 
-## Construction
-**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
-**Sub-category -** [Construction](#construction)
+# Construction
+**Head-Category -** [Construction](#construction)
 **needs update**
 
 *Sources:*
