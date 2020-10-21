@@ -190,6 +190,9 @@ Atlatls (A.k.a. Spear Throwers)
 **needs update**
 
 
+*TODO:*
+- [ ] Add more `Fertilizer`
+
 *Sources:*
 ```JSON
 ```
