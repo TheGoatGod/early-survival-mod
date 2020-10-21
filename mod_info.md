@@ -67,7 +67,18 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 ```JSON
-1. fix what needs updated
+- [ ] fix what needs updated
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 ```
 
 
@@ -93,14 +104,14 @@ lots of new items,
 
 *All Sub Category's:*
 
-[Tools](#tools)\n
-[Weapons](#weapons)\n
-[Generic](#generic)\n
-[Seeds](#seeds)\n
-[Containers](#containers)\n
-[Materials](#materials)\n
-[Clothing](#clothing)\n
-[Consumables](#consumables)\n
+[Tools](#tools)
+[Weapons](#weapons)
+[Generic](#generic)
+[Seeds](#seeds)
+[Containers](#containers)
+[Materials](#materials)
+[Clothing](#clothing)
+[Consumables](#consumables)
 
 
 ## Tools
