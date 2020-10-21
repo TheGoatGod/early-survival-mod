@@ -28,7 +28,7 @@ Use the `home` key to get to the top.
   + [Locations](#locations)
 - [Construction](#construction)
 - [Vehicles](#vehicles)
-  + [Vehicles-parts](#vehicle-parts)
+  + [Vehicle-Parts](#vehicle-parts)
 - [Recipes](#recipes)
   - [Items](#r-items)
     + [Tools](#r-tools)
@@ -43,7 +43,7 @@ Use the `home` key to get to the top.
       + [Drink](#r-drink)
       + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
-    + [Vehicle-parts](#r-vehicle-parts)
+    + [Vehicle-Parts](#r-vehicle-parts)
 
 
 # Sources
@@ -68,7 +68,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 **Head-Category -** [To-do](#to-do)
 
 
-- [x] Fix `Recipes` to contain all items and `vehicle-parts`\
+- [x] Fix `Recipes` to contain all items and `Vehicle-Parts`\
 - [ ] Make `Vanilla` Category\
 - [ ] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
 - [ ] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
@@ -705,7 +705,7 @@ Wooden Stairs (2 Levels)
 
 
 *All Sub Category's:*\
-[Vehicles-parts](#vehicle-parts)
+[Vehicle-Parts](#vehicle-parts)
 
 
 *Vehicles:*
@@ -716,9 +716,9 @@ Materials Cart - Sticks, Tying equipment
 ```
 
 
-## Vehicle-parts
+## Vehicle-Parts
 **Head-Category -** [Vehicles](#vehicles)\
-**Sub-Category -** [Vehicles-parts](#vehicle-parts)\
+**Sub-Category -** [Vehicle-Parts](#vehicle-parts)\
 **needs update**
 
 
@@ -1112,17 +1112,17 @@ Meat stew
 
 
 *All Sub Category's:*\
-[Vehicle-parts](#r-vehicle-parts)
+[Vehicle-Parts](#r-vehicle-parts)
 
 
 ## R-Vehicle-Parts
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)\
-**Sub-Category -** [Vehicle-parts](#r-vehicle-parts)
+**Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)
 
 
 *TODO:*\
-- [x] add `Vehicle-parts` from `Vehicles` Category\
+- [x] add `Vehicle-Parts` from `Vehicles` Category\
 - [x] add `Unfinished-Items` to `Items`
 
 *Items:*
