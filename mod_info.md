@@ -93,14 +93,14 @@ lots of new items,
 
 *All Sub Category's:*
 
-[Tools](#tools)
-[Weapons](#weapons)
-[Generic](#generic)
-[Seeds](#seeds)
-[Containers](#containers)
-[Materials](#materials)
-[Clothing](#clothing)
-[Consumables](#consumables)
+[Tools](#tools)\n
+[Weapons](#weapons)\n
+[Generic](#generic)\n
+[Seeds](#seeds)\n
+[Containers](#containers)\n
+[Materials](#materials)\n
+[Clothing](#clothing)\n
+[Consumables](#consumables)\n
 
 
 ## Tools
