@@ -3,6 +3,7 @@
 
 Use the `home` key to get to the top.
 
+
 # Category's
 
 
@@ -94,6 +95,7 @@ This is a focused expansion and will be part of a bigger mod that will expand ea
 I want to expand this as much as I can so there is nothing left.
 ```
 
+
 # Features
 **Head-Category -** [Features](#features)
 
@@ -105,6 +107,7 @@ lots of new items,
 
 # Vanilla-Code
 **Head-Category -** [Vanilla-Code](#vanilla-code)
+
 
 *Tools:*
 ```JSON
@@ -245,6 +248,7 @@ Primitive Staff
 Mongol Bow And Arrows
 Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
+
 
 ## Generic
 **Head-Category -** [Items](#items)\
@@ -417,6 +421,7 @@ Fur-Leather cuirass
 **Sub-Head-Category -** [Comestibles](#comestibles)\
 **Sub-Category -** [Raw-Fruit](#raw-Fruit)
 
+
 *Raw-Fruit:*
 ```JSON
 Goji berries
@@ -482,6 +487,7 @@ Meat stew
 **Sub-Category -** [Mushrooms](#mushrooms)
 **needs updated to be added**
 
+
 *Sources:*
 ```JSON
 https://en.wikipedia.org/wiki/Edible_mushroom
@@ -545,6 +551,7 @@ Acai seed - Acai berries
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Resources](#resources)
 
+
 *Wood:*
 ```JSON
 Firewood
@@ -565,6 +572,7 @@ Firewood
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
 **Sub-category -** [Terrain](#terrain)\
 **needs update**
+
 
 *Sources:*
 ```JSON
@@ -595,7 +603,6 @@ Stone Window
 Stone Wall
 Stone Roof
 ```
-
 
 *Mushrooms:* **needs proper naming to be included**
 https://en.wikipedia.org/wiki/Edible_mushroom
@@ -684,6 +691,7 @@ Primitive Smoke house
 # Construction
 **Head-Category -** [Construction](#construction)\
 **needs update**
+
 
 *Sources:*
 ```JSON
