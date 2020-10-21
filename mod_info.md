@@ -21,7 +21,7 @@ Use the `home` key to get to the top.
   - [Clothing](#clothing)
     + [Clothes](#clothes)
     + [Armor](#armor)
-  - [Consumables](#consumables)
+  - [Comestibles](#comestibles)
     + [Drink](#drink)
     + [Food](#food)
 - [Furniture and Terrain](#furniture-and-terrain)
@@ -40,7 +40,7 @@ Use the `home` key to get to the top.
     - [Clothing](#r-clothing)
       + [Clothes](#r-clothes)
       + [Armor](#r-armor)
-    - [Consumables](#r-consumables)
+    - [Comestibles](#r-comestibles)
       + [Drink](#r-drink)
       + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
@@ -118,7 +118,7 @@ awl_bone - Primitive Bone Awl
 [Containers](#containers)\
 [Materials](#materials)\
 [Clothing](#clothing)\
-[Consumables](#consumables)
+[Comestibles](#comestibles)
 
 
 ## Tools
@@ -406,9 +406,9 @@ Fur-Leather mittens
 **needs update**
 
 
-# Consumables
+# Comestibles
 **Head-Category -** [Items](#items)\
-**Sub-Head-Category -** [Consumables](#consumables)
+**Sub-Head-Category -** [Comestibles](#comestibles)
 
 
 *All Sub Category's:*\
@@ -419,7 +419,7 @@ Fur-Leather mittens
 
 ## Drink
 **Head-Category -** [Items](#items)\
-**Sub-Head-Category -** [Consumables](#consumables)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
 **Sub-Category -** [Drink](#drink)
 
 
@@ -429,7 +429,7 @@ https://primitive.fandom.com/wiki/Consumables
 https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
 ```
 
-*Consumables:*
+*Comestibles:*
 ```JSON
 -Juice process step 1
 Blueberries
@@ -747,7 +747,7 @@ Steering stick attached to steering wood
 *All Sub Category's:*\
 [Items](#r-items)\
 [Clothing](#r-clothing)\
-[Consumables](#r-consumables)\
+[Comestibles](#r-comestibles)\
 [Vehicles](#r-Vehicles)
 
 
@@ -763,7 +763,7 @@ Steering stick attached to steering wood
 [Containers](#r-containers)\
 [Materials](#r-materials)\
 [Clothing](#r-clothing)\
-[Consumables](#r-consumables)
+[Comestibles](#r-comestibles)
 
 
 ## R-Tools
@@ -977,10 +977,10 @@ Fur-Leather mittens
 - [ ] add `Armor` from `Items` Category
 
 
-# R-Consumables
+# R-Comestibles
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category-Header -** [Consumables](#r-consumables)\
+**Sub-Category-Header -** [Comestibles](#r-comestibles)\
 
 
 *All Sub Category's:*\
@@ -992,7 +992,7 @@ Fur-Leather mittens
 ## R-Drink
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category-Header -** [Consumables](#r-consumables)\
+**Sub-Category-Header -** [Comestibles](#r-comestibles)\
 **Sub-Category -** [Drink](#r-drink)
 
 
@@ -1003,7 +1003,7 @@ Fur-Leather mittens
 - [x] `Juices` Recipes\
 - [x] `Juice` Recipes
 
-*Unfinished-Consumables:*
+*Unfinished-Comestibles:*
 ```JSON
 -Step 1 Juice process
 Blueberries
@@ -1049,7 +1049,7 @@ Mushroom tea
 ## R-Food
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category-Header -** [Consumables](#r-consumables)\
+**Sub-Category-Header -** [Comestibles](#r-comestibles)\
 **Sub-Category -** [Food](#r-food)\
 
 
