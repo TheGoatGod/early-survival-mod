@@ -97,6 +97,12 @@ lots of new items,
 # Vanilla-Code
 **Head-Category -** [Vanilla-Code](#vanilla-code)
 
+*Tools:*
+```JSON
+t_Bellows - Primitive Bellows
+awl_bone - Primitive Bone Awl
+```
+
 
 # Items
 **Head-Category -** [Items](#items)
@@ -129,23 +135,19 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 Primitive Stone Hammers
 Primitive Grain Grinders
 Primitive Mortar And Pestles
-Primitive Bellows
 Primitive Hand Axes
 Primitive Oldowan chopping tool
 Primitive Antler
 Primitive Bone; ribs and long leg bones
 Primitive Sea Shell Saw
-Primitive Stone Hammers
 Primitive Flint Scraper
-Primitive Antler Pressure Flaker
-Primitive Bone Awl
+Primitive Antler Pressure Flaker - might remove
 Primitive Adzes
-Primitive Chisels
-Primitive Canteen
+Primitive Chisel
 Primitive Torch
-Primitive wooden shovel
 primitive Skis
 Primitive Ski Sticks
+Primitive Wooden Shovel
 ```
 
 
@@ -251,6 +253,7 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 Primitive Backpack
 Primitive Sack
 Primitive Bucket
+Primitive Canteen
 ```
 
 
