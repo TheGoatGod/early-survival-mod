@@ -120,6 +120,19 @@ slingshot - Primitive Slingshot
 ```JSON
 Glue
 ```
+
+*Seeds:*
+```JSON
+seed_barley - Barley Seed - Barley
+seed_cabbage - Cabbage Seed - Cabbage
+coffee_pod - Coffee Bean - Coffee
+seed_grapes - Grape Seed - Grape
+seed_sugar_beet - Sugar Seed - Cane Sugar
+seed_tobacco - Tobacco Seed - Tobacco
+seed_tomato - Tomato Seed - Tomato
+seed_wheat - Wheat Seed - Wheat
+```
+
 # Items
 **Head-Category -** [Items](#items)
 
@@ -228,20 +241,12 @@ https://primitive.fandom.com/wiki/Plant_Species_X_Seed
 
 *Items:*
 ```JSON
-Barley Seed - Barley
+
 Breadfruit Tree (Seed) - Breadfruit
 Camellia (Tea) Seed - Camellia tea
 Cashew Tree (Seed) - Cashew
-Cabbage Seed - Cabbage
-Coffee Seed - Coffee
-Grape Seed - Grape
 Rice Seed - Rice
 Rubber Seed - Rubber
-Sugar Seed - Cane Sugar
-Tea Seed - Tea Leave
-Tobacco Seed - Tobacco
-Tomato Seed - Tomato
-Wheat Seed - Wheat
 Turnip seed - Turnip
 Pea seed - Pea shoot
 Broad Bean - Broad
