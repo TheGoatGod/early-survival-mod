@@ -68,8 +68,9 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 **Head-Category -** [To-do](#to-do)
 
 
-```JSON
 - [ ] fix what needs updated
+- [ ] Find out what `Items` have been added already
+- [ ] Fix Recipes
 - [ ]
 - [ ]
 - [ ]
@@ -79,9 +80,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 - [ ]
 - [ ]
 - [ ]
-- [ ]
-- [ ]
-```
+
 
 
 # Introduction
