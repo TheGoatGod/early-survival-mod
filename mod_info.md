@@ -201,6 +201,8 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 
 *Items:*
 ```JSON
+Primitive Knife
+Primitive machete
 Primitive Stone Hammers
 Primitive Grain Grinders
 Primitive Mortar And Pestles
