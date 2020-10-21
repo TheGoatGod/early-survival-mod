@@ -68,19 +68,12 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 **Head-Category -** [To-do](#to-do)
 
 
-- [ ] fix what needs updated
-- [ ] Find out what `Items` have been added already
-- [ ] Fix Recipes
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
+- [x] Fix `Recipes` to contain all items and `vehicle-parts`\
+- [ ] Make `Vanilla` Category\
+- [ ] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
+- [ ] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
+- [ ] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
+- [ ] Remove unwanted `Recipes`
 
 
 # Introduction
