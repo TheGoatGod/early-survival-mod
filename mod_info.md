@@ -840,11 +840,13 @@ Glue
 
 ### R-Clothing
 **Category - `Recipes`**
+**Sub-Head-Category - `R-Clothing`**
 **needs update**
 
 
 #### R-Clothes
 **Category - `Recipes`**
+**Sub-Head-Category - `R-Clothing`**
 **Sub-Category - `R-Clothes`**
 **needs update**
 
@@ -887,6 +889,7 @@ Fur-Leather mittens
 
 #### R-Armor
 **Category - `Recipes`**
+**Sub-Head-Category - `R-Clothing`**
 **Sub-Category - `R-Armor`**
 
 
@@ -905,11 +908,13 @@ R-Food
 
 #### R-Drink
 **Category - `Recipes`**
+**Sub-Head-Category - `R-Consumables`**
 **Sub-Category - `R-Drink`**
 
 
 #### R-Food
 **Category - `Recipes`**
+**Sub-Head-Category - `R-Consumables`**
 **Sub-Category - `R-Food`**
 
 
@@ -993,4 +998,5 @@ R-Vehicle-Parts
 
 ### R-Vehicle-Parts
 **Category `Recipes`**
+**Sub-Head-Category `R-Vehicles`**
 **Sub-Category `R-Vehicle-Parts`**
