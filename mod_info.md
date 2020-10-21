@@ -412,25 +412,6 @@ https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry v
 
 *Comestibles:*
 ```JSON
--Juice process step 1
-Blueberries
-Raspberries
-Goji berries
-Strawberries
-Bilberries
-Acai berries
-Cranberries
-Grapes
--Juice process step 2
-Blueberry Juices
-Raspberry Juices
-Goji berry Juices
-Strawberry Juices
-Bilberry Juices
-Acai berry Juices
-Cranberry Juices
-Grape Juices
--Juice process step 3
 Blueberry Juice
 Raspberry Juice
 Goji berry Juice
@@ -439,15 +420,6 @@ Bilberry Juice
 Acai berry Juice
 Cranberry Juice
 Grape Juice
--Anything after I've added because I want this
-Beer
-Lagar
-Coffee
-Tea
-Moonshine
-Whiskey
-Wine
-Mushroom tea
 ```
 
 
