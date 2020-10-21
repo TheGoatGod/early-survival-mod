@@ -894,7 +894,16 @@ Primitive Canteen
 
 
 *TODO:*\
-- [ ] add `Materials` from `Items` Category
+- [x] add `Materials` from `Items` Category
+
+*Items:*
+```JSON
+Claystone
+Limestone
+Organic Oil
+Mud
+Thatch
+```
 
 
 # R-Clothing
