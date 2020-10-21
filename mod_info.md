@@ -24,6 +24,7 @@ Use the `home` key to get to the top.
   - [Comestibles](#comestibles)
     + [Drink](#drink)
     + [Food](#food)
+  - [Resources](#resources)
 - [Furniture and Terrain](#furniture-and-terrain)
   + [Terrain](#terrain)
   + [Locations](#locations)
@@ -71,6 +72,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 - [x] Fix `Recipes` to contain all items and `Vehicle-Parts`\
 - [x] Make `Vanilla` Category\
+- [x] Make `Resources` Category\
 - [ ] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
 - [ ] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
 - [ ] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
@@ -536,6 +538,16 @@ Tellervo's gift mushroom
 Ukko's mushroom
 Soft mushroom
 Ringed mushroom
+```
+
+
+# Resources
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Resources](#resources)
+
+*Wood:*
+```JSON
+Firewood
 ```
 
 
