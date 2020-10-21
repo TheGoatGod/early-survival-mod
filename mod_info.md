@@ -110,6 +110,11 @@ t_Bellows - Primitive Bellows
 awl_bone - Primitive Bone Awl
 ```
 
+*Weapons:*
+```JSON
+bolas - Primitive Bolas
+slingshot - Primitive Slingshot
+```
 
 # Items
 **Head-Category -** [Items](#items)
