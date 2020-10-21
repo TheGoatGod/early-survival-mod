@@ -141,6 +141,11 @@ Clay
 rubber
 ```
 
+*Leather clothing:*
+```JSON
+leather_belt - Leather belt
+dress_shoes -  Leather shoes
+```
 
 # Items
 **Head-Category -** [Items](#items)
@@ -292,11 +297,9 @@ Coal
 
 *Leather clothing:*
 ```JSON
-Leather belt
 Leather cap
 Leather shirt
 Leather leggings
-Leather shoes
 Leather forearm guards
 Leather shin guards
 Leather cuirass
