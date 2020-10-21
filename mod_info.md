@@ -102,7 +102,7 @@ lots of new items,
 **Head-Category -** [Items](#items)
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Tools](#tools)\
 [Weapons](#weapons)\
 [Generic](#generic)\
@@ -330,7 +330,7 @@ Fish Bait
 **Sub-Head-Category -** [Clothing](#clothing)
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Clothes](#clothes)\
 [Armor](#armor)
 
@@ -408,7 +408,7 @@ Fur-Leather mittens
 **Sub-Head-Category -** [Consumables](#consumables)
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Drink](#drink)\
 [Food](#food)
 
@@ -542,7 +542,7 @@ Ringed mushroom
 **needs update**
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Terrain](#terrain)\
 [Locations](#locations)\
 [Construction](#construction)
@@ -712,7 +712,7 @@ Wooden Stairs (2 Levels)
 **needs update**
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Vehicles-parts](#vehicle-parts)
 
 
@@ -743,7 +743,7 @@ Large Mast - 1 log, 4 Sheets
 **needs update**
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Items](#r-items)\
 [Clothing](#r-clothing)\
 [Consumables](#r-consumables)\
@@ -755,7 +755,7 @@ Large Mast - 1 log, 4 Sheets
 **Sub-Head-Category -** [Items](#r-items)
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Tools](#r-tools)\
 [Weapons](#r-weapons)\
 [Generic](#r-generic)\
@@ -889,7 +889,7 @@ Glue
 **needs update**
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Clothes](#r-clothes)\
 [Armor](#r-armor)
 
@@ -976,7 +976,7 @@ Fur-Leather mittens
 **needs update**
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Drink](#r-drink)\
 [Food](#r-food)
 
@@ -1073,7 +1073,7 @@ Meat stew
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)
 
 
-*All Sub Category's:*
+*All Sub Category's:*\
 [Vehicle-parts](#r-vehicle-parts)
 
 
