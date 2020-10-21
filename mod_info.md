@@ -534,7 +534,7 @@ Firewood
 
 
 # Furniture and Terrain
-**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
 
 
 *All Sub Category's:*\
