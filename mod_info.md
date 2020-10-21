@@ -92,18 +92,14 @@ lots of new items,
 
 
 *All Sub Category's:*
-```JSON
-Tools
-Weapons
-Generic
-Clothing
-Armor
-Seeds
-Containers
-Materials
-Other
-Consumables
-```
+[Tools](#tools)
+[Weapons](#weapons)
+[Generic](#generic)
+[Seeds](#seeds)
+[Containers](#containers)
+[Materials](#materials)
+[Clothing](#clothing)
+[Consumables](#consumables)
 
 
 ## Tools
@@ -324,10 +320,9 @@ Fish Bait
 
 
 *All Sub Category's:*
-```JSON
-Clothes
-Armor
-```
+[Clothes](#clothes)
+[Armor](#armor)
+
 
 
 ## Clothes
@@ -403,10 +398,9 @@ Fur-Leather mittens
 
 
 *All Sub Category's:*
-```JSON
-Drink
-Food
-```
+[Drink](#drink)
+[Food](#food)
+
 
 
 ## Drink
@@ -538,11 +532,9 @@ Ringed mushroom
 
 
 *All Sub Category's:*
-```JSON
-Furniture
-Terrain
-Construction
-```
+[Terrain](#terrain)
+[Locations](#locations)
+[Construction](#construction)
 
 
 ## Terrain
@@ -710,9 +702,7 @@ Wooden Stairs (2 Levels)
 
 
 *All Sub Category's:*
-```JSON
-Vehicle-parts
-```
+[Vehicles-parts](#vehicle-parts)
 
 
 *Vehicles:*
@@ -743,11 +733,10 @@ Large Mast - 1 log, 4 Sheets
 
 
 *All Sub Category's:*
-```JSON
-R-Items
-R-Consumables
-R-Vehicles
-```
+[Items](#r-items)
+[Clothing](#r-clothing)
+[Consumables](#r-consumables)
+[Vehicles](#r-Vehicles)
 
 
 ## R-Items
@@ -756,18 +745,15 @@ R-Vehicles
 
 
 *All Sub Category's:*
-```JSON
-R-Tools
-R-Weapons
-R-Generic
-R-Clothing
-R-Armor
-R-Seeds
-R-Containers
-R-Materials
-R-Other
-R-Consumables
-```
+[Tools](#r-tools)
+[Weapons](#r-weapons)
+[Generic](#r-generic)
+[Seeds](#r-seeds)
+[Containers](#r-containers)
+[Materials](#r-materials)
+[Other](#r-other)
+[Clothing](#r-clothing)
+[Consumables](#r-consumables)
 
 
 ## R-Tools
@@ -893,10 +879,9 @@ Glue
 
 
 *All Sub Category's:*
-```JSON
-R-Clothes
-R-Armor
-```
+[Clothes](#r-clothes)
+[Armor](#r-armor)
+
 
 
 ## R-Clothes
@@ -981,10 +966,9 @@ Fur-Leather mittens
 
 
 *All Sub Category's:*
-```JSON
-R-Drink
-R-Food
-```
+[Drink](#r-drink)
+[Food](#r-food)
+
 
 
 ## R-Drink
@@ -1079,9 +1063,7 @@ Meat stew
 
 
 *All Sub Category's:*
-```JSON
-R-Vehicle-Parts
-```
+[Vehicle-parts](#r-vehicle-parts)
 
 
 ## R-Vehicle-Parts
