@@ -666,8 +666,7 @@ Weapon Rack
 
 ## Locations
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
-**Sub-Category -** [Locations](#locations)\
-**needs update**
+**Sub-Category -** [Locations](#locations)
 
 
 *Sources:*
@@ -688,8 +687,7 @@ Primitive Smoke house
 
 
 # Construction
-**Head-Category -** [Construction](#construction)\
-**needs update**
+**Head-Category -** [Construction](#construction)
 
 
 *Sources:*
@@ -715,8 +713,7 @@ Weapon Rack
 
 
 # Vehicles
-**Head-Category -** [Vehicles](#vehicles)\
-**needs update**
+**Head-Category -** [Vehicles](#vehicles)
 
 
 *All Sub Category's:*\
@@ -733,8 +730,7 @@ Materials Cart - Sticks, Tying equipment
 
 ## Vehicle-Parts
 **Head-Category -** [Vehicles](#vehicles)\
-**Sub-Category -** [Vehicle-Parts](#vehicle-parts)\
-**needs update**
+**Sub-Category -** [Vehicle-Parts](#vehicle-parts)
 
 
 *Items:*
