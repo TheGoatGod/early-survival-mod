@@ -256,6 +256,7 @@ Atlatls (A.k.a. Spear Throwers) - take from code already made
 
 *Sources:*
 ```JSON
+https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVDBZtOS0pViv8s1zGB-6qnshdM3vnXqOGo8lLMU25pHJ2BoCTBoQAvD_BwE
 ```
 
 *Items:*
@@ -318,6 +319,18 @@ Thatch
 **Sub-Category -** [Clothes](#clothes)\
 **needs update**
 
+*Cloth Clothing:*
+```JSON
+Cloth Cap
+Cloth Shirt
+Cloth Mittens
+Cloth leggings
+Cloth Hood
+Cloth Pants
+Cloth Shoes
+Cloth Jacket
+Cloth Gloves
+```
 
 *Leather clothing:*
 ```JSON
