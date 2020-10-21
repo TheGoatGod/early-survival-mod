@@ -34,10 +34,8 @@ Use the `home` key to get to the top.
     + [Tools](#r-tools)
     + [Weapons](#r-weapons)
     + [Generic](#r-generic)
-    + [Seeds](#r-seeds)
     + [Containers](#r-containers)
     + [Materials](#r-materials)
-    + [Other](#r-other)
     - [Clothing](#r-clothing)
       + [Clothes](#r-clothes)
       + [Armor](#r-armor)
@@ -761,10 +759,8 @@ Large Mast - 1 log, 4 Sheets
 [Tools](#r-tools)\
 [Weapons](#r-weapons)\
 [Generic](#r-generic)\
-[Seeds](#r-seeds)\
 [Containers](#r-containers)\
 [Materials](#r-materials)\
-[Other](#r-other)\
 [Clothing](#r-clothing)\
 [Consumables](#r-consumables)
 
@@ -834,13 +830,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-## R-Seeds
-**Head-Category -** [Recipes](#recipes)\
-**Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category -** [Seeds](#r-seeds)
-
-
-*TODO:*
+*Unfinished-Items:*
 ```JSON
 1. add `Seeds` from `Items` Category
 ```
@@ -870,18 +860,10 @@ Primitive Bucket - Wood, Cord -
 1. add `Materials` from `Items` Category
 ```
 
-
-## R-Other
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category -** [Other](#r-other)\
-**needs update**
 
 
-*Items:*
-```JSON
-Glue
-```
 
 
 # R-Clothing
