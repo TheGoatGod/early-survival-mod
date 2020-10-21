@@ -425,8 +425,6 @@ https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry v
 
 *Comestibles:*
 ```JSON
-Blueberry Juice
-Raspberry Juice
 Goji berry Juice
 Strawberry Juice
 Bilberry Juice
@@ -454,7 +452,6 @@ Cashew Nuts
 Cashew Milk
 Ground Cashew Nuts
 Organic Oil
-Fillet and Bread
 Preserved Jam
 Flatbread
 Porridge
@@ -504,7 +501,6 @@ https://primitive.fandom.com/wiki/Plant_Species_X_Seed
 
 *Items:*
 ```JSON
-
 Breadfruit Seed - Breadfruit
 Cashew Seed - Cashew Nut
 Rice Seed - Rice
@@ -532,7 +528,6 @@ Firewood
 
 # Furniture and Terrain
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
-**needs update**
 
 
 *All Sub Category's:*\
@@ -610,30 +605,16 @@ Spruce tree
 ```JSON
 Apiary
 Bakers Oven
-Bonfire
-Primitive Bucket - wood, cord
 Cauldron
-Cooking Table
-Fermenting Barrel
 Fireplace
 Firewood Holder
 Fruit Press
 Grill
 Hand mill
-Miners Cart
-Sink
 Spinning Mule
-Stone Water Well
 Storage Barrel
-Sugar Press
 Tanning Rack
 Weapon Rack
-Well Chain
-Wooden Arrow Sign
-Wooden Cabinet 1
-Wooden Cabinet 2
-Wooden Stairs (One Level)
-Wooden Stairs (2 Levels)
 ```
 
 
@@ -655,7 +636,6 @@ Primitive Preserving Shed
 Primitive Storage Shed
 Primitive Storage Shed (Fibre)
 Primitive Smoke house
-
 ```
 
 
@@ -670,29 +650,16 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```JSON
 Apiary
 Bakers Oven
-Bonfire
-Bucket
 Cauldron
-Cooking Table
-Fermenting Barrel
 Fireplace
 Firewood Holder
 Fruit Press
 Grill
 Hand mill
-Miners Cart
-Sink
 Spinning Mule
-Stone Water Well
 Storage Barrel
-Sugar Press
 Tanning Rack
 Weapon Rack
-Wooden Arrow Sign
-Wooden Cabinet 1
-Wooden Cabinet 2
-Wooden Stairs (One Level)
-Wooden Stairs (2 Levels)
 ```
 
 
@@ -734,8 +701,6 @@ Steering stick attached to steering wood
 
 *All Sub Category's:*\
 [Items](#r-items)\
-[Clothing](#r-clothing)\
-[Comestibles](#r-comestibles)\
 [Vehicles](#r-Vehicles)
 
 
