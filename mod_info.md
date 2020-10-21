@@ -147,8 +147,6 @@ Primitive Antler Pressure Flaker - might remove
 Primitive Adzes
 Primitive Chisel
 Primitive Torch
-primitive Skis
-Primitive Ski Sticks
 Primitive Wooden Shovel
 ```
 
