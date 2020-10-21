@@ -92,7 +92,7 @@ lots of new items,
 
 
 *All Sub Category's:*
-```
+
 [Tools](#tools)
 [Weapons](#weapons)
 [Generic](#generic)
@@ -101,7 +101,7 @@ lots of new items,
 [Materials](#materials)
 [Clothing](#clothing)
 [Consumables](#consumables)
-```
+
 
 ## Tools
 **Head-Category -** [Items](#items)
