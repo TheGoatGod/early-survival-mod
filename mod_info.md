@@ -412,26 +412,24 @@ Acai berries
 Cranberries
 Grapes
 -Juice process step 2
-Amarberry Juices
-Blueberrie Juices
-Raspberrie Juices
-Goji berrie Juices
-Strawberrie Juices
-Bilberrie Juices
-Acai berrie Juices
-Cranberrie Juices
+Blueberry Juices
+Raspberry Juices
+Goji berry Juices
+Strawberry Juices
+Bilberry Juices
+Acai berry Juices
+Cranberry Juices
 Grape Juices
 -Juice process step 3
-Blueberrie Juice
-Raspberrie Juice
-Goji berrie Juice
-Strawberrie Juice
-Bilberrie Juice
-Acai berrie Juice
-Cranberrie Juice
+Blueberry Juice
+Raspberry Juice
+Goji berry Juice
+Strawberry Juice
+Bilberry Juice
+Acai berry Juice
+Cranberry Juice
 Grape Juice
--Anything after ive added because i want this
-Sugar juice
+-Anything after I've added because I want this
 Beer
 Lagar
 Coffee
