@@ -72,7 +72,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 # Introduction
-**Category `Introduction`**
+**Category** [Introduction](#introduction)
 
 ```JSON
 I wanted to expand the early game and living in the bush or wild living if you will.
