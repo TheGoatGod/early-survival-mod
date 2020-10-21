@@ -111,7 +111,7 @@ lots of new items,
 [Containers](#containers)\
 [Materials](#materials)\
 [Clothing](#clothing)\
-[Consumables](#consumables)\
+[Consumables](#consumables)
 
 
 ## Tools
