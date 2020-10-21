@@ -739,7 +739,7 @@ Steering stick attached to steering wood
 
 
 # Recipes
-**needs update**
+**Head-Category -** [Recipes](#recipes)
 
 
 *All Sub Category's:*\
@@ -814,8 +814,7 @@ Wooden stake - wood
 ## R-Weapons
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category -** [Weapons](#r-weapons)\
-**needs update**
+**Sub-Category -** [Weapons](#r-weapons)
 
 
 *TODO:*\
@@ -896,8 +895,7 @@ Primitive Backpack
 # R-Clothing
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category-Header -** [Clothing](#r-clothing)\
-**needs update**
+**Sub-Category-Header -** [Clothing](#r-clothing)
 
 
 *All Sub Category's:*\
@@ -910,8 +908,7 @@ Primitive Backpack
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Clothing](#r-clothing)\
-**Sub-Category -** [Clothes](#r-clothes)\
-**needs update**
+**Sub-Category -** [Clothes](#r-clothes)
 
 
 *Leather clothing:*
@@ -982,7 +979,6 @@ Fur-Leather mittens
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Consumables](#r-consumables)\
-**needs update**
 
 
 *All Sub Category's:*\
@@ -1053,7 +1049,6 @@ Mushroom tea
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Consumables](#r-consumables)\
 **Sub-Category -** [Food](#r-food)\
-**update needed**
 
 
 *TODO:*\
