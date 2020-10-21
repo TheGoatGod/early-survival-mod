@@ -19,7 +19,7 @@ Use the `home` key to get to the top.
   - [Consumables](#consumables)
     + [Drink](#drink)
     + [Food](#food)
-- [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+- [Furniture, Terrain and Construction](#furniture,-terrain-and-construction)
   + [Terrain](#terrain)
   + [Locations](#locations)
   + [Construction](#construction)
