@@ -597,14 +597,27 @@ Ringed mushroom
 
 *Terrain flora:*
 ```JSON
-Lingonberry shrub
-Cranberry shrub
-Northern bilberry shrub
-Cloudberry bramble
-Crowberry shrub
-Black currant bush
+Lingonberry bush
+Cranberry bush
+Bilberry bush
+Cloudberry bush
+Crowberry bush
+Black-currant bush
+Goji Bush
+Bilberries Bush
+Acai Bush
 Birch Tree
-Spruce tree
+Spruce Tree
+Breadfruit Tree
+Cashew Tree
+Rubber Tree
+Rice Plant
+Turnip Plant
+Swede Plant
+Pea Plant
+Broad Bean Plant
+Rye Plant
+Hemp Plant
 ```
 
 
