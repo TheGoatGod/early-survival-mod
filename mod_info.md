@@ -116,6 +116,10 @@ bolas - Primitive Bolas
 slingshot - Primitive Slingshot
 ```
 
+*Generic:*
+```JSON
+Glue
+```
 # Items
 **Head-Category -** [Items](#items)
 
