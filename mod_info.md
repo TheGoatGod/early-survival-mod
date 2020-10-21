@@ -47,7 +47,7 @@ Use the `home` key to get to the top.
 
 
 # Sources
-**Category `Sources`**
+**Category -** [Sources](#sources)
 
 
 ```JSON
