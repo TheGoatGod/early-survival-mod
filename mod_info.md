@@ -13,10 +13,10 @@ Use the `home` key to get to the top.
   + [Seeds](#seeds)
   + [Containers](#containers)
   + [Materials](#materials)
-  + [Clothing](#clothing)
+  - [Clothing](#clothing)
     + [Clothes](#clothes)
     + [Armor](#armor)
-  + [Consumables](#consumables)
+  - [Consumables](#consumables)
     + [Drink](#drink)
     + [Food](#food)
 - [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
@@ -34,12 +34,12 @@ Use the `home` key to get to the top.
     + [Containers](#r-containers)
     + [Materials](#r-materials)
     + [Other](#r-other)
-    - [Clothing](#r-clothing)
-      + [Clothes](#r-clothes)
-      + [Armor](#r-armor)
-    - [Consumables](#r-consumables)
-      + [Drink](#r-drink)
-      + [Food](#r-food)
+  - [Clothing](#r-clothing)
+    + [Clothes](#r-clothes)
+    + [Armor](#r-armor)
+  - [Consumables](#r-consumables)
+    + [Drink](#r-drink)
+    + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
     + [Vehicle-parts](#r-vehicle-parts)
 
@@ -318,7 +318,7 @@ Fish Bait
 ```
 
 
-### Clothing
+# Clothing
 **Category `Items`**
 **Sub-Head-Category - `Clothing`**
 
@@ -330,7 +330,7 @@ Armor
 ```
 
 
-#### Clothes
+## Clothes
 **Category `Items`**
 **Sub-Head-Category - `Clothing`**
 **Sub-Category - `Clothes`**
@@ -390,14 +390,14 @@ Fur-Leather mittens
 ```
 
 
-#### Armor
+## Armor
 **Category `Items`**
 **Sub-Head-Category - `Clothing`**
 **Sub-Category - `Armor`**
 **needs update**
 
 
-### Consumables
+# Consumables
 **Category `Items`**
 **Sub-Head-Category - `Consumables`**
 
@@ -409,7 +409,7 @@ Food
 ```
 
 
-### Drink
+## Drink
 **Category `Items`**
 **Sub-Head-Category - `Consumables`**
 **Sub-Category - `Drink`**
@@ -464,7 +464,7 @@ Mushroom tea
 ```
 
 
-### Food
+## Food
 **Category `Items`**
 **Sub-Head-Category - `Consumables`**
 **Sub-Category - `Food`**
@@ -770,7 +770,7 @@ R-Consumables
 ```
 
 
-### R-Tools
+## R-Tools
 **Category - `Recipes`**
 **Sub-Category - `R-Tools`**
 
@@ -793,7 +793,7 @@ Wooden stake - wood
 ```
 
 
-### R-Weapons
+## R-Weapons
 **Category - `Recipes`**
 **Sub-Category - `R-Weapons`**
 **needs update**
@@ -821,7 +821,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-### R-Generic
+## R-Generic
 **Category - `Recipes`**
 **Sub-Category - `R-Generic`**
 
@@ -832,7 +832,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-### R-Seeds
+## R-Seeds
 **Category - `Recipes`**
 **Sub-Category - `R-Seeds`**
 
@@ -843,7 +843,7 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 
-### R-Containers
+## R-Containers
 **Category - `Recipes`**
 **Sub-Category - `R-Containers`**
 
@@ -855,7 +855,7 @@ Primitive Bucket - Wood, Cord -
 ```
 
 
-### R-Materials
+## R-Materials
 **Category - `Recipes`**
 **Sub-Category - `R-Materials`**
 
@@ -866,7 +866,7 @@ Primitive Bucket - Wood, Cord -
 ```
 
 
-### R-Other
+## R-Other
 **Category - `Recipes`**
 **Sub-Category - `R-Other`**
 **needs update**
@@ -878,7 +878,7 @@ Glue
 ```
 
 
-### R-Clothing
+# R-Clothing
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Clothing`**
 **needs update**
@@ -891,7 +891,7 @@ R-Armor
 ```
 
 
-#### R-Clothes
+## R-Clothes
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Clothing`**
 **Sub-Category - `R-Clothes`**
@@ -951,7 +951,7 @@ Fur-Leather mittens
 ```
 
 
-#### R-Armor
+## R-Armor
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Clothing`**
 **Sub-Category - `R-Armor`**
@@ -963,7 +963,7 @@ Fur-Leather mittens
 ```
 
 
-### R-Consumables
+# R-Consumables
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
 **needs update**
@@ -976,7 +976,7 @@ R-Food
 ```
 
 
-#### R-Drink
+## R-Drink
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
 **Sub-Category - `R-Drink`**
@@ -992,7 +992,7 @@ R-Food
 ```
 
 
-#### R-Food
+## R-Food
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
 **Sub-Category - `R-Food`**
@@ -1060,7 +1060,7 @@ Meat stew
 ```
 
 
-## R-Vehicles
+# R-Vehicles
 **Category `Recipes`**
 **Sub-Head-Category `R-Vehicles`**
 
@@ -1071,7 +1071,7 @@ R-Vehicle-Parts
 ```
 
 
-### R-Vehicle-Parts
+## R-Vehicle-Parts
 **Category `Recipes`**
 **Sub-Head-Category `R-Vehicles`**
 **Sub-Category `R-Vehicle-Parts`**
