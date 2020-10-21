@@ -773,7 +773,7 @@ Steering stick attached to steering wood
 
 *TODO:*\
 - [x] add `Tools` from `Items` Category\
-- [ ] Sort `Items` into `Finished-Items`
+- [ ] Sort `Unfinished-Items` into `Finished-Items`
 
 *Unfinished-Items:*
 ```JSON
@@ -870,7 +870,7 @@ Sleeping fur/pelt
 
 
 *TODO:*\
-- [ ] Sort `Unfinished-Items` into `Finished-Items`
+- [ ] Sort `Unfinished-Containers` into `Containers`
 
 *Containers:*
 ```JSON
@@ -998,10 +998,10 @@ Fur-Leather mittens
 
 *TODO:*\
 - [x] add `Drink` from `Items` Category\
-- [ ] Primitive Tea Recipes\
-- [ ] Primitive Coffee Recipes\
-- [x] Juices Recipes\
-- [x] Juice Recipes
+- [ ] Primitive `Tea` Recipes\
+- [ ] Primitive `Coffee` Recipes\
+- [x] `Juices` Recipes\
+- [x] `Juice` Recipes
 
 *Unfinished-Consumables:*
 ```JSON
@@ -1056,8 +1056,9 @@ Mushroom tea
 
 *TODO:*\
 - [x] add `Food` from `Items` Category\
-- [ ] unfinished food to finished food\
-- [ ] add more Breads
+- [ ] add process to `Unfinished Food`\
+- [ ] add `Unfinished food` to `Finished Food`\
+- [ ] add more `Breads`
 
 
 *Finished Food:*
