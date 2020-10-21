@@ -482,6 +482,10 @@ Meat stew
 **Sub-Category -** [Mushrooms](#mushrooms)
 **needs updated to be added**
 
+*Sources:*
+```JSON
+https://en.wikipedia.org/wiki/Edible_mushroom
+```
 
 *Mushrooms:*
 ```JSON
@@ -563,7 +567,9 @@ Firewood
 **needs update**
 
 *Sources:*
+```JSON
 https://primitive.fandom.com/wiki/Structures
+```
 
 *Terrain:*
 ```JSON
@@ -659,7 +665,9 @@ Weapon Rack
 
 
 *Sources:*
+```JSON
 https://primitive.fandom.com/wiki/Structures
+```
 
 *Items:*
 ```JSON
@@ -678,7 +686,9 @@ Primitive Smoke house
 **needs update**
 
 *Sources:*
+```JSON
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
+```
 
 *Items:*
 ```JSON
