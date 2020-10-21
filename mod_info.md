@@ -300,9 +300,6 @@ Coal
 Leather cap
 Leather shirt
 Leather leggings
-Leather forearm guards
-Leather shin guards
-Leather cuirass
 ```
 
 *Fur clothing:*
@@ -337,9 +334,6 @@ Fur-Leather cap
 Fur-Leather shirt
 Fur-Leather leggings
 Fur-Leather shoes
-Fur-Leather forearm guards
-Fur-Leather shin guards
-Fur-Leather cuirass
 Fur-Leather overcoat
 Fur-Leather cloak
 Fur-Leather mittens
@@ -349,8 +343,22 @@ Fur-Leather mittens
 ## Armor
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)\
-**Sub-Category -** [Armor](#armor)\
-**needs update**
+**Sub-Category -** [Armor](#armor)
+
+
+*Leather clothing:*
+```JSON
+Leather forearm guards
+Leather shin guards
+Leather cuirass
+```
+
+*Combination clothes:*
+```JSON
+Fur-Leather forearm guards
+Fur-Leather shin guards
+Fur-Leather cuirass
+```
 
 
 # Comestibles
