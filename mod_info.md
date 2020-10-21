@@ -80,6 +80,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 # Introduction
 **Head-Category -** [Introduction](#introduction)
 
+
 ```JSON
 I wanted to expand the early game and living in the bush or wild living if you will.
 This is a focused expansion and will be part of a bigger mod that will expand early game and wild living.
@@ -88,6 +89,7 @@ I want to expand this as much as I can so there is nothing left.
 
 # Features
 **Head-Category -** [Features](#features)
+
 
 ```JSON
 lots of new items,
