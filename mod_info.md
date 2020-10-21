@@ -151,6 +151,7 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 ```
 
 *Items:*
+```JSON
 Primitive Spears
 Primitive Stone Tomahawks
 Primitive Hoko Knives
@@ -169,7 +170,7 @@ Primitive Viking Axe
 Primitive Staff
 Mongol Bow And Arrow
 Atlatls (A.k.a. Spear Throwers)
-
+```
 
 ## Generic
 **Category `Items`**
