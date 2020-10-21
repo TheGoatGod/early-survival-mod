@@ -799,6 +799,7 @@ Primitive Skis
 Primitive Ski Sticks
 ```
 
+*Finished-items*
 ```JSON
 Birch-bark box  - birch-bark, knife
 Birch-bark basket - birch-bark, knife
@@ -883,8 +884,10 @@ Primitive Bucket - Wood, Cord -
 Primitive Backpack
 ```
 
+## R-Materials
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
+**Sub-Category -** [Materials](#r-materials)
 
 
 *TODO:*\
@@ -1005,7 +1008,7 @@ Fur-Leather mittens
 
 *Unfinished-Consumables:*
 ```JSON
--Juice process step 1
+-Step 1 Juice process
 Blueberries
 Raspberries
 Goji berries
@@ -1014,7 +1017,7 @@ Bilberries
 Acai berries
 Cranberries
 Grapes
--Juice process step 2
+-Step 2 Juice process
 Amarberry Juices
 Blueberrie Juices
 Raspberrie Juices
@@ -1024,7 +1027,7 @@ Bilberrie Juices
 Acai berrie Juices
 Cranberrie Juices
 Grape Juices
--Juice process step 3
+-Step 3 Juice process
 Blueberrie Juice
 Raspberrie Juice
 Goji berrie Juice
@@ -1033,7 +1036,7 @@ Bilberrie Juice
 Acai berrie Juice
 Cranberrie Juice
 Grape Juice
--Anything after ive added because i want this
+-Anything after I've added because I want this
 Sugar juice
 Beer
 Lagar
@@ -1135,5 +1138,10 @@ Meat stew
 - [x] add `Vehicle-parts` from `Vehicles` Category\
 - [x] add `Unfinished-Items` to `Items`
 
+*Items:*
 ```JSON
+Strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
+Mast - 7 sticks, Sheet
+Large Mast - 1 log, 4 Sheets
+Steering stick attached to steering wood - stick, log - cutting tool
 ```
