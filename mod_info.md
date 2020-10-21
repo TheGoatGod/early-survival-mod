@@ -725,16 +725,24 @@ Materials Cart - Sticks, Tying equipment
 **Sub-Category - `Vehicle-parts`**
 
 
-# Recipes
-**Category - `Recipes`**
-**needs update**
-
-
 *Items:*
 ```JSON
 strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
 mast - 7 sticks, Sheet
 Large Mast - 1 log, 4 Sheets
+```
+
+
+# Recipes
+**Category - `Recipes`**
+**needs update**
+
+
+*All Sub Category's:*
+```JSON
+R-Items
+R-Consumables
+R-Vehicles
 ```
 
 
@@ -870,6 +878,13 @@ Glue
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Clothing`**
 **needs update**
+
+
+*All Sub Category's:*
+```JSON
+R-Clothes
+R-Armor
+```
 
 
 #### R-Clothes
