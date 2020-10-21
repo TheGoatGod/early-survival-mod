@@ -162,6 +162,14 @@ seed_tomato - Tomato Seed - Tomato
 seed_wheat - Wheat Seed - Wheat
 ```
 
+*Terrain flora:*
+```JSON
+t_shrub_blueberry - Blueberry bush
+t_shrub_strawberry - Strawberry bush
+t_shrub_raspberry - Raspberry bush
+```
+
+
 # Items
 **Head-Category -** [Items](#items)
 
@@ -586,14 +594,11 @@ Ringed mushroom
 
 *Terrain flora:*
 ```JSON
-Blueberry shrub
 Lingonberry shrub
 Cranberry shrub
 Northern bilberry shrub
 Cloudberry bramble
-Strawberry shrub
 Crowberry shrub
-Raspberry bush
 Black currant bush
 Birch Tree
 Spruce tree
