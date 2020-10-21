@@ -168,20 +168,19 @@ Primitive Spears
 Primitive Stone Tomahawks
 Primitive Hoko Knives
 Primitive Rock Slings
-Primitive Bows And Arrows
-Primitive Shortbow
+Primitive Long Bow
+Primitive Short bow
 Primitive Arrows - curde, non-cude
-Primitive Blowguns
+Primitive Blowgun
 Primitive Lassos?
-Primitive Bolas
 Primitive Throwing/Rabbit Sticks
 Primitive Slingshot
 Primitive Dagger
 Primitive Sword
 Primitive Viking Axe
 Primitive Staff
-Mongol Bow And Arrow
-Atlatls (A.k.a. Spear Throwers)
+Mongol Bow And Arrows
+Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
 
 ## Generic
@@ -199,9 +198,8 @@ Atlatls (A.k.a. Spear Throwers)
 
 *Items:*
 ```JSON
-Glue
 Bonemeal Fertilizer
-Sleeping fur/pelt
+Primitive Sleeping fur/pelt
 ```
 
 
