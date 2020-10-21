@@ -157,6 +157,11 @@ Cranberries
 Grapes
 ```
 
+*Food:*
+```JSON
+soup_meat - Meat soup
+```
+
 
 # Items
 **Head-Category -** [Items](#items)
@@ -437,38 +442,17 @@ https://primitive.fandom.com/wiki/Consumables
 
 *Items:*
 ```JSON
-Cane Sugar
+Cashew Nuts
 Cashew Milk
-Cured Bacon
-Dried Tea Bag
-Bacon
-Chicken
-Fish Fillet
-Dough
-Spare Ribs
-Ground Cashew
-Honey
-Malt
+Ground Cashew Nuts
 Organic Oil
-Flour
-Salt
-Yeast
-Bread Loaf
-Chicken and Rice
-Cooked Bacon
-Cooked Chicken
-Cooked Fish Fillet
-Cooked Spare Ribs
-Fat
 Fillet and Bread
-Prime Salad
 Preserved Jam
 Flatbread
 Porridge
 Oven porridge
 Seed porridge
 Berry porridge
-Meat soup
 Meat stew
 ```
 
