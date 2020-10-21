@@ -760,6 +760,12 @@ R-Consumables
 **Sub-Category - `R-Tools`**
 
 
+*TODO:*
+```JSON
+1. add `Tools` from `Items` Category
+```
+
+
 ```JSON
 Birch-bark box  - birch-bark, knife
 Birch-bark basket - birch-bark, knife
@@ -805,9 +811,21 @@ Atlatls (A.k.a. Spear Throwers)
 **Sub-Category - `R-Generic`**
 
 
+*TODO:*
+```JSON
+1. add `Generic` from `Items` Category
+```
+
+
 ### R-Seeds
 **Category - `Recipes`**
 **Sub-Category - `R-Seeds`**
+
+
+*TODO:*
+```JSON
+1. add `Seeds` from `Items` Category
+```
 
 
 ### R-Containers
@@ -825,6 +843,12 @@ Primitive Bucket - Wood, Cord -
 ### R-Materials
 **Category - `Recipes`**
 **Sub-Category - `R-Materials`**
+
+
+*TODO:*
+```JSON
+1. add `Materials` from `Items` Category
+```
 
 
 ### R-Other
@@ -894,6 +918,12 @@ Fur-Leather mittens
 **Sub-Category - `R-Armor`**
 
 
+*TODO:*
+```JSON
+1. add `Armor` from `Items` Category
+```
+
+
 ### R-Consumables
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
@@ -913,6 +943,16 @@ R-Food
 **Sub-Category - `R-Drink`**
 
 
+*TODO:*
+```JSON
+1. add `Drink` from `Items` Category
+2. Primitive Tea Recipes
+3. Primitive Coffee Recipes
+4. Juices Recipes
+5. Juice Recipes
+```
+
+
 #### R-Food
 **Category - `Recipes`**
 **Sub-Head-Category - `R-Consumables`**
@@ -920,13 +960,10 @@ R-Food
 
 
 **update needed**
+*TODO:*
 ```JSON
-Chicken and Rice
-Prime Salad
-Tea
-Coffee
-Juices
-Bread
+1. unfinished food
+2. add more Breads
 ```
 
 *Food:*
@@ -1001,3 +1038,9 @@ R-Vehicle-Parts
 **Category `Recipes`**
 **Sub-Head-Category `R-Vehicles`**
 **Sub-Category `R-Vehicle-Parts`**
+
+
+*TODO:*
+```JSON
+1. add `Vehicle-parts` from `Vehicles` Category
+```
