@@ -237,33 +237,6 @@ Primitive Sleeping fur/pelt
 ```
 
 
-## Seeds
-**Head-Category -** [Items](#items)\
-**Sub-Category -** [Seeds](#seeds)
-
-
-*Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Crops
-https://primitive.fandom.com/wiki/Plant_Species_X_Seed
-```
-
-*Items:*
-```JSON
-
-Breadfruit Tree (Seed) - Breadfruit
-Camellia (Tea) Seed - Camellia tea
-Cashew Tree (Seed) - Cashew
-Rice Seed - Rice
-Rubber Seed - Rubber
-Turnip seed - Turnip
-Pea seed - Pea shoot
-Broad Bean - Broad
-Rye seed - Rye
-Hemp seed - Hemp
-```
-
-
 ## Containers
 **Head-Category -** [Items](#items)\
 **Sub-Category  -** [Containers](#containers)
