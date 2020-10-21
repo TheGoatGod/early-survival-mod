@@ -174,7 +174,6 @@ Primitive Arrows - curde, non-cude
 Primitive Blowgun
 Primitive Lassos?
 Primitive Throwing/Rabbit Sticks
-Primitive Slingshot
 Primitive Dagger
 Primitive Sword
 Primitive Viking Axe
