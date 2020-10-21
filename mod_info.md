@@ -103,7 +103,6 @@ lots of new items,
 
 
 *All Sub Category's:*
-
 [Tools](#tools)\
 [Weapons](#weapons)\
 [Generic](#generic)\
@@ -332,7 +331,7 @@ Fish Bait
 
 
 *All Sub Category's:*
-[Clothes](#clothes)
+[Clothes](#clothes)\
 [Armor](#armor)
 
 
@@ -410,7 +409,7 @@ Fur-Leather mittens
 
 
 *All Sub Category's:*
-[Drink](#drink)
+[Drink](#drink)\
 [Food](#food)
 
 
@@ -544,8 +543,8 @@ Ringed mushroom
 
 
 *All Sub Category's:*
-[Terrain](#terrain)
-[Locations](#locations)
+[Terrain](#terrain)\
+[Locations](#locations)\
 [Construction](#construction)
 
 
@@ -745,9 +744,9 @@ Large Mast - 1 log, 4 Sheets
 
 
 *All Sub Category's:*
-[Items](#r-items)
-[Clothing](#r-clothing)
-[Consumables](#r-consumables)
+[Items](#r-items)\
+[Clothing](#r-clothing)\
+[Consumables](#r-consumables)\
 [Vehicles](#r-Vehicles)
 
 
@@ -757,14 +756,14 @@ Large Mast - 1 log, 4 Sheets
 
 
 *All Sub Category's:*
-[Tools](#r-tools)
-[Weapons](#r-weapons)
-[Generic](#r-generic)
-[Seeds](#r-seeds)
-[Containers](#r-containers)
-[Materials](#r-materials)
-[Other](#r-other)
-[Clothing](#r-clothing)
+[Tools](#r-tools)\
+[Weapons](#r-weapons)\
+[Generic](#r-generic)\
+[Seeds](#r-seeds)\
+[Containers](#r-containers)\
+[Materials](#r-materials)\
+[Other](#r-other)\
+[Clothing](#r-clothing)\
 [Consumables](#r-consumables)
 
 
@@ -891,7 +890,7 @@ Glue
 
 
 *All Sub Category's:*
-[Clothes](#r-clothes)
+[Clothes](#r-clothes)\
 [Armor](#r-armor)
 
 
@@ -978,7 +977,7 @@ Fur-Leather mittens
 
 
 *All Sub Category's:*
-[Drink](#r-drink)
+[Drink](#r-drink)\
 [Food](#r-food)
 
 
