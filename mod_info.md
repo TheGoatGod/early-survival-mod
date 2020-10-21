@@ -186,8 +186,7 @@ Atlatls (A.k.a. Spear Throwers) - take from code already made
 
 ## Generic
 **Head-Category -** [Items](#items)\
-**Sub-Category -** [Generic](#generic)\
-**needs update**
+**Sub-Category -** [Generic](#generic)
 
 
 *TODO:*
@@ -206,8 +205,7 @@ Primitive Sleeping fur/pelt
 
 ## Seeds
 **Head-Category -** [Items](#items)\
-**Sub-Category -** [Seeds](#seeds)\
-**needs update**
+**Sub-Category -** [Seeds](#seeds)
 
 
 *Sources:*
@@ -261,8 +259,7 @@ Primitive Canteen
 
 ## Materials
 **Head-Category -** [Items](#items)\
-**Sub-Category  -** [Materials](#materials)\
-**needs update**
+**Sub-Category  -** [Materials](#materials)
 
 
 *Items:*
