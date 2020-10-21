@@ -293,10 +293,11 @@ Primitive Canteen
 ```JSON
 Claystone
 Limestone
-Thatch
 Malt
 Organic Oil
 Coal
+Mud
+Thatch
 ```
 
 
