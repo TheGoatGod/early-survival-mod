@@ -448,7 +448,7 @@ Bilberrie Juice
 Acai berrie Juice
 Cranberrie Juice
 Grape Juice
--
+-Anything after ive added because i want this
 Sugar juice
 Beer
 Lagar
@@ -457,6 +457,7 @@ Tea
 Moonshine
 Whiskey
 Wine
+Mushroom tea
 ```
 
 
@@ -465,6 +466,7 @@ Wine
 **Sub-Head-Category - `Consumables`**
 **Sub-Category - `Food`**
 
+//note - add names to the different category's of food e.g. `mushroom`
 
 *Sources:*
 ```JSON
@@ -508,7 +510,7 @@ Meat soup
 Meat stew
 ```
 
-*Mushrooms:*
+*Mushrooms:* **needs updated to be added**
 ```JSON
 Black ear mushroom
 Sand mushroom
@@ -734,6 +736,7 @@ strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, ax
 mast - 7 sticks, Sheet
 Large Mast - 1 log, 4 Sheets
 ```
+
 
 ## R-Items
 **Category - `Recipes`**
@@ -983,7 +986,7 @@ R-Food
 2. add more Breads
 ```
 
-*Food:*
+*Finished Food:*
 ```JSON
 Homemade Soap - water, vegetables, seasoning - knife - boil
 Meat soup - raw meat, water, vegetables, seasoning - knife - boil
@@ -1000,8 +1003,7 @@ Mushroom soup - mushrooms, water, flour, seasoning - boil
 Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 ```
 
-
-*Items:*
+*unfinished food:*
 ```JSON
 Cane Sugar
 Cashew Milk
@@ -1016,9 +1018,8 @@ Ground Cashew
 Honey
 Malt
 Organic Oil
-Sack of Flour
+Flour
 Salt
-Bucket of Sugar juice
 Yeast
 Bread Loaf
 Chicken and Rice
