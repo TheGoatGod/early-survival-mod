@@ -776,7 +776,28 @@ Steering stick attached to steering wood
 - [x] add `Tools` from `Items` Category\
 - [ ] Sort `Items` into `Finished-Items`
 
+*Unfinished-Items:*
 ```JSON
+Primitive Stone Hammers
+Primitive Grain Grinders
+Primitive Mortar And Pestles
+Primitive Bellows
+Primitive Hand Axes
+Primitive Oldowan chopping tool
+Primitive Antler
+Primitive Bone; ribs and long leg bones
+Primitive Sea Shell Saw
+Primitive Stone Hammers
+Primitive Flint Scraper
+Primitive Antler Pressure Flaker
+Primitive Bone Awl
+Primitive Adzes
+Primitive Chisels
+Primitive Canteen
+Primitive Torch
+Primitive wooden shovel
+Primitive Skis
+Primitive Ski Sticks
 ```
 
 ```JSON
@@ -837,6 +858,9 @@ Atlatls (A.k.a. Spear Throwers)
 
 *Unfinished-Items:*
 ```JSON
+Glue
+Bonemeal Fertilizer
+Sleeping fur/pelt
 ```
 
 
@@ -855,7 +879,9 @@ Primitive Sack - Cord -
 Primitive Bucket - Wood, Cord -
 ```
 
+*Unfinished-Containers:*
 ```JSON
+Primitive Backpack
 ```
 
 **Head-Category -** [Recipes](#recipes)\
@@ -978,7 +1004,46 @@ Fur-Leather mittens
 - [x] Juices Recipes\
 - [x] Juice Recipes
 
+*Unfinished-Consumables:*
 ```JSON
+-Juice process step 1
+Blueberries
+Raspberries
+Goji berries
+Strawberries
+Bilberries
+Acai berries
+Cranberries
+Grapes
+-Juice process step 2
+Amarberry Juices
+Blueberrie Juices
+Raspberrie Juices
+Goji berrie Juices
+Strawberrie Juices
+Bilberrie Juices
+Acai berrie Juices
+Cranberrie Juices
+Grape Juices
+-Juice process step 3
+Blueberrie Juice
+Raspberrie Juice
+Goji berrie Juice
+Strawberrie Juice
+Bilberrie Juice
+Acai berrie Juice
+Cranberrie Juice
+Grape Juice
+-Anything after ive added because i want this
+Sugar juice
+Beer
+Lagar
+Coffee
+Tea
+Moonshine
+Whiskey
+Wine
+Mushroom tea
 ```
 
 
