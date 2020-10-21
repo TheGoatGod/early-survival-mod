@@ -458,7 +458,6 @@ Grape Juice
 **Sub-Head-Category -** [Comestibles](#comestibles)\
 **Sub-Category -** [Food](#food)
 
-//note - add names to the different category's of food e.g. `mushroom`
 
 *Sources:*
 ```JSON
