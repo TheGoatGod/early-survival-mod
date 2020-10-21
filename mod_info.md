@@ -772,7 +772,10 @@ Steering stick attached to steering wood
 **Sub-Category -** [Tools](#r-tools)
 
 
-*TODO:*
+*TODO:*\
+- [x] add `Tools` from `Items` Category\
+- [ ] Sort `Items` into `Finished-Items`
+
 ```JSON
 ```
 
@@ -795,6 +798,10 @@ Wooden stake - wood
 **needs update**
 
 
+*TODO:*\
+- [ ] Sort `Unfinished-Items` into `Finished-Items`
+
+*Unfinished-Items:*
 ```JSON
 Primitive Spears
 Primitive Stone Tomahawks
@@ -824,11 +831,9 @@ Atlatls (A.k.a. Spear Throwers)
 **Sub-Category -** [Generic](#r-generic)
 
 
-*TODO:*
-```JSON
-1. add `Generic` from `Items` Category
-```
-
+*TODO:*\
+- [x] add `Generic` from `Items` Category\
+- [ ] Sort `Unfinished-Items` into `Finished-Items`
 
 *Unfinished-Items:*
 ```JSON
@@ -841,6 +846,8 @@ Atlatls (A.k.a. Spear Throwers)
 **Sub-Category -** [Containers](#r-containers)
 
 
+*TODO:*\
+- [ ] Sort `Unfinished-Items` into `Finished-Items`
 
 *Containers:*
 ```JSON
@@ -864,6 +871,8 @@ Primitive Bucket - Wood, Cord -
 **Sub-Head-Category -** [Items](#r-items)\
 
 
+*TODO:*\
+- [ ] add `Materials` from `Items` Category
 
 
 # R-Clothing
@@ -947,10 +956,8 @@ Fur-Leather mittens
 **Sub-Category -** [Armor](#r-armor)
 
 
-*TODO:*
-```JSON
-1. add `Armor` from `Items` Category
-```
+*TODO:*\
+- [ ] add `Armor` from `Items` Category
 
 
 # R-Consumables
@@ -973,7 +980,13 @@ Fur-Leather mittens
 **Sub-Category -** [Drink](#r-drink)
 
 
-*TODO:*
+*TODO:*\
+- [x] add `Drink` from `Items` Category\
+- [ ] Primitive Tea Recipes\
+- [ ] Primitive Coffee Recipes\
+- [x] Juices Recipes\
+- [x] Juice Recipes
+
 ```JSON
 1. add `Drink` from `Items` Category
 2. Primitive Tea Recipes
@@ -991,11 +1004,11 @@ Fur-Leather mittens
 **update needed**
 
 
-*TODO:*
-```JSON
-1. unfinished food
-2. add more Breads
-```
+*TODO:*\
+- [x] add `Food` from `Items` Category\
+- [ ] unfinished food to finished food\
+- [ ] add more Breads
+
 
 *Finished Food:*
 ```JSON
@@ -1067,6 +1080,9 @@ Meat stew
 **Sub-Category -** [Vehicle-parts](#r-vehicle-parts)
 
 
-*TODO:*
+*TODO:*\
+- [x] add `Vehicle-parts` from `Vehicles` Category\
+- [x] add `Unfinished-Items` to `Items`
+
 ```JSON
 ```
