@@ -34,12 +34,12 @@ Use the `home` key to get to the top.
     + [Containers](#r-containers)
     + [Materials](#r-materials)
     + [Other](#r-other)
-  - [Clothing](#r-clothing)
-    + [Clothes](#r-clothes)
-    + [Armor](#r-armor)
-  - [Consumables](#r-consumables)
-    + [Drink](#r-drink)
-    + [Food](#r-food)
+    - [Clothing](#r-clothing)
+      + [Clothes](#r-clothes)
+      + [Armor](#r-armor)
+    - [Consumables](#r-consumables)
+      + [Drink](#r-drink)
+      + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
     + [Vehicle-parts](#r-vehicle-parts)
 
@@ -63,7 +63,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 # To-do
-**Category `To-do`**
+**Head-Category -** [To-do](#to-do)
 
 
 ```JSON
@@ -72,7 +72,7 @@ https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark <--- pick this to bit
 
 
 # Introduction
-**Category** [Introduction](#introduction)
+**Head-Category -** [Introduction](#introduction)
 
 ```JSON
 I wanted to expand the early game and living in the bush or wild living if you will.
@@ -81,14 +81,14 @@ I want to expand this as much as I can so there is nothing left.
 ```
 
 # Features
-**Category `Features`**
+**Head-Category -** [Features](#features)
 
 ```JSON
 lots of new items,
 ```
 
 # Items
-**Category `Items`**
+**Head-Category -** [Items](#items)
 
 
 *All Sub Category's:*
@@ -107,8 +107,8 @@ Consumables
 
 
 ## Tools
-**Category `Items`**
-**Sub-Category - `Tools`**
+**Head-Category -** [Items](#items)
+**Sub-Category -** [Tools](#tools)
 
 
 *Sources:*
@@ -143,8 +143,8 @@ Primitive Ski Sticks
 
 
 ## Weapons
-**Category `Items`**
-**Sub-Category - `Weapons`**
+**Head-Category -** [Items](#items)
+**Sub-Category -** [Weapons](#weapons)
 
 
 *Sources*
@@ -176,8 +176,8 @@ Atlatls (A.k.a. Spear Throwers)
 ```
 
 ## Generic
-**Category `Items`**
-**Sub-Category - `Generic`**
+**Head-Category -** [Items](#items)
+**Sub-Category -** [Generic](#generic)
 **needs update**
 
 
@@ -194,8 +194,8 @@ Sleeping fur/pelt
 
 
 ## Seeds
-**Category `Items`**
-**Sub-Category - `Seeds`**
+**Head-Category -** [Items](#items)
+**Sub-Category -** [Seeds](#seeds)
 **needs update**
 
 
@@ -230,8 +230,8 @@ Hemp seed - Hemp
 
 
 ## Containers
-**Category `Items`**
-**Category  - `Containers`**
+**Head-Category -** [Items](#items)
+**Sub-Category  -** [Containers](#containers)
 
 
 *Sources:*
@@ -248,8 +248,8 @@ Primitive Bucket
 
 
 ## Materials
-**Category `Items`**
-**Category  - `Materials`**
+**Head-Category -** [Items](#items)
+**Sub-Category  -** [Materials](#materials)
 **needs update**
 
 
@@ -319,8 +319,8 @@ Fish Bait
 
 
 # Clothing
-**Category `Items`**
-**Sub-Head-Category - `Clothing`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Clothing](#clothing)
 
 
 *All Sub Category's:*
@@ -331,9 +331,9 @@ Armor
 
 
 ## Clothes
-**Category `Items`**
-**Sub-Head-Category - `Clothing`**
-**Sub-Category - `Clothes`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Clothing](#clothing)
+**Sub-Category - `Clothes`** [Clothes](#clothes)
 **needs update**
 
 
@@ -391,15 +391,15 @@ Fur-Leather mittens
 
 
 ## Armor
-**Category `Items`**
-**Sub-Head-Category - `Clothing`**
-**Sub-Category - `Armor`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Clothing](#clothing)
+**Sub-Category -** [Armor](#armor)
 **needs update**
 
 
 # Consumables
-**Category `Items`**
-**Sub-Head-Category - `Consumables`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Consumables](#consumables)
 
 
 *All Sub Category's:*
@@ -410,9 +410,9 @@ Food
 
 
 ## Drink
-**Category `Items`**
-**Sub-Head-Category - `Consumables`**
-**Sub-Category - `Drink`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Consumables](#consumables)
+**Sub-Category -** [Drink](#drink)
 
 
 *Sources:*
@@ -465,9 +465,9 @@ Mushroom tea
 
 
 ## Food
-**Category `Items`**
-**Sub-Head-Category - `Consumables`**
-**Sub-Category - `Food`**
+**Head-Category -** [Items](#items)
+**Sub-Head-Category -** [Consumables](#consumables)
+**Sub-Category -** [Food](#food)
 
 //note - add names to the different category's of food e.g. `mushroom`
 
@@ -533,7 +533,7 @@ Ringed mushroom
 
 # Furniture, Terrain and Construction
 
-**Category - `Furniture` and `Terrain` and `Construction`**
+**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
 **needs update**
 
 
@@ -546,8 +546,8 @@ Construction
 
 
 ## Terrain
-**Category - `Furniture` and `Terrain` and `Construction`**
-**Sub-category `Terrain`**
+**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Sub-category -** [Terrain](#terrain)
 **needs update**
 
 *Sources:*
@@ -645,8 +645,8 @@ Wooden Stairs (2 Levels)
 
 
 ## Locations
-**Category - `Furniture` and `Terrain` and `Construction`**
-**Sub-Category - `Locations`**
+**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Sub-Category -** [Locations](#locations)
 **needs update**
 
 
@@ -667,8 +667,8 @@ Primitive Smoke house
 
 
 ## Construction
-**Category - `Furniture` and `Terrain` and `Construction`**
-**Sub-category `Construction`**
+**Head-Category -** [Furniture, Terrain and Construction](#furniture-and-terrain-construction)
+**Sub-category -** [Construction](#construction)
 **needs update**
 
 *Sources:*
@@ -705,7 +705,7 @@ Wooden Stairs (2 Levels)
 
 
 # Vehicles
-**Category - `Vehicles`**
+**Head-Category -** [Vehicles](#vehicles)
 **needs update**
 
 
@@ -724,8 +724,8 @@ Materials Cart - Sticks, Tying equipment
 
 
 ## Vehicle-parts
-**Category - `Vehicles`**
-**Sub-Category - `Vehicle-parts`**
+**Head-Category -** [Vehicles](#vehicles)
+**Sub-Category -** [Vehicles-parts](#vehicle-parts)
 **needs update**
 
 
@@ -738,7 +738,7 @@ Large Mast - 1 log, 4 Sheets
 
 
 # Recipes
-**Category - `Recipes`**
+**Head-Category -** [Recipes](#recipes)
 **needs update**
 
 
@@ -751,8 +751,8 @@ R-Vehicles
 
 
 ## R-Items
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Items`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
 
 
 *All Sub Category's:*
@@ -771,8 +771,9 @@ R-Consumables
 
 
 ## R-Tools
-**Category - `Recipes`**
-**Sub-Category - `R-Tools`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Tools](#r-tools)
 
 
 *TODO:*
@@ -794,8 +795,9 @@ Wooden stake - wood
 
 
 ## R-Weapons
-**Category - `Recipes`**
-**Sub-Category - `R-Weapons`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Weapons](#r-weapons)
 **needs update**
 
 ```JSON
@@ -822,8 +824,9 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Generic
-**Category - `Recipes`**
-**Sub-Category - `R-Generic`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Generic](#r-generic)
 
 
 *TODO:*
@@ -833,8 +836,9 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Seeds
-**Category - `Recipes`**
-**Sub-Category - `R-Seeds`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Seeds](#r-seeds)
 
 
 *TODO:*
@@ -844,8 +848,9 @@ Atlatls (A.k.a. Spear Throwers)
 
 
 ## R-Containers
-**Category - `Recipes`**
-**Sub-Category - `R-Containers`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Containers](#r-containers)
 
 *Containers:*
 ```JSON
@@ -856,8 +861,9 @@ Primitive Bucket - Wood, Cord -
 
 
 ## R-Materials
-**Category - `Recipes`**
-**Sub-Category - `R-Materials`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Materials](#r-materials)
 
 
 *TODO:*
@@ -867,8 +873,9 @@ Primitive Bucket - Wood, Cord -
 
 
 ## R-Other
-**Category - `Recipes`**
-**Sub-Category - `R-Other`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category -** [Other](#r-other
 **needs update**
 
 
@@ -879,8 +886,9 @@ Glue
 
 
 # R-Clothing
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Clothing`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Clothing](#r-clothing)
 **needs update**
 
 
@@ -892,9 +900,10 @@ R-Armor
 
 
 ## R-Clothes
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Clothing`**
-**Sub-Category - `R-Clothes`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Clothing](#r-clothing)
+**Sub-Category -** [Clothes](#r-clothes)
 **needs update**
 
 
@@ -952,9 +961,10 @@ Fur-Leather mittens
 
 
 ## R-Armor
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Clothing`**
-**Sub-Category - `R-Armor`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Clothing](#r-clothing)
+**Sub-Category -** [Armor](#r-armor)
 
 
 *TODO:*
@@ -964,8 +974,9 @@ Fur-Leather mittens
 
 
 # R-Consumables
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Consumables`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Consumables](#r-consumables)
 **needs update**
 
 
@@ -977,9 +988,10 @@ R-Food
 
 
 ## R-Drink
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Consumables`**
-**Sub-Category - `R-Drink`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Consumables](#r-consumables)
+**Sub-Category -** [Drink](#r-drink)
 
 
 *TODO:*
@@ -993,9 +1005,10 @@ R-Food
 
 
 ## R-Food
-**Category - `Recipes`**
-**Sub-Head-Category - `R-Consumables`**
-**Sub-Category - `R-Food`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Items](#r-items)
+**Sub-Category-Header -** [Consumables](#r-consumables)
+**Sub-Category -** [Food](#r-food)
 **update needed**
 
 
@@ -1061,8 +1074,8 @@ Meat stew
 
 
 # R-Vehicles
-**Category `Recipes`**
-**Sub-Head-Category `R-Vehicles`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Vehicles](#r-Vehicles)
 
 
 *All Sub Category's:*
@@ -1072,9 +1085,9 @@ R-Vehicle-Parts
 
 
 ## R-Vehicle-Parts
-**Category `Recipes`**
-**Sub-Head-Category `R-Vehicles`**
-**Sub-Category `R-Vehicle-Parts`**
+**Head-Category -** [Recipes](#recipes)
+**Sub-Head-Category -** [Vehicles](#r-Vehicles)
+**Sub-Category -** [Vehicle-parts](#r-vehicle-parts)
 
 
 *TODO:*
