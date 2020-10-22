@@ -84,9 +84,14 @@ Use the `home` key to get to the top.
 - [x] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
 - [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
 - [ ] Remove unwanted `Recipes`\
-- [ ] Add `More_tea_leaf` mod\
-- [ ] Add `Rice` mod\
-- [ ] Add new construction method for building `Sticks`
+- [ ] Add new `Construction` method for building with `Sticks`\
+- [ ] Add new `Construction` method for building with `Sticks` and `Mud`\
+- [ ] Look through new `YouTube` `Sources` for new features\
+- [ ] Expand `Items`\
+- [ ] Expand `Recipes`\
+- [ ] Add `More_tea_leaf` mod to `JSON files`\
+- [ ] Add `Rice` mod to `JSON files`\
+- [ ] Implement `Ids` to `JSON files`
 
 
 # Introduction
