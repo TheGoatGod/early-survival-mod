@@ -9,6 +9,7 @@ Use the `home` key to get to the top.
 
 - [Sources](#sources)
   + [Primitive Survival Sources](#primitive-survival-sources)
+  + [Wilderness Survival Sources](#wilderness-survival-sources)
 - [To-do](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
@@ -85,6 +86,17 @@ Use the `home` key to get to the top.
 [Tube Unique Wilderness YouTube](https://www.youtube.com/channelUCJjheeAVwFB0S5HlWbBwIfQ)\
 [Cambodia Wilderness YouTube](https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w)\
 [AlfieAesthetics YouTube](https://www.youtube.com/channel/UC2TXg45Dbt2de8auakllW8g)\
+
+
+## Wilderness Survival Sources
+**Head-Category -** [Sources](#sources)
+**Sub-Category -** [Wilderness Survival Sources](#wilderness-survival-sources)
+
+
+[Wilderness Survival](https://www.scmp.com/lifestyle/travel-leisure/article/2159108/wilderness-survival-five-asian-youtube-stars-getting)\
+[WildernessSurvival.co.uk](https://wilderness-survival.co.uk/home)\
+[TA Outdoors YouTube](https://www.youtube.com/channel/UC2SMpy2oZV6BoyJEYShw9bw)\
+[Wilderness Survival - Wildwood Survival](http://www.wildwoodsurvival.com/survival/)\
 [Survival Kit](https://modularsurvivalsystems.co.uk/wilderness-survival-kit-40-p.asp)\
 [Another Survival Kit](https://fatherhoodfactor.com/making-a-wilderness-survival-kit-the-complete-checklist/)\
 [More Survival Kits](https://www.boyscouttrail.com/boy-scouts/survivalkit.asp)\
@@ -99,8 +111,14 @@ Use the `home` key to get to the top.
 [Army Survival Kits](https://www.cadetdirect.com/survival-equipment/survival-aids/complete-survival-kits)\
 [Nato Survival Kits](https://www.firestormkit.co.uk/nato-military-survival-kit.html)\
 [Intense Wilderness survival 1](https://www.budk.com/Intense-Wilderness-Survival-Gear-5280)\
-[Teepee tents](https://www.chkadels.com/Intense-4-Person-Teepee-Tent-40607)\
-[Tactical gear](https://www.gearupfl.com/tactical-gear/)
+[Teepee Tents](https://www.chkadels.com/Intense-4-Person-Teepee-Tent-40607)\
+[Tactical Gear](https://www.gearupfl.com/tactical-gear/)
+[Survival Gear](https://www.gearhungry.com/survival-gear/)
+[Ultimate Survival Gear](https://www.amazon.co.uk/Ultimate-Survival-Multi-Purpose-Entrenching-Emergency/dp/B082QVCYW6)
+[Best Survival Gear 2020](https://www.thesmartsurvivalist.com/best-survival-gadgets/)
+[Best Survival Tools](https://unchartedsupplyco.com/blogs/news/survival-tools)
+
+
 
 
 # To-do
