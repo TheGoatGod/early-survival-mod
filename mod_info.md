@@ -87,6 +87,7 @@ Use the `home` key to get to the top.
 [Tube Unique Wilderness YouTube](https://www.youtube.com/channelUCJjheeAVwFB0S5HlWbBwIfQ)\
 [Cambodia Wilderness YouTube](https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w)\
 [AlfieAesthetics YouTube](https://www.youtube.com/channel/UC2TXg45Dbt2de8auakllW8g)\
+[Gone Feral Primitive Skills](https://www.youtube.com/channel/UCaoQ7yYOVjd-8n8nv_r7fXQ)
 
 
 ## Wilderness Survival Sources
@@ -118,6 +119,7 @@ Use the `home` key to get to the top.
 [Ultimate Survival Gear](https://www.amazon.co.uk/Ultimate-Survival-Multi-Purpose-Entrenching-Emergency/dp/B082QVCYW6)
 [Best Survival Gear 2020](https://www.thesmartsurvivalist.com/best-survival-gadgets/)
 [Best Survival Tools](https://unchartedsupplyco.com/blogs/news/survival-tools)
+[Survival Gear](https://www.gooutdoors.co.uk/walking/equipment/survival/)
 
 
 ## Bush Craft Survival Sources
