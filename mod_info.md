@@ -55,21 +55,23 @@ Use the `home` key to get to the top.
 **Category -** [Sources](#sources)
 
 
-```JSON
-https://www.survivalsullivan.com/primitive-survival-tools/
-https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
-https://primitive.fandom.com/wiki
-https://primitive.fandom.com/wiki/Cauldron
-https://primitivetechnology.wordpress.com/
-https://primitivetechnology.wordpress.com/2018/08/17/iron-prills/
-https://primitivetechnology.wordpress.com/2018/07/17/wood-ash-cement/
-https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/
-https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
-https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark
-https://greenhell.gamepedia.com/Green_Hell_Wiki <--- pick this to bits
-https://greenhell.fandom.com/wiki/Green_Hell_Wiki
-```
-
+[Primitive Survival Tools](#https://www.survivalsullivan.com/primitive-survival-tools/)
+[Primitive Survival Tools and Weapons](#https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/)
+[Ark Primitive Fan WIKI](#https://primitive.fandom.com/wiki)
+[Ark WIKI](#https://ark.gamepedia.com/Primitive_Plus?useskin=hydradark)
+[Green Hell WIKI](#https://greenhell.gamepedia.com/Green_Hell_Wiki)
+[Green Hell Fan WIKI](#https://greenhell.fandom.com/wiki/Green_Hell_Wiki)
+[Primitive Technology YouTube](#https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)
+[Primitive Technology Wordpress](#https://primitivetechnology.wordpress.com/)
+[Primitive Technology Wordpress Iron Prills](#https://primitivetechnology.wordpress.com/2018/08/17/iron-prills/)
+[Primitive Technology Wordpress Wood Ash Cement](#https://primitivetechnology.wordpress.com/2018/07/17/wood-ash-cement/)
+[Primitive Technology Wordpress Yam Cultivate and cook](#https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/)
+[Primitive Technology Wordpress Round Hut](#https://primitivetechnology.wordpress.com/2018/04/20/round-hut/)
+[Wilderness Survival](#https://www.scmp.com/lifestyle/travel-leisure/article/2159108/wilderness-survival-five-asian-youtube-stars-getting)
+[Cambodia Wilderness YouTube](#https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w/videos)
+[Primitive Skills YouTube](#https://www.youtube.com/channel/UCs8DNFOxYen3kuj87aWKG9g/videos)
+[Primitive Survival Tool YouTube](#https://www.youtube.com/channel/UC6vasuRFx3t3NTISG6iwUeA)
+[Survival Skills Primitive YouTube](#https://www.youtube.com/channel/UChUP6B_3zcdFYZnOdMM21og/featured)
 
 # To-do
 **Head-Category -** [To-do](#to-do)
