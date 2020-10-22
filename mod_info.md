@@ -7,12 +7,12 @@ Use the `home` key to get to the top.
 # Category's
 
 
+- [Introduction](#introduction)
 - [Sources](#sources)
   + [Primitive Survival Sources](#primitive-survival-sources)
   + [Wilderness Survival Sources](#wilderness-survival-sources)
   + [Bush Craft Survival Sources](#bush-craft-survival-sources)
 - [To-do](#to-do)
-- [Introduction](#introduction)
 - [Features](#features)
 - [Vanilla-Code](#vanilla-code)
 - [Items](#items)
@@ -52,6 +52,17 @@ Use the `home` key to get to the top.
       + [Food](#r-food)
   - [Vehicles](#r-Vehicles)
     + [Vehicle-Parts](#r-vehicle-parts)
+
+
+# Introduction
+**Head-Category -** [Introduction](#introduction)
+
+
+```
+I wanted to expand the early game and living in the bush or wild living if you will.
+This is a focused expansion and will be part of a bigger mod that will expand early game and wild living.
+I want to expand this as much as I can so there is nothing left.
+```
 
 
 # Sources
@@ -131,57 +142,6 @@ Use the `home` key to get to the top.
 [Bush Craft Survival](https://www.google.com/search?safe=off&sxsrf=ALeKk01ihmSeMnsKvI_7L5KZN7t8QOdmAA%3A1603386758398&ei=hr2RX73bF66KlwS97J34Dw&q=Bushcraft+&oq=Bushcraft+&gs_lcp=CgZwc3ktYWIQAzIECAAQQzIFCAAQkQIyBAgAEEMyBAgAEEMyCwguELEDEMcBEK8BMgcIABAUEIcCMgQIABBDMgQIABBDMgUIABCxAzIECAAQQzoHCAAQyQMQQzoKCC4QxwEQowIQQzoICAAQsQMQgwE6AggAOgsILhCxAxDHARCjAjoLCAAQsQMQyQMQkQI6CAgAELEDEJECOgkIABDJAxANEB46BggAEA0QHlD_lD9Y_rA_YPi7P2gCcAF4AIAB5AGIAcgLkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwi9tq-R2cjsAhUuxYUKHT12B_8Q4dUDCA0&uact=5)
 
 
-# To-do
-**Head-Category -** [To-do](#to-do)
-
-
-*Priority Todos:*\
-- [x] Fix `Recipes` to contain all items and `Vehicle-Parts`
-- [x] Make `Vanilla` Category
-- [x] Make `Resources` Category
-- [x] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category
-- [x] Remove all `Items` in vanilla - add extra code to `Vanilla` Category
-- [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category
-- [ ] Add more to `Bush Craft Survival Sources`
-- [ ] Remove unwanted `Recipes`
-- [ ] Look through new `Sources` for new `Primitive` features add below this
-- [ ] Add new `Construction` method for building with `Sticks`
-- [ ] Add new `Construction` method for building with `Sticks` and `Mud`
-- [ ] Add more `Items`
-- [ ] Add more `Recipes`
-- [ ] Add More `Vehicles`
-- [ ] Add more `Vehicle Parts`
-- [ ] Implement `Primitive` mod `Ids` to `JSON files`
-
-*For after*\
----
-- [ ] Gut `More_tea_leaf` mod
-- [ ] Gut `Rice` mod
-- [ ] Gut `Wilderness Overhaul` mod
-- [ ] Gut `Wild Living` mod
-- [ ] Gut `Crude_Improvised` mod
-- [ ] Gut `Camping_tools` mod
-- [ ] Gut `Cloth_Rollmat` mod
-- [ ] Add `More_tea_leaf` mod to `JSON files`
-- [ ] Add `Rice` mod to `JSON files`
-- [ ] Add `Wilderness Overhaul` mod to `JSON files`
-- [ ] Add `Wild Living` mod to `JSON files`
-- [ ] Add `Crude_Improvised` mod to `JSON files`
-- [ ] Add `Camping_tools` mod to `JSON files`
-- [ ] Add `Cloth_Rollmat` mod to `JSON files`
-- [ ] Start work on `Wilderness Survival` new `MD` take source over
-- [ ] Start work on `Bush Craft Survival` new `MD` take source over
-
-
-# Introduction
-**Head-Category -** [Introduction](#introduction)
-
-
-```JSON
-I wanted to expand the early game and living in the bush or wild living if you will.
-This is a focused expansion and will be part of a bigger mod that will expand early game and wild living.
-I want to expand this as much as I can so there is nothing left.
-```
 
 
 # Features
