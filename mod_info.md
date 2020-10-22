@@ -156,11 +156,11 @@ Use the `home` key to get to the top.
 - [ ] Add `Rice` mod to `JSON files`\
 - [ ] Add `Wilderness Overhaul` mod to `JSON files`
 - [ ] Add `Wild Living` mod to `JSON files`\
-- [ ] Add `Crude_Improvised` Mod to `JSON files`\
+- [ ] Add `Crude_Improvised` mod to `JSON files`\
 - [ ] Add `Camping_tools` mod to `JSON files`\
 - [ ] Add `Cloth_Rollmat` mod to `JSON files`\
-- [ ] Start work on `Wilderness Survival` New `MD`\
-- [ ] Start Work on `Bush Craft Survival` New `MD`
+- [ ] Start work on `Wilderness Survival` new `MD` take source over\
+- [ ] Start work on `Bush Craft Survival` new `MD` take source over
 
 
 # Introduction
