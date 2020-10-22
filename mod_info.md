@@ -65,7 +65,7 @@ Use the `home` key to get to the top.
 
 
 ## Primitive Survival Sources
-**Head-Category -** [Sources](#sources)
+**Head-Category -** [Sources](#sources)\
 **Sub-Category -** [Primitive Survival Sources](#primitive-survival-sources)
 
 
@@ -90,7 +90,7 @@ Use the `home` key to get to the top.
 
 
 ## Wilderness Survival Sources
-**Head-Category -** [Sources](#sources)
+**Head-Category -** [Sources](#sources)\
 **Sub-Category -** [Wilderness Survival Sources](#wilderness-survival-sources)
 
 
@@ -121,9 +121,9 @@ Use the `home` key to get to the top.
 
 
 ## Bush Craft Survival Sources
-**Head-Category -** [Sources](#sources)
-**Sub-Category -** [BushCraft Survival Sources](#bushcraft-survival-sources)
-
+**Head-Category -** [Sources](#sources)\
+**Sub-Category -** [BushCraft Survival Sources](#bushcraft-survival-sources)\
+**needs updated**
 
 https://www.google.com/search?safe=off&sxsrf=ALeKk01ihmSeMnsKvI_7L5KZN7t8QOdmAA%3A1603386758398&ei=hr2RX73bF66KlwS97J34Dw&q=Bushcraft+&oq=Bushcraft+&gs_lcp=CgZwc3ktYWIQAzIECAAQQzIFCAAQkQIyBAgAEEMyBAgAEEMyCwguELEDEMcBEK8BMgcIABAUEIcCMgQIABBDMgQIABBDMgUIABCxAzIECAAQQzoHCAAQyQMQQzoKCC4QxwEQowIQQzoICAAQsQMQgwE6AggAOgsILhCxAxDHARCjAjoLCAAQsQMQyQMQkQI6CAgAELEDEJECOgkIABDJAxANEB46BggAEA0QHlD_lD9Y_rA_YPi7P2gCcAF4AIAB5AGIAcgLkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwi9tq-R2cjsAhUuxYUKHT12B_8Q4dUDCA0&uact=5
 
