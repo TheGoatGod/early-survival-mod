@@ -8,6 +8,7 @@ Use the `home` key to get to the top.
 
 
 - [Sources](#sources)
+  + [Primitive Survival Sources](#primitive-survival-sources)
 - [To-do](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
@@ -52,7 +53,18 @@ Use the `home` key to get to the top.
 
 
 # Sources
-**Category -** [Sources](#sources)
+**Head-Category -** [Sources](#sources)
+
+
+*Sub-Category's:*
+[Primitive Survival Sources](#primitive-survival-sources)
+[Wilderness Survival Sources](#wilderness-survival-sources)
+[BushCraft Survival Sources](#bushcraft-survival-sources)
+
+
+## Primitive Survival Sources
+**Head-Category -** [Sources](#sources)
+**Sub-Category -** [Primitive Survival Sources](#primitive-survival-sources)
 
 
 [Primitive Survival Tools](https://www.survivalsullivan.com/primitive-survival-tools/)\
@@ -67,15 +79,11 @@ Use the `home` key to get to the top.
 [Primitive Technology Wordpress Wood Ash Cement](https://primitivetechnology.wordpress.com/2018/07/17/wood-ash-cement/)\
 [Primitive Technology Wordpress Yam Cultivate and cook](https://primitivetechnology.wordpress.com/2018/06/15/yam-cultivate-and-cook/)\
 [Primitive Technology Wordpress Round Hut](https://primitivetechnology.wordpress.com/2018/04/20/round-hut/)\
-[Wilderness Survival](https://www.scmp.com/lifestyle/travel-leisure/article/2159108/wilderness-survival-five-asian-youtube-stars-getting)\
-[WildernessSurvival.co.uk](https://wilderness-survival.co.uk/home)\
-[TA Outdoors YouTube](https://www.youtube.com/channel/UC2SMpy2oZV6BoyJEYShw9bw)\
-[Wilderness Survival - Wildwood Survival](http://www.wildwoodsurvival.com/survival/)\
-[Cambodia Wilderness YouTube](https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w)\
 [Primitive Skills YouTube](https://www.youtube.com/channel/UCs8DNFOxYen3kuj87aWKG9g)\
 [Primitive Survival Tool YouTube](https://www.youtube.com/channel/UC6vasuRFx3t3NTISG6iwUeA)\
 [Survival Skills Primitive YouTube](https://www.youtube.com/channel/UChUP6B_3zcdFYZnOdMM21og)\
-[Tube Unique Wilderness YouTube](https://www.youtube.com/channel/UCJjheeAVwFB0S5HlWbBwIfQ)\
+[Tube Unique Wilderness YouTube](https://www.youtube.com/channelUCJjheeAVwFB0S5HlWbBwIfQ)\
+[Cambodia Wilderness YouTube](https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w)\
 [AlfieAesthetics YouTube](https://www.youtube.com/channel/UC2TXg45Dbt2de8auakllW8g)\
 [Survival Kit](https://modularsurvivalsystems.co.uk/wilderness-survival-kit-40-p.asp)\
 [Another Survival Kit](https://fatherhoodfactor.com/making-a-wilderness-survival-kit-the-complete-checklist/)\
