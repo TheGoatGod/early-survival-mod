@@ -132,34 +132,34 @@ Use the `home` key to get to the top.
 **Head-Category -** [To-do](#to-do)
 
 
-- [x] Fix `Recipes` to contain all items and `Vehicle-Parts`\
-- [x] Make `Vanilla` Category\
-- [x] Make `Resources` Category\
-- [x] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category\
-- [x] Remove all `Items` in vanilla - add extra code to `Vanilla` Category\
-- [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category\
-- [ ] Remove unwanted `Recipes`\
-- [ ] Add new `Construction` method for building with `Sticks`\
-- [ ] Add new `Construction` method for building with `Sticks` and `Mud`\
-- [ ] Look through new `Sources` for new `Primitive` features\
-- [ ] Expand `Items`\
-- [ ] Expand `Recipes`\
-- [ ] Gut `More_tea_leaf` mod\
-- [ ] Gut `Rice` mod\
-- [ ] Gut `Wilderness Overhaul` mod\
-- [ ] Gut `Wild Living` mod\
-- [ ] Gut `Crude_Improvised` mod\
-- [ ] Gut `Camping_tools` mod\
-- [ ] Gut `Cloth_Rollmat` mod\
-- [ ] Implement `Primitive` mod `Ids` to `JSON files`\
-- [ ] Add `More_tea_leaf` mod to `JSON files`\
-- [ ] Add `Rice` mod to `JSON files`\
+- [x] Fix `Recipes` to contain all items and `Vehicle-Parts`
+- [x] Make `Vanilla` Category
+- [x] Make `Resources` Category
+- [x] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category
+- [x] Remove all `Items` in vanilla - add extra code to `Vanilla` Category
+- [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category
+- [ ] Remove unwanted `Recipes`
+- [ ] Add new `Construction` method for building with `Sticks`
+- [ ] Add new `Construction` method for building with `Sticks` and `Mud`
+- [ ] Look through new `Sources` for new `Primitive` features
+- [ ] Expand `Items`
+- [ ] Expand `Recipes`
+- [ ] Gut `More_tea_leaf` mod
+- [ ] Gut `Rice` mod
+- [ ] Gut `Wilderness Overhaul` mod
+- [ ] Gut `Wild Living` mod
+- [ ] Gut `Crude_Improvised` mod
+- [ ] Gut `Camping_tools` mod
+- [ ] Gut `Cloth_Rollmat` mod
+- [ ] Implement `Primitive` mod `Ids` to `JSON files`
+- [ ] Add `More_tea_leaf` mod to `JSON files`
+- [ ] Add `Rice` mod to `JSON files`
 - [ ] Add `Wilderness Overhaul` mod to `JSON files`
-- [ ] Add `Wild Living` mod to `JSON files`\
-- [ ] Add `Crude_Improvised` mod to `JSON files`\
-- [ ] Add `Camping_tools` mod to `JSON files`\
-- [ ] Add `Cloth_Rollmat` mod to `JSON files`\
-- [ ] Start work on `Wilderness Survival` new `MD` take source over\
+- [ ] Add `Wild Living` mod to `JSON files`
+- [ ] Add `Crude_Improvised` mod to `JSON files`
+- [ ] Add `Camping_tools` mod to `JSON files`
+- [ ] Add `Cloth_Rollmat` mod to `JSON files`
+- [ ] Start work on `Wilderness Survival` new `MD` take source over
 - [ ] Start work on `Bush Craft Survival` new `MD` take source over
 
 
