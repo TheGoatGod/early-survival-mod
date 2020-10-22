@@ -132,18 +132,26 @@ Use the `home` key to get to the top.
 **Head-Category -** [To-do](#to-do)
 
 
+*Priority Todos:*\
 - [x] Fix `Recipes` to contain all items and `Vehicle-Parts`
 - [x] Make `Vanilla` Category
 - [x] Make `Resources` Category
 - [x] Find out what `Items` have been added already to vanilla game and add to `Vanilla` Category
 - [x] Remove all `Items` in vanilla - add extra code to `Vanilla` Category
 - [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category
+- [ ] Add more to `Bush Craft Survival Sources`
 - [ ] Remove unwanted `Recipes`
+- [ ] Look through new `Sources` for new `Primitive` features add below this
 - [ ] Add new `Construction` method for building with `Sticks`
 - [ ] Add new `Construction` method for building with `Sticks` and `Mud`
-- [ ] Look through new `Sources` for new `Primitive` features
-- [ ] Expand `Items`
-- [ ] Expand `Recipes`
+- [ ] Add more `Items`
+- [ ] Add more `Recipes`
+- [ ] Add More `Vehicles`
+- [ ] Add more `Vehicle Parts`
+- [ ] Implement `Primitive` mod `Ids` to `JSON files`
+
+*For after*\
+---
 - [ ] Gut `More_tea_leaf` mod
 - [ ] Gut `Rice` mod
 - [ ] Gut `Wilderness Overhaul` mod
@@ -151,7 +159,6 @@ Use the `home` key to get to the top.
 - [ ] Gut `Crude_Improvised` mod
 - [ ] Gut `Camping_tools` mod
 - [ ] Gut `Cloth_Rollmat` mod
-- [ ] Implement `Primitive` mod `Ids` to `JSON files`
 - [ ] Add `More_tea_leaf` mod to `JSON files`
 - [ ] Add `Rice` mod to `JSON files`
 - [ ] Add `Wilderness Overhaul` mod to `JSON files`
