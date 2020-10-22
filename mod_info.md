@@ -69,7 +69,8 @@ I want to expand this as much as I can so there is nothing left.
 **Head-Category -** [To-do](#to-do)
 
 
-*Priority Todos:*\
+*Priority Todos:*
+---
 - [x] Fix `Recipes` to contain all items and `Vehicle-Parts`
 - [x] Make `Vanilla` Category
 - [x] Make `Resources` Category
@@ -87,7 +88,7 @@ I want to expand this as much as I can so there is nothing left.
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
 
-*For after*\
+*For after*
 ---
 - [ ] Gut `More_tea_leaf` mod
 - [ ] Gut `Rice` mod
