@@ -115,11 +115,17 @@ Use the `home` key to get to the top.
 - [ ] Gut `Rice` mod\
 - [ ] Gut `Wilderness Overhaul` mod\
 - [ ] Gut `Wild Living` mod\
-- [ ] Implement Primitive mod `Ids` to `JSON files`
+- [ ] Gut `Crude_Improvised` mod\
+- [ ] Gut `Camping_tools` mod\
+- [ ] Gut `Cloth_Rollmat` mod\
+- [ ] Implement `Primitive` mod `Ids` to `JSON files`\
 - [ ] Add `More_tea_leaf` mod to `JSON files`\
 - [ ] Add `Rice` mod to `JSON files`\
 - [ ] Add `Wilderness Overhaul` mod to `JSON files`
-- [ ] Add `Wild Living` mod to `JSON files`
+- [ ] Add `Wild Living` mod to `JSON files`\
+- [ ] Add `Crude_Improvised` Mod to `JSON files`\
+- [ ] Add `Camping_tools` mod to `JSON files`\
+- [ ] Add `Cloth_Rollmat` mod to `JSON files`\
 - [ ] Start work on `Wilderness Survival` New `MD`
 
 
