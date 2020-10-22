@@ -159,7 +159,8 @@ https://www.google.com/search?safe=off&sxsrf=ALeKk01ihmSeMnsKvI_7L5KZN7t8QOdmAA%
 - [ ] Add `Crude_Improvised` Mod to `JSON files`\
 - [ ] Add `Camping_tools` mod to `JSON files`\
 - [ ] Add `Cloth_Rollmat` mod to `JSON files`\
-- [ ] Start work on `Wilderness Survival` New `MD`
+- [ ] Start work on `Wilderness Survival` New `MD`\
+- [ ] Start Work on `Bush Craft Survival` New `MD`
 
 
 # Introduction
