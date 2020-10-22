@@ -90,6 +90,8 @@ I want to expand this as much as I can so there is nothing left.
 
 *For after*
 ---
+- [ ] Start work on `Wilderness Survival` new `MD` take source over
+- [ ] Start work on `Bush Craft Survival` new `MD` take source over
 - [ ] Gut `More_tea_leaf` mod
 - [ ] Gut `Rice` mod
 - [ ] Gut `Wilderness Overhaul` mod
@@ -104,8 +106,6 @@ I want to expand this as much as I can so there is nothing left.
 - [ ] Add `Crude_Improvised` mod to `JSON files`
 - [ ] Add `Camping_tools` mod to `JSON files`
 - [ ] Add `Cloth_Rollmat` mod to `JSON files`
-- [ ] Start work on `Wilderness Survival` new `MD` take source over
-- [ ] Start work on `Bush Craft Survival` new `MD` take source over
 
 
 # Sources
