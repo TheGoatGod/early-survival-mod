@@ -10,7 +10,7 @@ Use the `home` key to get to the top.
 - [Sources](#sources)
   + [Primitive Survival Sources](#primitive-survival-sources)
   + [Wilderness Survival Sources](#wilderness-survival-sources)
-  + [Bush Craft Survival Sources](#bushcraft-survival-sources)
+  + [Bush Craft Survival Sources](#bush-craft-survival-sources)
 - [To-do](#to-do)
 - [Introduction](#introduction)
 - [Features](#features)
@@ -61,7 +61,7 @@ Use the `home` key to get to the top.
 *All Sub Category's:*\
 [Primitive Survival Sources](#primitive-survival-sources)\
 [Wilderness Survival Sources](#wilderness-survival-sources)\
-[BushCraft Survival Sources](#bushcraft-survival-sources)
+[Bush Craft Survival Sources](#bush-craft-survival-sources)
 
 
 ## Primitive Survival Sources
@@ -124,7 +124,7 @@ Use the `home` key to get to the top.
 
 ## Bush Craft Survival Sources
 **Head-Category -** [Sources](#sources)\
-**Sub-Category -** [BushCraft Survival Sources](#bushcraft-survival-sources)\
+**Sub-Category -** [Bush Craft Survival Sources](#bush-craft-survival-sources)
 **needs updated**
 
 
