@@ -58,9 +58,9 @@ Use the `home` key to get to the top.
 **Head-Category -** [Sources](#sources)
 
 
-*Sub-Category's:*
-[Primitive Survival Sources](#primitive-survival-sources)
-[Wilderness Survival Sources](#wilderness-survival-sources)
+*All Sub Category's:*\
+[Primitive Survival Sources](#primitive-survival-sources)\
+[Wilderness Survival Sources](#wilderness-survival-sources)\
 [BushCraft Survival Sources](#bushcraft-survival-sources)
 
 
