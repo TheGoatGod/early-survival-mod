@@ -85,7 +85,14 @@ Use the `home` key to get to the top.
 [Wilderness Survival Tools 2](https://www.gearhungry.com/survival-gear/)\
 [Wilderness Survival Gear list](https://www.skilledsurvival.com/survival-gear-list/)\
 [Wilderness Survival All Gear](https://www.wilderness-survival-gear.com/)\
-[Top Survival Tools](https://secretsofsurvival.com/top-survival-tools/)
+[Top Survival Tools](https://secretsofsurvival.com/top-survival-tools/)\
+[Outdoor Survival](https://www.bushcraftlab.co.uk/collections/outdoor-survival-kit)\
+[A-Z Survival List](https://secretsofsurvival.com/survival-a-to-z-survival-list/)\
+[Army Survival Kits](https://www.cadetdirect.com/survival-equipment/survival-aids/complete-survival-kits)\
+[Nato Survival Kits](https://www.firestormkit.co.uk/nato-military-survival-kit.html)\
+[Intense Wilderness survival 1](https://www.budk.com/Intense-Wilderness-Survival-Gear-5280)\
+[Teepee tents](https://www.chkadels.com/Intense-4-Person-Teepee-Tent-40607)\
+[Tactical gear](https://www.gearupfl.com/tactical-gear/)
 
 
 # To-do
