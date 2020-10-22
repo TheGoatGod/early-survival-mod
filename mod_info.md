@@ -101,12 +101,19 @@ Use the `home` key to get to the top.
 - [ ] Remove unwanted `Recipes`\
 - [ ] Add new `Construction` method for building with `Sticks`\
 - [ ] Add new `Construction` method for building with `Sticks` and `Mud`\
-- [ ] Look through new `YouTube` `Sources` for new features\
+- [ ] Look through new `Sources` for new `Primitive` features\
 - [ ] Expand `Items`\
 - [ ] Expand `Recipes`\
+- [ ] Gut `More_tea_leaf` mod\
+- [ ] Gut `Rice` mod\
+- [ ] Gut `Wilderness Overhaul` mod\
+- [ ] Gut `Wild Living` mod\
+- [ ] Implement Primitive mod `Ids` to `JSON files`
 - [ ] Add `More_tea_leaf` mod to `JSON files`\
 - [ ] Add `Rice` mod to `JSON files`\
-- [ ] Implement `Ids` to `JSON files`
+- [ ] Add `Wilderness Overhaul` mod to `JSON files`
+- [ ] Add `Wild Living` mod to `JSON files`
+- [ ] Start work on `Wilderness Survival` New `MD`
 
 
 # Introduction
