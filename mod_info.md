@@ -242,11 +242,13 @@ Glue
 
 *Materials:*
 ```JSON
-leather
+Leather
 Clay
-rubber
+Rubber
 Rocks
 Logs
+Sticks
+Long Sticks
 ```
 
 *Leather clothing:*
