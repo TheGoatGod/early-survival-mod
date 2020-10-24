@@ -1,4 +1,4 @@
-# Primitive Survival mod construction
+# Early Survival mod construction
 
 
 Use the `home` key to get to the top.
