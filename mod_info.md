@@ -1243,7 +1243,7 @@ Porridge - flour, Water - boil
 Oven porridge - flour, water - Bake
 Seed porridge - flour, seed, water - boil
 Berry porridge - flour, berry, water - boil
-fish - raw fish, water, vegetables, seasoning - knife - boil
+Fish Fillet - raw fish, water, vegetables, seasoning - knife - boil
 Pea soup - peas, water, raw meat, seasoning - boil
 Green soup - herbs, water, flour, seasoning - boil
 Vegetable soup - vegetables, water, seasoning - boil
