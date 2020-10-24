@@ -33,8 +33,8 @@ Use the `home` key to get to the top.
     + [Medicine](#medicine)
   - [Resources](#resources)
 - [Furniture and Terrain](#furniture-and-terrain)
+  + [Furniture](#furniture)
   + [Terrain](#terrain)
-  + [Locations](#locations)
 - [Construction](#construction)
 - [Vehicles](#vehicles)
   + [Vehicle-Parts](#vehicle-parts)
@@ -714,20 +714,29 @@ Firewood
 
 
 *All Sub Category's:*\
-[Terrain](#terrain)\
-[Locations](#locations)\
-[Construction](#construction)
+[Furniture](#furniture)\
+[Terrain](#terrain)
 
 
-## Terrain
+## Furniture
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
-**Sub-category -** [Terrain](#terrain)\
-**needs update**
+**Sub-Category -** [Furniture](#furniture)
 
 
-*Sources:*
+*Construction:*
 ```JSON
-https://primitive.fandom.com/wiki/Structures
+Apiary
+Bakers Oven
+Cauldron
+Fireplace
+Firewood Holder
+Fruit Press
+Grill
+Hand mill
+Spinning Mule
+Storage Barrel
+Tanning Rack
+Weapon Rack
 ```
 
 *Terrain:*
