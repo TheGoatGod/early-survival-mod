@@ -657,8 +657,26 @@ Hemp seed - Hemp
 Goji seed - Goji berries
 Bilberries seed - Bilberries
 Acai seed - Acai berries
+St. Johns Wort Seed - St. Johns Wort
+Yarrow seed - Yarrow
+Golden Rod Seed - Golden Rod
+Calendula seed - Calendula
 ```
 
+
+## Medicine
+**Head-Category -** [Items](#items)\
+**Sub-Head-Category -** [Comestibles](#comestibles)\
+**Sub-Category -** [Medicine](#medicine)
+
+
+*GENERIC:*
+```JSON
+St. Johns Wort
+Yarrow
+Golden Rod
+Calendula
+```
 
 # Resources
 **Head-Category -** [Items](#items)\
@@ -758,6 +776,10 @@ Pea Plant
 Broad Bean Plant
 Rye Plant
 Hemp Plant
+St. Johns Wort Plant
+Yarrow Plant
+Golden Rod Plant
+Calendula Plant
 ```
 
 
