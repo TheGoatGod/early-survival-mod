@@ -966,21 +966,18 @@ Primitive Spears
 Primitive Stone Tomahawks
 Primitive Hoko Knives
 Primitive Rock Slings
-Primitive Bows And Arrows
+Primitive Long Bow
 Primitive Short bow
-Primitive Arrows - crude, non-crude
-Primitive Blowguns
+Primitive Arrows - curde, non-cude
+Primitive Blowgun
 Primitive Lassos?
-Primitive Bolas
 Primitive Throwing/Rabbit Sticks
-Primitive Slingshot
 Primitive Dagger
 Primitive Sword
 Primitive Viking Axe
 Primitive Staff
-Primitive Bat
-Mongol Bow And Arrow
-Atlatls (A.k.a. Spear Throwers)
+Mongol Bow And Arrows
+Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
 
 
