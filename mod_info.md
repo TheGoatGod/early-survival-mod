@@ -448,7 +448,6 @@ Adobe
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)\
 **Sub-Category -** [Clothes](#clothes)\
-**needs update**
 
 
 *Cloth Clothing:*
