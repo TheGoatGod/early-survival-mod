@@ -1031,6 +1031,7 @@ Thatched (woven) Prairie Grass
 Primitive Backpack - Primitive Sack, Cord - bone awl
 Primitive Sack - Cord - Bone awl
 Primitive Bucket - Wood, Cord - Cutting tool
+Primitive Canteen - Wood, Chisel - Cutting tool
 ```
 
 *Unfinished-Containers:*
