@@ -152,7 +152,7 @@ I wanted to expand the early game and living in the bush or wild living if you w
 [Build a Primitive Adobe Rocket Stove (Part 1)](https://www.youtube.com/watch?v=TO3e4NYqr3c)\
 [Build a Primitive Adobe Rocket Stove (Part 2)](https://www.youtube.com/watch?v=hcbrIdEEG60)\
 [Build a Primitive Adobe Rocket Stove (Part 3)](https://www.youtube.com/watch?v=Htx6d9bz2Yo)\
-[Build a Primitive Adobe Rocket Stove (Part 4)](https://www.youtube.com/watch?v=N34CxATbf7Q)\
+[Build a Primitive Adobe Rocket Stove (Part 4)](https://www.youtube.com/watch?v=N34CxATbf7Q)
 
 
 ## Wilderness Survival Sources
@@ -184,12 +184,12 @@ I wanted to expand the early game and living in the bush or wild living if you w
 [Ultimate Survival Gear](https://www.amazon.co.uk/Ultimate-Survival-Multi-Purpose-Entrenching-Emergency/dp/B082QVCYW6)\
 [Best Survival Gear 2020](https://www.thesmartsurvivalist.com/best-survival-gadgets/)\
 [Best Survival Tools](https://unchartedsupplyco.com/blogs/news/survival-tools)\
-[Survival Gear](https://www.gooutdoors.co.uk/walking/equipment/survival/)\
+[Survival Gear](https://www.gooutdoors.co.uk/walking/equipment/survival/)
 
 
 ## Bush Craft Survival Sources
 **Head-Category -** [Sources](#sources)\
-**Sub-Category -** [Bush Craft Survival Sources](#bush-craft-survival-sources)
+**Sub-Category -** [Bush Craft Survival Sources](#bush-craft-survival-sources)\
 **needs updated**
 
 
@@ -440,7 +440,7 @@ Adobe
 ## Clothes
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)\
-**Sub-Category -** [Clothes](#clothes)\
+**Sub-Category -** [Clothes](#clothes)
 
 
 *Cloth Clothing:*
@@ -752,7 +752,7 @@ Weapon Rack
 
 ## Terrain
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
-**Sub-category -** [Terrain](#terrain)\
+**Sub-category -** [Terrain](#terrain)
 
 
 *Mud Terrain:*
@@ -922,7 +922,7 @@ Steering stick attached to steering wood
 
 
 *TODO:*\
-- [x] add `Tools` from `Items` Category\
+- [x] add `Tools` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
 
 *Unfinished-Items:*
@@ -994,8 +994,8 @@ Atlatls (A.k.a. Spear Throwers) - take from code already made
 **Sub-Category -** [Generic](#r-generic)
 
 
-*TODO:*\
-- [x] add `Generic` from `Items` Category\
+*TODO:*
+- [x] add `Generic` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
 
 *Unfinished-Items:*
@@ -1015,7 +1015,7 @@ Thatched (woven) Prairie Grass
 **Sub-Category -** [Containers](#r-containers)
 
 
-*TODO:*\
+*TODO:*
 - [ ] Sort `Unfinished-Containers` into `Containers`
 
 *Containers:*
@@ -1038,7 +1038,7 @@ Primitive Canteen
 **Sub-Category -** [Materials](#r-materials)
 
 
-*TODO:*\
+*TODO:*
 - [x] add `Materials` from `Items` Category
 
 *Items:*
@@ -1146,7 +1146,7 @@ Fur-Leather Mittens
 **Sub-Category -** [Armor](#r-armor)
 
 
-*TODO:*\
+*TODO:*
 - [x] add `Armor` from `Items` Category
 
 *Leather clothing:*
@@ -1167,7 +1167,7 @@ Fur-Leather cuirass
 # R-Comestibles
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
-**Sub-Category-Header -** [Comestibles](#r-comestibles)\
+**Sub-Category-Header -** [Comestibles](#r-comestibles)
 
 
 *All Sub Category's:*\
@@ -1180,14 +1180,14 @@ Fur-Leather cuirass
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
-**Sub-Category -** [Drink](#r-drink)\
+**Sub-Category -** [Drink](#r-drink)
 
 
-*TODO:*\
-- [x] add `Drink` from `Items` Category\
-- [ ] Primitive `Tea` Recipes\
-- [ ] Primitive `Coffee` Recipes\
-- [x] `Juices` Recipes\
+*TODO:*
+- [x] add `Drink` from `Items` Category
+- [ ] Primitive `Tea` Recipes
+- [ ] Primitive `Coffee` Recipes
+- [x] `Juices` Recipes
 - [x] `Juice` Recipes
 
 *Unfinished-Comestibles:*
@@ -1217,13 +1217,13 @@ Mushroom tea
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
-**Sub-Category -** [Food](#r-food)\
+**Sub-Category -** [Food](#r-food)
 
 
-*TODO:*\
-- [x] add `Food` from `Items` Category\
-- [ ] add process to `Unfinished Food`\
-- [ ] add `Unfinished food` to `Finished Food`\
+*TODO:*
+- [x] add `Food` from `Items` Category
+- [ ] add process to `Unfinished Food`
+- [ ] add `Unfinished food` to `Finished Food`
 - [ ] add more `Breads`
 
 
@@ -1259,7 +1259,7 @@ Flatbread
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
-**Sub-Category -** [Seeds](#r-seeds)\
+**Sub-Category -** [Seeds](#r-seeds)
 
 
 fruit = seeds
@@ -1293,7 +1293,7 @@ Calendula seed - Calendula
 
 # R-Vehicles
 **Head-Category -** [Recipes](#recipes)\
-**Sub-Head-Category -** [Vehicles](#r-Vehicles)\
+**Sub-Head-Category -** [Vehicles](#r-Vehicles)
 
 
 *All Sub Category's:*\
@@ -1303,11 +1303,11 @@ Calendula seed - Calendula
 ## R-Vehicle-Parts
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)\
-**Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)\
+**Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)
 
 
-*TODO:*\
-- [x] add `Vehicle-Parts` from `Vehicles` Category\
+*TODO:*
+- [x] add `Vehicle-Parts` from `Vehicles` Category
 - [x] add `Unfinished-Items` to `Items`
 
 *Items:*
