@@ -1199,33 +1199,13 @@ Fur-Leather cuirass
 
 *Unfinished-Comestibles:*
 ```JSON
--Step 1 Juice process
-Blueberries
-Raspberries
-Goji berries
-Strawberries
-Bilberries
-Acai berries
-Cranberries
-Grapes
--Step 2 Juice process
-Amarberry Juices
-Blueberrie Juices
-Raspberrie Juices
-Goji berrie Juices
-Strawberrie Juices
-Bilberrie Juices
-Acai berrie Juices
-Cranberrie Juices
-Grape Juices
--Step 3 Juice process
-Blueberrie Juice
-Raspberrie Juice
-Goji berrie Juice
-Strawberrie Juice
-Bilberrie Juice
-Acai berrie Juice
-Cranberrie Juice
+Blueberry Juice
+Raspberry Juice
+Goji berry Juice
+Strawberry Juice
+Bilberry Juice
+Acai berry Juice
+Cranberry Juice
 Grape Juice
 -Anything after I've added because I want this
 Sugar juice
