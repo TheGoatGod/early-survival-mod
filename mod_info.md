@@ -761,7 +761,6 @@ Weapon Rack
 ## Terrain
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
 **Sub-category -** [Terrain](#terrain)\
-**needs update**
 
 
 *Mud Terrain:*
