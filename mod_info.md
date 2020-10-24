@@ -1188,7 +1188,7 @@ Fur-Leather cuirass
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
-**Sub-Category -** [Drink](#r-drink)
+**Sub-Category -** [Drink](#r-drink)\
 
 
 *TODO:*\
@@ -1301,7 +1301,7 @@ Calendula seed - Calendula
 
 # R-Vehicles
 **Head-Category -** [Recipes](#recipes)\
-**Sub-Head-Category -** [Vehicles](#r-Vehicles)
+**Sub-Head-Category -** [Vehicles](#r-Vehicles)\
 
 
 *All Sub Category's:*\
@@ -1311,7 +1311,7 @@ Calendula seed - Calendula
 ## R-Vehicle-Parts
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)\
-**Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)
+**Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)\
 
 
 *TODO:*\
