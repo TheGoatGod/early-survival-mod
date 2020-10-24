@@ -380,11 +380,10 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 
 *Items:*
 ```JSON
+Primitive Glue
 Bonemeal Fertilizer
 Primitive Sleeping fur/pelt
 Ice Block
-Sticks
-Large Sticks
 Woven Sticks
 Thatched (woven) Prairie Grass
 ```
