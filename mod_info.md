@@ -142,6 +142,28 @@ I want to expand this as much as I can so there is nothing left.
 [Cambodia Wilderness YouTube](https://www.youtube.com/channel/UC9trIXmdvBIkH2WakrRfK1w)\
 [AlfieAesthetics YouTube](https://www.youtube.com/channel/UC2TXg45Dbt2de8auakllW8g)\
 [Gone Feral Primitive Skills](https://www.youtube.com/channel/UCaoQ7yYOVjd-8n8nv_r7fXQ)
+[How To Make Roman Concrete](https://www.youtube.com/watch?v=DP0t2MmOMEA)
+[How To Make Ash Cement](https://www.youtube.com/watch?v=DP0t2MmOMEA&ab_channel=PrimitiveTechnology)
+[Primitive Technology: Mud Bricks](https://www.youtube.com/watch?v=D59v74k5flU)
+[Primitive Technology: Fired Clay Bricks](https://www.youtube.com/watch?v=FwRFH7MH5N0&ab_channel=PrimitiveTechnology)
+[Primitive Technology: Brick Firing Kiln](https://www.youtube.com/watch?v=wrTDJbaxhOI&ab_channel=PrimitiveTechnology)
+[Primitive Tool : Make 100 mud brick](https://www.youtube.com/watch?v=Tek3pjCz7BI&ab_channel=PrimitiveSurvivalTool)
+[Making brick the primitive way](https://www.youtube.com/watch?v=V1wS_W9Rt7c)
+[Primitive Building Technology](https://www.youtube.com/channel/UCsNG5AKFeyX_2_GB7ubk9NA)
+[Survival Skills Primitive](https://www.youtube.com/channel/UChUP6B_3zcdFYZnOdMM21og)
+[Sticky rice, Sand Bricks](https://www.youtube.com/watch?v=03fkX98BsHE)
+[Primitive Technology: Furnace and Mud Bricks](https://www.youtube.com/watch?v=v1ebu1hJWcs)
+[Primitive Bricks and Mortar](https://www.youtube.com/watch?v=JfmRKjIJmOQ)
+[Primitive Tool : Make mud brick walls](https://www.youtube.com/watch?v=ou-lOno_2Aw)
+[Brick Oven](https://www.youtube.com/watch?v=Ob9EDRcCaY4)
+[Primitive Tool : Updated grass wall to mud brick wall](https://www.youtube.com/watch?v=hBMOZti_8_U)
+[Primitive Technology: Making Copper Bricks and Making Clay Bricks](https://www.youtube.com/watch?v=0_9rtqvl-iw&ab_channel=SurvivalSkillsPrimitive)
+[Adobe Wall](https://www.youtube.com/watch?v=hzz36cvo88U)
+[Grass Thatch](https://www.youtube.com/watch?v=Ka2Eu6LxAKo)
+[Build a Primitive Adobe Rocket Stove (Part 1)](https://www.youtube.com/watch?v=TO3e4NYqr3c)
+[Build a Primitive Adobe Rocket Stove (Part 2)](https://www.youtube.com/watch?v=hcbrIdEEG60)
+[Build a Primitive Adobe Rocket Stove (Part 3)](https://www.youtube.com/watch?v=Htx6d9bz2Yo)
+[Build a Primitive Adobe Rocket Stove (Part 4)](https://www.youtube.com/watch?v=N34CxATbf7Q)
 
 
 ## Wilderness Survival Sources
