@@ -85,7 +85,6 @@ I want to expand this as much as I can so there is nothing left.
 - [ ] Add new `Construction` method for building with `Sticks` and `Mud`
 - [ ] Add more `Items`
 - [ ] Add more `Recipes`
-- [ ] Add More `Vehicles`
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
 
