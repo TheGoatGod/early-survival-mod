@@ -179,12 +179,12 @@ I wanted to expand the early game and living in the bush or wild living if you w
 [Nato Survival Kits](https://www.firestormkit.co.uk/nato-military-survival-kit.html)\
 [Intense Wilderness survival 1](https://www.budk.com/Intense-Wilderness-Survival-Gear-5280)\
 [Teepee Tents](https://www.chkadels.com/Intense-4-Person-Teepee-Tent-40607)\
-[Tactical Gear](https://www.gearupfl.com/tactical-gear/)
-[Survival Gear](https://www.gearhungry.com/survival-gear/)
-[Ultimate Survival Gear](https://www.amazon.co.uk/Ultimate-Survival-Multi-Purpose-Entrenching-Emergency/dp/B082QVCYW6)
-[Best Survival Gear 2020](https://www.thesmartsurvivalist.com/best-survival-gadgets/)
-[Best Survival Tools](https://unchartedsupplyco.com/blogs/news/survival-tools)
-[Survival Gear](https://www.gooutdoors.co.uk/walking/equipment/survival/)
+[Tactical Gear](https://www.gearupfl.com/tactical-gear/)\
+[Survival Gear](https://www.gearhungry.com/survival-gear/)\
+[Ultimate Survival Gear](https://www.amazon.co.uk/Ultimate-Survival-Multi-Purpose-Entrenching-Emergency/dp/B082QVCYW6)\
+[Best Survival Gear 2020](https://www.thesmartsurvivalist.com/best-survival-gadgets/)\
+[Best Survival Tools](https://unchartedsupplyco.com/blogs/news/survival-tools)\
+[Survival Gear](https://www.gooutdoors.co.uk/walking/equipment/survival/)\
 
 
 ## Bush Craft Survival Sources
