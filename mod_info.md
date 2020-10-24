@@ -30,6 +30,7 @@ Use the `home` key to get to the top.
     + [Food](#food)
     + [Mushrooms](#mushrooms)
     + [Seeds](#seeds)
+    + [Medicine](#medicine)
   - [Resources](#resources)
 - [Furniture and Terrain](#furniture-and-terrain)
   + [Terrain](#terrain)
@@ -537,7 +538,8 @@ Fur-Leather cuirass
 [Raw-Fruit](#raw-Fruit)\
 [Drink](#drink)\
 [Food](#food)\
-[Seeds](#seeds)
+[Seeds](#seeds)\
+[Medicine](#medicine)
 
 
 ## Raw-Fruit
