@@ -810,7 +810,22 @@ Golden Rod Plant
 Calendula Plant
 ```
 
+*Mushrooms:* **needs proper naming to be included**
+https://en.wikipedia.org/wiki/Edible_mushroom
 ```JSON
+Black ear mushroom
+Sand mushroom
+Noaidi's mushroom
+Yellowcoat mushroom
+Browncoat mushroom
+Bearpaw mushroom
+Hairy mushroom
+Redlegger mushroom
+Yellow fingers mushroom
+Tellervo's gift mushroom
+Ukko's mushroom
+Soft mushroom
+Ringed mushroom
 ```
 
 
