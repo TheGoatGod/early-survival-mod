@@ -697,6 +697,7 @@ Golden Rod
 Calendula
 ```
 
+
 # Resources
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Resources](#resources)
