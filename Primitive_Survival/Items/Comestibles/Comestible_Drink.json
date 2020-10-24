@@ -1,0 +1,20 @@
+[
+  {
+    "id": "starch_water",
+    "type": "COMESTIBLE",
+    "comestible_type": "DRINK",
+    "copy-from": "starch",
+    "looks_like": "starch",
+    "name": { "str": "starch water", "str_pl": "starch water" },
+    "description": "Rinsing and separating the fibrous roots and other starch rich material has resulted in a carbohydrate rich soup you can process further.",
+    "color": "light_gray",
+    "quench": 20,
+    "volume": "250 ml",
+    "spoils_in": "2 days",
+    "container": "bottle_glass",
+    "primary_material": "water",
+    "charges": 1,
+    "freezing_point": -5,
+    "phase": "liquid"
+  }
+]

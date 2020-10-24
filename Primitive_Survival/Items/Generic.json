@@ -1,0 +1,113 @@
+[
+  {
+    "id": "clay_solution_extractor",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "clay evaporation dish" },
+    "description": "A very large shallow bowl with a lid used for evaporating water. Holds about 20 litres, probably best used with a charcoal smoker.",
+    "weight": "5480 g",
+    "volume": "20 L",
+    "price": 2500,
+    "bashing": 1,
+    "material": [ "clay" ],
+    "symbol": ")",
+    "color": "brown",
+    "container_data": { "contains": "20 L", "watertight": true },
+    "qualities": [ [ "COOK", 3 ], [ "BOIL", 2 ], [ "CONTAIN", 1 ], [ "CHEM", 1 ] ],
+    "use_action": "HEAT_FOOD",
+    "flags": [ "ALLOWS_REMOTE_USE" ]
+  },
+  {
+    "id": "clay_watercont",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "large clay pot" },
+    "description": "A bulky and heavy clay pot with a waterproofed lid, meant to store water, but can carry other liquids in a pinch.",
+    "weight": "4887 g",
+    "volume": "37500 ml",
+    "price": 10000,
+    "to_hit": -2,
+    "material": [ "clay" ],
+    "symbol": ")",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "rigid": true,
+        "watertight": true,
+        "max_contains_volume": "37 L",
+        "max_contains_weight": "40 kg"
+      }
+    ],
+    "qualities": [ [ "BOIL", 2 ], [ "CONTAIN", 1 ] ]
+  },
+  {
+    "id": "birch_water_jug",
+    "type": "GENERIC",
+    "category": "CC_OTHER",
+    "name": { "str": "birch water jug" },
+    "description": "A carefully made birch bark water jug with a lid, it is sealed with pine pitch. It can hold 1.5 liters of water.",
+    "weight": "453 g",
+    "volume": "3752 ml",
+    "price": 2000,
+    "to_hit": -1,
+    "bashing": 1,
+    "rigid": false,
+    "material": [ "wood" ],
+    "symbol": ")",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "rigid": true,
+        "watertight": true,
+        "max_contains_volume": "3750 ml",
+        "max_contains_weight": "8 kg"
+      }
+    ]
+  },
+  {
+    "type": "GENERIC",
+    "id": "rope_fiber_6",
+    "category": "spare_parts",
+    "copy-from": "rope_6",
+    "name": { "str": "short fiber rope" },
+    "description": "A six-foot long piece of rope, woven from plant fibers.  Too small to be of much use.",
+    "weight": "216 g",
+    "volume": "500 ml",
+    "color": "light_gray",
+    "symbol": ",",
+    "material": [ "paper" ],
+    "flags": [ "TIE_UP", "BELTED", "WATER_FRIENDLY", "OVERSIZE", "NO_SALVAGE" ],
+    "price": 3500
+  },
+  {
+    "type": "GENERIC",
+    "id": "rope_fiber_30",
+    "category": "spare_parts",
+    "copy-from": "rope_30",
+    "name": { "str": "long fiber rope" },
+    "description": "A 30-foot long piece of rope, woven from plant fibers.",
+    "weight": "1080 g",
+    "color": "light_gray",
+    "symbol": ",",
+    "material": [ "paper" ],
+    "volume": "2500 ml",
+    "flags": [ "TIE_UP", "BELTED", "WATER_FRIENDLY", "OVERSIZE", "NO_SALVAGE" ],
+    "price": 7500
+  },
+  {
+    "type": "GENERIC",
+    "id": "clay_plant_pot",
+    "category": "spare_parts",
+    "name": { "str": "clay plant pot" },
+    "description": "A large, open topped clay pot with holes near the bottom for water drainage.",
+    "weight": "3629 g",
+    "color": "light_gray",
+    "symbol": ")",
+    "material": [ "stone" ],
+    "volume": "3 L",
+    "flags": [ "NO_SALVAGE" ],
+    "price": 3500
+  }
+]
