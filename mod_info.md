@@ -91,22 +91,18 @@ I want to expand this as much as I can so there is nothing left.
 
 *For after*
 ---
+- [x] Gut `More_tea_leaf` mod
+- [x] Gut `Rice` mod
+- [x] Gut `Wilderness Overhaul` mod
+- [x] Gut `Wild Living` mod
+- [x] Gut `Cloth_Rollmat` mod
+- [x] Add `Rice` mod to `JSON files`
+- [x] Add `Wilderness Overhaul` mod to `JSON files`
+- [x] Add `Wild Living` mod to `JSON files`
+- [x] Add `Cloth_Rollmat` mod to `JSON files`
+- [ ] Add `More_tea_leaf` mod to `JSON files`
 - [ ] Start work on `Wilderness Survival` new `MD` take source over
 - [ ] Start work on `Bush Craft Survival` new `MD` take source over
-- [ ] Gut `More_tea_leaf` mod
-- [ ] Gut `Rice` mod
-- [ ] Gut `Wilderness Overhaul` mod
-- [ ] Gut `Wild Living` mod
-- [ ] Gut `Crude_Improvised` mod
-- [ ] Gut `Camping_tools` mod
-- [ ] Gut `Cloth_Rollmat` mod
-- [ ] Add `More_tea_leaf` mod to `JSON files`
-- [ ] Add `Rice` mod to `JSON files`
-- [ ] Add `Wilderness Overhaul` mod to `JSON files`
-- [ ] Add `Wild Living` mod to `JSON files`
-- [ ] Add `Crude_Improvised` mod to `JSON files`
-- [ ] Add `Camping_tools` mod to `JSON files`
-- [ ] Add `Cloth_Rollmat` mod to `JSON files`
 
 
 # Sources
