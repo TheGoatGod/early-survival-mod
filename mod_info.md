@@ -1155,7 +1155,21 @@ Fur-Leather Mittens
 
 
 *TODO:*\
-- [ ] add `Armor` from `Items` Category
+- [x] add `Armor` from `Items` Category
+
+*Leather clothing:*
+```JSON
+Leather forearm guards
+Leather shin guards
+Leather cuirass
+```
+
+*Combination clothes:*
+```JSON
+Fur-Leather forearm guards
+Fur-Leather shin guards
+Fur-Leather cuirass
+```
 
 
 # R-Comestibles
