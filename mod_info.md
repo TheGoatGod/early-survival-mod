@@ -86,6 +86,7 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [ ] Add more `Recipes`
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
+- [ ] Implement a way to collect `Mud`, `Grass`, `Bark`, `Adobe`, `Vines`, `Peat`, `Moss` and `Leaves`
 
 *For after*
 ---
