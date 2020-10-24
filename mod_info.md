@@ -739,7 +739,14 @@ Tanning Rack
 Weapon Rack
 ```
 
-*Terrain:*
+
+## Terrain
+**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
+**Sub-category -** [Terrain](#terrain)\
+**needs update**
+
+
+*Mud Terrain:*
 ```JSON
 Mud Door-frame
 Mud Door
@@ -748,6 +755,10 @@ Mud Window-frame
 Mud Window
 Mud Wall
 Mud Roof
+```
+
+*Thatched Terrain:*
+```JSON
 Thatch Door-frame
 Thatch Door
 Thatch Floor
@@ -755,6 +766,10 @@ Thatch Window-frame
 Thatch Window
 Thatch Wall
 Thatch Roof
+```
+
+*Stone Terrain:*
+```JSON
 Stone Door-frame
 Stone Door
 Stone Floor
