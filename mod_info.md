@@ -245,6 +245,8 @@ Glue
 leather
 Clay
 rubber
+Rocks
+Logs
 ```
 
 *Leather clothing:*
