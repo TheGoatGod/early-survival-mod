@@ -1008,9 +1008,12 @@ Atlatls (A.k.a. Spear Throwers) - take from code already made
 
 *Unfinished-Items:*
 ```JSON
-Glue
+Primitive Glue
 Bonemeal Fertilizer
-Sleeping fur/pelt
+Primitive Sleeping fur/pelt
+Ice Block
+Woven Sticks
+Thatched (woven) Prairie Grass
 ```
 
 
