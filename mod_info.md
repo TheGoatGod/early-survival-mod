@@ -1253,39 +1253,15 @@ Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 
 *unfinished food:*
 ```JSON
-Cane Sugar
+Cashew Nuts
 Cashew Milk
-Cured Bacon
-Dried Tea Bag
-Bacon
-Chicken
-Fish Fillet
-Dough
-Spare Ribs
 Ground Cashew
-Honey
-Malt
 Organic Oil
-Flour
-Salt
-Yeast
-Bread Loaf
-Chicken and Rice
-Cooked Bacon
-Cooked Chicken
-Cooked Fish Fillet
-Cooked Spare Ribs
-Fat
-Fillet and Bread
-Prime Salad
-Preserved Berry´s (Jam)
+Preserved Jam
 Flatbread
-Porridge
-Oven porridge
-Seed porridge
-Berry porridge
-Meat soup
-Meat stew
+```
+
+
 ```
 
 
