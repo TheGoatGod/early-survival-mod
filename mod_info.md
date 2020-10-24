@@ -613,11 +613,19 @@ Ground Cashew Nuts
 Organic Oil
 Preserved Jam
 Flatbread
+Homemade Soap
+Meat soup
+Meat stew
 Porridge
 Oven porridge
 Seed porridge
 Berry porridge
-Meat stew
+Pea soup
+Green soup
+Vegetable soup
+Mushroom soup
+Vegetable stew
+Fillet and Bread
 ```
 
 
