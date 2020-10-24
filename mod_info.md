@@ -781,24 +781,6 @@ Stone Wall
 Stone Roof
 ```
 
-*Mushrooms:* **needs proper naming to be included**
-https://en.wikipedia.org/wiki/Edible_mushroom
-```JSON
-Black ear mushroom
-Sand mushroom
-Noaidi's mushroom
-Yellowcoat mushroom
-Browncoat mushroom
-Bearpaw mushroom
-Hairy mushroom
-Redlegger mushroom
-Yellow fingers mushroom
-Tellervo's gift mushroom
-Ukko's mushroom
-Soft mushroom
-Ringed mushroom
-```
-
 *Terrain flora:*
 ```JSON
 Lingonberry bush
@@ -828,43 +810,7 @@ Golden Rod Plant
 Calendula Plant
 ```
 
-
-*Construction:*
 ```JSON
-Apiary
-Bakers Oven
-Cauldron
-Fireplace
-Firewood Holder
-Fruit Press
-Grill
-Hand mill
-Spinning Mule
-Storage Barrel
-Tanning Rack
-Weapon Rack
-```
-
-
-## Locations
-**Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
-**Sub-Category -** [Locations](#locations)
-
-
-*Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Structures
-```
-
-*Items:*
-```JSON
-Primitive Wood Storage Shed
-Primitive Round hut - yurt
-Primitive Tepee
-Primitive Preserving Shed
-Primitive Storage Shed
-Primitive Storage Shed (Fibre)
-Primitive Smoke house
 ```
 
 
