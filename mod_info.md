@@ -545,9 +545,14 @@ Fur-Leather cuirass
 
 *Raw-Fruit:*
 ```JSON
+Blueberries
+Raspberries
 Goji berries
+Strawberries
 Bilberries
 Acai berries
+Cranberries
+Grapes
 ```
 
 
@@ -573,16 +578,6 @@ Bilberry Juice
 Acai berry Juice
 Cranberry Juice
 Grape Juice
--Anything after I've added because I want this
-Sugar juice
-Beer
-Lagar
-Coffee
-Tea
-Moonshine
-Whiskey
-Wine
-Mushroom tea
 ```
 
 
@@ -1200,16 +1195,6 @@ Bilberry Juice
 Acai berry Juice
 Cranberry Juice
 Grape Juice
--Anything after I've added because I want this
-Sugar juice
-Beer
-Lagar
-Coffee
-Tea
-Moonshine
-Whiskey
-Wine
-Mushroom tea
 ```
 
 
