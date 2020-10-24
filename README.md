@@ -309,7 +309,6 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 *Items:*
 ```JSON
 - [ ] Primitive Knife
-- [ ] Primitive machete
 - [ ] Primitive Stone Hammers
 - [ ] Primitive Grain Grinders
 - [ ] Primitive Mortar And Pestles
@@ -343,6 +342,7 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 - [ ] Primitive Spears
 - [ ] Primitive Stone Tomahawks
 - [ ] Primitive Hoko Knives
+- [ ] Primitive machete
 - [ ] Primitive Rock Slings
 - [ ] Primitive Long Bow
 - [ ] Primitive Short bow
