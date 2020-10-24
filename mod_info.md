@@ -1087,28 +1087,39 @@ Adobe
 **Sub-Category -** [Clothes](#r-clothes)
 
 
+*Cloth Clothing:*
+```JSON
+Cloth Cap
+Cloth Shirt
+Cloth Mittens
+Cloth leggings
+Cloth Hood
+Cloth Pants
+Cloth Shoes
+Cloth Jacket
+Cloth Gloves
+```
+
 *Leather clothing:*
 ```JSON
-Leather belt
 Leather cap
 Leather shirt
 Leather leggings
-Leather shoes
-Leather forearm guards
-Leather shin guards
-Leather cuirass
+Leather Jacket
+Leather Gloves
 ```
 
 *Fur clothing:*
 ```JSON
-Fur cap
-Fur shirt
-Fur mittens
-Fur leggings
-Fur hood
-Fur shoes
-Fur cloak
-Fur overcoat
+Fur Cap
+Fur Shirt
+Fur Mittens
+Fur Leggings
+Fur Hood
+Fur Shoes
+Fur Cloak
+Fur Jacket
+Fur Gloves
 ```
 
 *Birch-bark:*
@@ -1125,18 +1136,14 @@ Source-bark cap
 
 *Combination clothes:*
 ```JSON
-Fur-Leather
-Fur-Leather belt
-Fur-Leather cap
-Fur-Leather shirt
-Fur-Leather leggings
-Fur-Leather shoes
-Fur-Leather forearm guards
-Fur-Leather shin guards
-Fur-Leather cuirass
-Fur-Leather overcoat
-Fur-Leather cloak
-Fur-Leather mittens
+Fur-Leather Belt
+Fur-Leather Cap
+Fur-Leather Shirt
+Fur-Leather Leggings
+Fur-Leather Shoes
+Fur-Leather Jacket
+Fur-Leather Cloak
+Fur-Leather Mittens
 ```
 
 
