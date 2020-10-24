@@ -308,22 +308,22 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 
 *Items:*
 ```JSON
-Primitive Knife
-Primitive machete
-Primitive Stone Hammers
-Primitive Grain Grinders
-Primitive Mortar And Pestles
-Primitive Hand Axes
-Primitive Oldowan chopping tool
-Primitive Antler
-Primitive Bone; ribs and long leg bones
-Primitive Sea Shell Saw
-Primitive Flint Scraper
-Primitive Antler Pressure Flaker - might remove
-Primitive Adzes
-Primitive Chisel
-Primitive Torch
-Primitive Wooden Shovel
+- [ ] Primitive Knife
+- [ ] Primitive machete
+- [ ] Primitive Stone Hammers
+- [ ] Primitive Grain Grinders
+- [ ] Primitive Mortar And Pestles
+- [ ] Primitive Hand Axes
+- [ ] Primitive Oldowan chopping tool
+- [ ] Primitive Antler
+- [ ] Primitive Bone; ribs and long leg bones
+- [ ] Primitive Sea Shell Saw
+- [ ] Primitive Flint Scraper
+- [ ] Primitive Antler Pressure Flaker - might remove
+- [ ] Primitive Adzes
+- [ ] Primitive Chisel
+- [ ] Primitive Torch
+- [ ] Primitive Wooden Shovel
 ```
 
 
@@ -340,22 +340,22 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 
 *Items:*
 ```JSON
-Primitive Spears
-Primitive Stone Tomahawks
-Primitive Hoko Knives
-Primitive Rock Slings
-Primitive Long Bow
-Primitive Short bow
-Primitive Arrows - curde, non-cude
-Primitive Blowgun
-Primitive Lassos?
-Primitive Throwing/Rabbit Sticks
-Primitive Dagger
-Primitive Sword
-Primitive Viking Axe
-Primitive Staff
-Mongol Bow And Arrows
-Atlatls (A.k.a. Spear Throwers) - take from code already made
+- [ ] Primitive Spears
+- [ ] Primitive Stone Tomahawks
+- [ ] Primitive Hoko Knives
+- [ ] Primitive Rock Slings
+- [ ] Primitive Long Bow
+- [ ] Primitive Short bow
+- [ ] Primitive Arrows - curde, non-cude
+- [ ] Primitive Blowgun
+- [ ] Primitive Lassos?
+- [ ] Primitive Throwing/Rabbit Sticks
+- [ ] Primitive Dagger
+- [ ] Primitive Sword
+- [ ] Primitive Viking Axe
+- [ ] Primitive Staff
+- [ ] Mongol Bow And Arrows
+- [x] Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
 
 
@@ -375,11 +375,11 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 *Items:*
 ```JSON
 Primitive Glue
-Bonemeal Fertilizer
-Primitive Sleeping fur/pelt
-Ice Block
-Woven Sticks
-Thatched (woven) Prairie Grass
+- [ ] Bonemeal Fertilizer
+- [ ] Primitive Sleeping fur/pelt
+- [ ] Ice Block
+- [ ] Woven Sticks
+- [ ] Thatched (woven) Prairie Grass
 ```
 
 
@@ -395,10 +395,10 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 
 *Items:*
 ```JSON
-Primitive Backpack
-Primitive Sack
-Primitive Bucket
-Primitive Canteen
+- [ ] Primitive Backpack
+- [ ] Primitive Sack
+- [ ] Primitive Bucket
+- [ ] Primitive Canteen
 ```
 
 
@@ -409,21 +409,21 @@ Primitive Canteen
 
 *Items:*
 ```JSON
-Claystone
-Limestone
-Organic Oil
-Mud
-Thatch
+- [ ] Claystone
+- [ ] Limestone
+- [ ] Organic Oil
+- [ ] Mud
+- [ ] Thatch
 ---
-Grass
-Leaves
-Moss
-Peat
-Bark
-Fiber
-Ice
-Vines
-Adobe
+- [ ] Grass
+- [ ] Leaves
+- [ ] Moss
+- [ ] Peat
+- [ ] Bark
+- [ ] Fiber
+- [ ] Ice
+- [ ] Vines
+- [ ] Adobe
 ```
 
 
@@ -446,61 +446,61 @@ Adobe
 
 *Cloth Clothing:*
 ```JSON
-Cloth Cap
-Cloth Shirt
-Cloth Mittens
-Cloth leggings
-Cloth Hood
-Cloth Pants
-Cloth Shoes
-Cloth Jacket
-Cloth Gloves
+- [ ] Cloth Cap
+- [ ] Cloth Shirt
+- [ ] Cloth Mittens
+- [ ] Cloth leggings
+- [ ] Cloth Hood
+- [ ] Cloth Pants
+- [ ] Cloth Shoes
+- [ ] Cloth Jacket
+- [ ] Cloth Gloves
 ```
 
 *Leather clothing:*
 ```JSON
-Leather cap
-Leather shirt
-Leather leggings
-Leather Jacket
-Leather Gloves
+- [ ] Leather cap
+- [ ] Leather shirt
+- [ ] Leather leggings
+- [ ] Leather Jacket
+- [ ] Leather Gloves
 ```
 
 *Fur clothing:*
 ```JSON
-Fur Cap
-Fur Shirt
-Fur Mittens
-Fur Leggings
-Fur Hood
-Fur Shoes
-Fur Cloak
-Fur Jacket
-Fur Gloves
+- [ ] Fur Cap
+- [ ] Fur Shirt
+- [ ] Fur Mittens
+- [ ] Fur Leggings
+- [ ] Fur Hood
+- [ ] Fur Shoes
+- [ ] Fur Cloak
+- [ ] Fur Jacket
+- [ ] Fur Gloves
 ```
 
 *Birch-bark:*
 ```JSON
-Birch-bark shoes
-Birch-bark cap
+- [ ] Birch-bark shoes
+- [ ] Birch-bark cap
 ```
 
 *Source-bark:*
 ```JSON
-Source-bark shoes
-Source-bark cap
+- [ ] Source-bark shoes
+- [ ] Source-bark cap
 ```
 
 *Combination clothes:*
 ```JSON
-Fur-Leather Belt
-Fur-Leather Cap
-Fur-Leather Shirt
-Fur-Leather Leggings
-Fur-Leather Shoes
-Fur-Leather Jacket
-Fur-Leather Cloak
-Fur-Leather Mittens
+- [ ] Fur-Leather Belt
+- [ ] Fur-Leather Cap
+- [ ] Fur-Leather Shirt
+- [ ] Fur-Leather Leggings
+- [ ] Fur-Leather Shoes
+- [ ] Fur-Leather Jacket
+- [ ] Fur-Leather Cloak
+- [ ] Fur-Leather Mittens
 ```
 
 
@@ -512,16 +512,16 @@ Fur-Leather Mittens
 
 *Leather clothing:*
 ```JSON
-Leather forearm guards
-Leather shin guards
-Leather cuirass
+- [ ] Leather forearm guards
+- [ ] Leather shin guards
+- [ ] Leather cuirass
 ```
 
 *Combination clothes:*
 ```JSON
-Fur-Leather forearm guards
-Fur-Leather shin guards
-Fur-Leather cuirass
+- [ ] Fur-Leather forearm guards
+- [ ] Fur-Leather shin guards
+- [ ] Fur-Leather cuirass
 ```
 
 
@@ -546,14 +546,14 @@ Fur-Leather cuirass
 
 *Raw-Fruit:*
 ```JSON
-Blueberries
-Raspberries
-Goji berries
-Strawberries
-Bilberries
-Acai berries
-Cranberries
-Grapes
+- [ ] Blueberries
+- [ ] Raspberries
+- [ ] Goji berries
+- [ ] Strawberries
+- [ ] Bilberries
+- [ ] Acai berries
+- [ ] Cranberries
+- [ ] Grapes
 ```
 
 
@@ -565,20 +565,19 @@ Grapes
 
 *Sources:*
 ```JSON
-https://primitive.fandom.com/wiki/Consumables
 https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
 ```
 
 *Comestibles:*
 ```JSON
-Blueberry Juice
-Raspberry Juice
-Goji berry Juice
-Strawberry Juice
-Bilberry Juice
-Acai berry Juice
-Cranberry Juice
-Grape Juice
+- [ ] Blueberry Juice
+- [ ] Raspberry Juice
+- [ ] Goji berry Juice
+- [ ] Strawberry Juice
+- [ ] Bilberry Juice
+- [ ] Acai berry Juice
+- [ ] Cranberry Juice
+- [ ] Grape Juice
 ```
 
 
@@ -595,25 +594,25 @@ https://primitive.fandom.com/wiki/Consumables
 
 *Items:*
 ```JSON
-Cashew Nuts
-Cashew Milk
-Ground Cashew Nuts
-Organic Oil
-Preserved Jam
-Flatbread
-Homemade Soap
-Meat soup
-Meat stew
-Porridge
-Oven porridge
-Seed porridge
-Berry porridge
-Pea soup
-Green soup
-Vegetable soup
-Mushroom soup
-Vegetable stew
-Fillet and Bread
+- [ ] Cashew Nuts
+- [ ] Cashew Milk
+- [ ] Ground Cashew Nuts
+- [ ] Organic Oil
+- [ ] Preserved Jam
+- [ ] Flatbread
+- [ ] Homemade Soap
+- [ ] Meat soup
+- [ ] Meat stew
+- [ ] Porridge
+- [ ] Oven porridge
+- [ ] Seed porridge
+- [ ] Berry porridge
+- [ ] Pea soup
+- [ ] Green soup
+- [ ] Vegetable soup
+- [ ] Mushroom soup
+- [ ] Vegetable stew
+- [ ] Fillet and Bread
 ```
 
 
@@ -655,12 +654,6 @@ Ringed mushroom
 **Sub-Category -** [Seeds](#seeds)
 
 
-*Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Crops
-https://primitive.fandom.com/wiki/Plant_Species_X_Seed
-```
-
 *Items:*
 
 - [ ] Lingonberry Seed - Lingonberry
@@ -697,10 +690,10 @@ https://primitive.fandom.com/wiki/Plant_Species_X_Seed
 
 *GENERIC:*
 ```JSON
-St. Johns Wort
-Yarrow
-Golden Rod
-Calendula
+- [ ] St. Johns Wort
+- [ ] Yarrow
+- [ ] Golden Rod
+- [ ] Calendula
 ```
 
 
@@ -711,7 +704,7 @@ Calendula
 
 *Wood:*
 ```JSON
-Firewood
+- [ ] Firewood
 ```
 
 
@@ -731,18 +724,18 @@ Firewood
 
 *Construction:*
 ```JSON
-Apiary
-Bakers Oven
-Cauldron
-Fireplace
-Firewood Holder
-Fruit Press
-Grill
-Hand mill
-Spinning Mule
-Storage Barrel
-Tanning Rack
-Weapon Rack
+- [ ] Apiary
+- [ ] Bakers Oven
+- [ ] Cauldron
+- [ ] Fireplace
+- [ ] Firewood Holder
+- [ ] Fruit Press
+- [ ] Grill
+- [ ] Hand mill
+- [ ] Spinning Mule
+- [ ] Storage Barrel
+- [ ] Tanning Rack
+- [ ] Weapon Rack
 ```
 
 
@@ -753,64 +746,75 @@ Weapon Rack
 
 *Mud Terrain:*
 ```JSON
-Mud Door-frame
-Mud Door
-Mud Floor
-Mud Window-frame
-Mud Window
-Mud Wall
-Mud Roof
+- [ ] Mud Door-frame
+- [ ] Mud Door
+- [ ] Mud Floor
+- [ ] Mud Window-frame
+- [ ] Mud Window
+- [ ] Mud Wall
+- [ ] Mud Roof
 ```
 
 *Thatched Terrain:*
 ```JSON
-Thatch Door-frame
-Thatch Door
-Thatch Floor
-Thatch Window-frame
-Thatch Window
-Thatch Wall
-Thatch Roof
+- [ ] Thatch Door-frame
+- [ ] Thatch Door
+- [ ] Thatch Floor
+- [ ] Thatch Window-frame
+- [ ] Thatch Window
+- [ ] Thatch Wall
+- [ ] Thatch Roof
 ```
 
 *Stone Terrain:*
 ```JSON
-Stone Door-frame
-Stone Door
-Stone Floor
-Stone Window-frame
-Stone Window
-Stone Wall
-Stone Roof
+- [ ] Stone Door-frame
+- [ ] Stone Door
+- [ ] Stone Floor
+- [ ] Stone Window-frame
+- [ ] Stone Window
+- [ ] Stone Wall
+- [ ] Stone Roof
+```
+
+*Stick Terrain:*
+```JSON
+- [ ] Stick Door-frame
+- [ ] Stick Door
+- [ ] Stick Floor
+- [ ] Stick Window-frame
+- [ ] Stick Window
+- [ ] Stick Wall
+- [ ] Stick Roof
 ```
 
 *Terrain flora:*
 ```JSON
-Lingonberry bush
-Cranberry bush
-Bilberry bush
-Cloudberry bush
-Crowberry bush
-Black-currant bush
-Goji Bush
-Bilberries Bush
-Acai Bush
-Birch Tree
-Spruce Tree
-Breadfruit Tree
-Cashew Tree
-Rubber Tree
-Rice Plant
-Turnip Plant
-Swede Plant
-Pea Plant
-Broad Bean Plant
-Rye Plant
-Hemp Plant
-St. Johns Wort Plant
-Yarrow Plant
-Golden Rod Plant
-Calendula Plant
+- [ ] Lingonberry bush
+- [ ] Cranberry bush
+- [ ] Bilberry bush
+- [ ] Cloudberry bush
+- [ ] Crowberry bush
+- [ ] Black-currant bush
+- [ ] Goji Bush
+- [ ] Bilberries Bush
+- [ ] Acai Bush
+- [ ] Birch Tree
+- [ ] Spruce Tree
+- [ ] Breadfruit Tree
+- [ ] Cashew Tree
+- [ ] Rubber Tree
+- [ ] Rice Plant
+- [ ] Turnip Plant
+- [ ] Swede Plant
+- [ ] Pea Plant
+- [ ] Broad Bean Plant
+- [ ] Rye Plant
+- [ ] Hemp Plant
+- [ ] St. Johns Wort Plant
+- [ ] Yarrow Plant
+- [ ] Golden Rod Plant
+- [ ] Calendula Plant
 ```
 
 *Mushrooms:* **needs proper naming to be included**
@@ -841,20 +845,64 @@ Ringed mushroom
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
-*Items:*
+*Tools:*
 ```JSON
-Apiary
-Bakers Oven
-Cauldron
-Fireplace
-Firewood Holder
-Fruit Press
-Grill
-Hand mill
-Spinning Mule
-Storage Barrel
-Tanning Rack
-Weapon Rack
+- [ ] Apiary
+- [ ] Bakers Oven
+- [ ] Cauldron
+- [ ] Fireplace
+- [ ] Firewood Holder
+- [ ] Fruit Press
+- [ ] Grill
+- [ ] Hand mill
+- [ ] Spinning Mule
+- [ ] Storage Barrel
+- [ ] Tanning Rack
+- [ ] Weapon Rack
+```
+
+*Mud Terrain:*
+```JSON
+- [ ] Mud Door-frame
+- [ ] Mud Door
+- [ ] Mud Floor
+- [ ] Mud Window-frame
+- [ ] Mud Window
+- [ ] Mud Wall
+- [ ] Mud Roof
+```
+
+*Thatched Terrain:*
+```JSON
+- [ ] Thatch Door-frame
+- [ ] Thatch Door
+- [ ] Thatch Floor
+- [ ] Thatch Window-frame
+- [ ] Thatch Window
+- [ ] Thatch Wall
+- [ ] Thatch Roof
+```
+
+*Stone Terrain:*
+```JSON
+- [ ] Stone Door-frame
+- [ ] Stone Door
+- [ ] Stone Floor
+- [ ] Stone Window-frame
+- [ ] Stone Window
+- [ ] Stone Wall
+- [ ] Stone Roof
+```
+
+*Stick Terrain:*
+```JSON
+- [ ] Stick Door-frame
+- [ ] Stick Door
+- [ ] Stick Floor
+- [ ] Stick Window-frame
+- [ ] Stick Window
+- [ ] Stick Wall
+- [ ] Stick Roof
 ```
 
 
@@ -867,9 +915,9 @@ Weapon Rack
 
 *Vehicles:*
 ```JSON
-Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
-Large Raft - 16 Strapped wood, Tying equipment, Large mast, Steering stick attached to steering wood
-Materials Cart - Sticks, Tying equipment
+- [ ] Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
+- [ ] Large Raft - 16 Strapped wood, Tying equipment, Large mast, Steering stick attached to steering wood
+- [ ] Materials Cart - Sticks, Tying equipment
 ```
 
 
@@ -880,10 +928,10 @@ Materials Cart - Sticks, Tying equipment
 
 *Items:*
 ```JSON
-Strapped wood
-Mast
-Large Mast
-Steering stick attached to steering wood
+- [ ] Strapped wood
+- [ ] Mast
+- [ ] Large Mast
+- [ ] Steering stick attached to steering wood
 ```
 
 
@@ -923,34 +971,34 @@ Steering stick attached to steering wood
 
 *Unfinished-Items:*
 ```JSON
-Primitive Knife
-Primitive machete
-Primitive Stone Hammers
-Primitive Grain Grinders
-Primitive Mortar And Pestles
-Primitive Hand Axes
-Primitive Oldowan chopping tool
-Primitive Antler
-Primitive Bone; ribs and long leg bones
-Primitive Sea Shell Saw
-Primitive Flint Scraper
-Primitive Antler Pressure Flaker - might remove
-Primitive Adzes
-Primitive Chisel
-Primitive Torch
-Primitive Wooden Shovel
+- [ ] Primitive Knife
+- [ ] Primitive machete
+- [ ] Primitive Stone Hammers
+- [ ] Primitive Grain Grinders
+- [ ] Primitive Mortar And Pestles
+- [ ] Primitive Hand Axes
+- [ ] Primitive Oldowan chopping tool
+- [ ] Primitive Antler
+- [ ] Primitive Bone; ribs and long leg bones
+- [ ] Primitive Sea Shell Saw
+- [ ] Primitive Flint Scraper
+- [ ] Primitive Antler Pressure Flaker - might remove
+- [ ] Primitive Adzes
+- [ ] Primitive Chisel
+- [ ] Primitive Torch
+- [ ] Primitive Wooden Shovel
 ```
 
 *Finished-items*
 ```JSON
-Birch-bark box  - birch-bark, knife
-Birch-bark basket - birch-bark, knife
-Birch-bark rope - birch-bark, knife, water - (tying equipment)
-Birch withe - Birch-wood, knife - (tying equipment)
-Spruce withe - Spruce-wood, knife - (tying equipment)
-Leather Rope - knife, water, leather - (tying equipment)
-cordage - cloth, knife - (tying equipment)
-Wooden stake - wood
+- [ ] Birch-bark box  - birch-bark, knife
+- [ ] Birch-bark basket - birch-bark, knife
+- [ ] Birch-bark rope - birch-bark, knife, water - (tying equipment)
+- [ ] Birch withe - Birch-wood, knife - (tying equipment)
+- [ ] Spruce withe - Spruce-wood, knife - (tying equipment)
+- [ ] Leather Rope - knife, water, leather - (tying equipment)
+- [ ] cordage - cloth, knife - (tying equipment)
+- [ ] Wooden stake - wood
 ```
 
 
@@ -965,22 +1013,22 @@ Wooden stake - wood
 
 *Unfinished-Items:*
 ```JSON
-Primitive Spears
-Primitive Stone Tomahawks
-Primitive Hoko Knives
-Primitive Rock Slings
-Primitive Long Bow
-Primitive Short bow
-Primitive Arrows - curde, non-cude
-Primitive Blowgun
-Primitive Lassos?
-Primitive Throwing/Rabbit Sticks
-Primitive Dagger
-Primitive Sword
-Primitive Viking Axe
-Primitive Staff
-Mongol Bow And Arrows
-Atlatls (A.k.a. Spear Throwers) - take from code already made
+- [ ] Primitive Spears
+- [ ] Primitive Stone Tomahawks
+- [ ] Primitive Hoko Knives
+- [ ] Primitive Rock Slings
+- [ ] Primitive Long Bow
+- [ ] Primitive Short bow
+- [ ] Primitive Arrows - curde, non-cude
+- [ ] Primitive Blowgun
+- [ ] Primitive Lassos?
+- [ ] Primitive Throwing/Rabbit Sticks
+- [ ] Primitive Dagger
+- [ ] Primitive Sword
+- [ ] Primitive Viking Axe
+- [ ] Primitive Staff
+- [ ] Mongol Bow And Arrows
+- [ ] Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
 
 
@@ -996,12 +1044,12 @@ Atlatls (A.k.a. Spear Throwers) - take from code already made
 
 *Unfinished-Items:*
 ```JSON
-Primitive Glue
-Bonemeal Fertilizer
-Primitive Sleeping fur/pelt
-Ice Block
-Woven Sticks
-Thatched (woven) Prairie Grass
+- [ ] Primitive Glue
+- [ ] Bonemeal Fertilizer
+- [ ] Primitive Sleeping fur/pelt
+- [ ] Ice Block
+- [ ] Woven Sticks
+- [ ] Thatched (woven) Prairie Grass
 ```
 
 
@@ -1016,15 +1064,15 @@ Thatched (woven) Prairie Grass
 
 *Containers:*
 ```JSON
-Primitive Backpack - Primitive Sack, Cord - bone awl
-Primitive Sack - Cord - Bone awl
-Primitive Bucket - Wood, Cord - Cutting tool
-Primitive Canteen - Wood, Chisel - Cutting tool
+- [ ] Primitive Backpack - Primitive Sack, Cord - bone awl
+- [ ] Primitive Sack - Cord - Bone awl
+- [ ] Primitive Bucket - Wood, Cord - Cutting tool
+- [ ] Primitive Canteen - Wood, Chisel - Cutting tool
 ```
 
 *Unfinished-Containers:*
 ```JSON
-Primitive Canteen
+- [ ] Primitive Canteen
 ```
 
 
@@ -1039,21 +1087,21 @@ Primitive Canteen
 
 *Items:*
 ```JSON
-Claystone
-Limestone
-Organic Oil
-Mud
-Thatch
+- [ ] Claystone
+- [ ] Limestone
+- [ ] Organic Oil
+- [ ] Mud
+- [ ] Thatch
 ---
-Grass
-Leaves
-Moss
-Peat
-Bark
-Fiber
-Ice
-Vines
-Adobe
+- [ ] Grass
+- [ ] Leaves
+- [ ] Moss
+- [ ] Peat
+- [ ] Bark
+- [ ] Fiber
+- [ ] Ice
+- [ ] Vines
+- [ ] Adobe
 ```
 
 
@@ -1077,61 +1125,61 @@ Adobe
 
 *Cloth Clothing:*
 ```JSON
-Cloth Cap
-Cloth Shirt
-Cloth Mittens
-Cloth leggings
-Cloth Hood
-Cloth Pants
-Cloth Shoes
-Cloth Jacket
-Cloth Gloves
+- [ ] Cloth Cap
+- [ ] Cloth Shirt
+- [ ] Cloth Mittens
+- [ ] Cloth leggings
+- [ ] Cloth Hood
+- [ ] Cloth Pants
+- [ ] Cloth Shoes
+- [ ] Cloth Jacket
+- [ ] Cloth Gloves
 ```
 
 *Leather clothing:*
 ```JSON
-Leather cap
-Leather shirt
-Leather leggings
-Leather Jacket
-Leather Gloves
+- [ ] Leather cap
+- [ ] Leather shirt
+- [ ] Leather leggings
+- [ ] Leather Jacket
+- [ ] Leather Gloves
 ```
 
 *Fur clothing:*
 ```JSON
-Fur Cap
-Fur Shirt
-Fur Mittens
-Fur Leggings
-Fur Hood
-Fur Shoes
-Fur Cloak
-Fur Jacket
-Fur Gloves
+- [ ] Fur Cap
+- [ ] Fur Shirt
+- [ ] Fur Mittens
+- [ ] Fur Leggings
+- [ ] Fur Hood
+- [ ] Fur Shoes
+- [ ] Fur Cloak
+- [ ] Fur Jacket
+- [ ] Fur Gloves
 ```
 
 *Birch-bark:*
 ```JSON
-Birch-bark shoes
-Birch-bark cap
+- [ ] Birch-bark shoes
+- [ ] Birch-bark cap
 ```
 
 *Source-bark:*
 ```JSON
-Source-bark shoes
-Source-bark cap
+- [ ] Source-bark shoes
+- [ ] Source-bark cap
 ```
 
 *Combination clothes:*
 ```JSON
-Fur-Leather Belt
-Fur-Leather Cap
-Fur-Leather Shirt
-Fur-Leather Leggings
-Fur-Leather Shoes
-Fur-Leather Jacket
-Fur-Leather Cloak
-Fur-Leather Mittens
+- [ ] Fur-Leather Belt
+- [ ] Fur-Leather Cap
+- [ ] Fur-Leather Shirt
+- [ ] Fur-Leather Leggings
+- [ ] Fur-Leather Shoes
+- [ ] Fur-Leather Jacket
+- [ ] Fur-Leather Cloak
+- [ ] Fur-Leather Mittens
 ```
 
 
@@ -1147,16 +1195,16 @@ Fur-Leather Mittens
 
 *Leather clothing:*
 ```JSON
-Leather forearm guards
-Leather shin guards
-Leather cuirass
+- [ ] Leather forearm guards
+- [ ] Leather shin guards
+- [ ] Leather cuirass
 ```
 
 *Combination clothes:*
 ```JSON
-Fur-Leather forearm guards
-Fur-Leather shin guards
-Fur-Leather cuirass
+- [ ] Fur-Leather forearm guards
+- [ ] Fur-Leather shin guards
+- [ ] Fur-Leather cuirass
 ```
 
 
@@ -1188,14 +1236,14 @@ Fur-Leather cuirass
 
 *Unfinished-Comestibles:*
 ```JSON
-Blueberry Juice
-Raspberry Juice
-Goji berry Juice
-Strawberry Juice
-Bilberry Juice
-Acai berry Juice
-Cranberry Juice
-Grape Juice
+- [ ] Blueberry Juice
+- [ ] Raspberry Juice
+- [ ] Goji berry Juice
+- [ ] Strawberry Juice
+- [ ] Bilberry Juice
+- [ ] Acai berry Juice
+- [ ] Cranberry Juice
+- [ ] Grape Juice
 ```
 
 
@@ -1215,29 +1263,29 @@ Grape Juice
 
 *Finished Food:*
 ```JSON
-Homemade Soap - water, vegetables, seasoning - knife - boil
-Meat soup - raw meat, water, vegetables, seasoning - knife - boil
-Meat stew - raw meat, water, vegetables, seasoning - knife - bake
-Porridge - flour, Water - boil
-Oven porridge - flour, water - Bake
-Seed porridge - flour, seed, water - boil
-Berry porridge - flour, berry, water - boil
-Fish Fillet - raw fish, water, vegetables, seasoning - knife - boil
-Pea soup - peas, water, raw meat, seasoning - boil
-Green soup - herbs, water, flour, seasoning - boil
-Vegetable soup - vegetables, water, seasoning - boil
-Mushroom soup - mushrooms, water, flour, seasoning - boil
-Vegetable stew - vegetables, water, mushrooms, seasoning - bake
+- [ ] Homemade Soap - water, vegetables, seasoning - knife - boil
+- [ ] Meat soup - raw meat, water, vegetables, seasoning - knife - boil
+- [ ] Meat stew - raw meat, water, vegetables, seasoning - knife - bake
+- [ ] Porridge - flour, Water - boil
+- [ ] Oven porridge - flour, water - Bake
+- [ ] Seed porridge - flour, seed, water - boil
+- [ ] Berry porridge - flour, berry, water - boil
+- [ ] Fish Fillet - raw fish, water, vegetables, seasoning - knife - boil
+- [ ] Pea soup - peas, water, raw meat, seasoning - boil
+- [ ] Green soup - herbs, water, flour, seasoning - boil
+- [ ] Vegetable soup - vegetables, water, seasoning - boil
+- [ ] Mushroom soup - mushrooms, water, flour, seasoning - boil
+- [ ] Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 ```
 
 *unfinished food:*
 ```JSON
-Cashew Nuts
-Cashew Milk
-Ground Cashew
-Organic Oil
-Preserved Jam
-Flatbread
+- [ ] Cashew Nuts
+- [ ] Cashew Milk
+- [ ] Ground Cashew
+- [ ] Organic Oil
+- [ ] Preserved Jam
+- [ ] Flatbread
 ```
 
 
@@ -1297,8 +1345,8 @@ fruit = seeds
 
 *Items:*
 ```JSON
-Strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
-Mast - 7 sticks, Sheet
-Large Mast - 1 log, 4 Sheets
-Steering stick attached to steering wood - stick, log - cutting tool
+- [ ] Strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
+- [ ] Mast - 7 sticks, Sheet
+- [ ] Large Mast - 1 log, 4 Sheets
+- [ ] Steering stick attached to steering wood - stick, log - cutting tool
 ```
