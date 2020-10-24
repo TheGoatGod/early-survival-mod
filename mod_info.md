@@ -416,6 +416,16 @@ Limestone
 Organic Oil
 Mud
 Thatch
+---
+Grass
+Leaves
+Moss
+Peat
+Bark
+Fiber
+Ice
+Vines
+Adobe
 ```
 
 
