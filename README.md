@@ -214,6 +214,11 @@ lots of new items,
 
 *Tools:*
 ```JSON
+Primitive Knife
+Primitive Stone Hammers
+Primitive Hand Axes
+Primitive Adzes
+Primitive Shovel
 t_Bellows - Primitive Bellows
 awl_bone - Primitive Bone Awl
 ```
@@ -308,21 +313,16 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 
 *Items:*
 ```JSON
-- [ ] Primitive Knife
-- [ ] Primitive Stone Hammers
 - [ ] Primitive Grain Grinders
-- [ ] Primitive Mortar And Pestles
-- [ ] Primitive Hand Axes
+- [ ] Primitive Mortar And Pestless
 - [ ] Primitive Oldowan chopping tool
 - [ ] Primitive Antler
 - [ ] Primitive Bone; ribs and long leg bones
 - [ ] Primitive Sea Shell Saw
 - [ ] Primitive Flint Scraper
 - [ ] Primitive Antler Pressure Flaker - might remove
-- [ ] Primitive Adzes
 - [ ] Primitive Chisel
 - [ ] Primitive Torch
-- [ ] Primitive Wooden Shovel
 ```
 
 
@@ -969,24 +969,18 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [x] add `Tools` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
 
-*Unfinished-Items:*
+*Items:*
 ```JSON
-- [ ] Primitive Knife
-- [ ] Primitive machete
-- [ ] Primitive Stone Hammers
 - [ ] Primitive Grain Grinders
-- [ ] Primitive Mortar And Pestles
-- [ ] Primitive Hand Axes
+- [ ] Primitive Mortar And Pestless
 - [ ] Primitive Oldowan chopping tool
 - [ ] Primitive Antler
 - [ ] Primitive Bone; ribs and long leg bones
 - [ ] Primitive Sea Shell Saw
 - [ ] Primitive Flint Scraper
 - [ ] Primitive Antler Pressure Flaker - might remove
-- [ ] Primitive Adzes
 - [ ] Primitive Chisel
 - [ ] Primitive Torch
-- [ ] Primitive Wooden Shovel
 ```
 
 *Finished-items*
