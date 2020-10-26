@@ -788,15 +788,15 @@ Ringed mushroom
 
 *Terrain flora:*
 ```JSON
-- [ ] Lingonberry bush
-- [ ] Cranberry bush
-- [ ] Bilberry bush
-- [ ] Cloudberry bush
-- [ ] Crowberry bush
-- [ ] Black-currant bush
-- [ ] Goji Bush
-- [ ] Bilberries Bush
-- [ ] Acai Bush
+- [x] Cranberry Shrub
+- [ ] Lingonberry Shrub
+- [ ] Bilberry Shrub
+- [ ] Cloudberry Shrub
+- [ ] Crowberry Shrub
+- [ ] Black-currant Shrub
+- [ ] Goji Shrub
+- [ ] Bilberries Shrub
+- [ ] Acai Shrub
 - [ ] Birch Tree
 - [ ] Spruce Tree
 - [ ] Breadfruit Tree
