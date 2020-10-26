@@ -575,7 +575,6 @@ https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry v
 - [ ] Strawberry Juice
 - [ ] Bilberry Juice
 - [ ] Acai berry Juice
-- [ ] Cranberry Juice
 - [ ] Grape Juice
 ```
 
@@ -656,7 +655,6 @@ Ringed mushroom
 *Items:*
 
 - [ ] Lingonberry Seed - Lingonberry
-- [ ] Cranberry Seed - Cranberry
 - [ ] Bilberry Seed - Bilberry
 - [ ] Cloudberry Seed - Cloudberry
 - [ ] Crowberry Seed - Crowberry
@@ -1235,7 +1233,6 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Strawberry Juice
 - [ ] Bilberry Juice
 - [ ] Acai berry Juice
-- [ ] Cranberry Juice
 - [ ] Grape Juice
 ```
 
@@ -1292,7 +1289,6 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 fruit = seeds
 *Seeds:*
 - [ ] Lingonberry Seed - Lingonberry
-- [ ] Cranberry Seed - Cranberry
 - [ ] Bilberry Seed - Bilberry
 - [ ] Cloudberry Seed - Cloudberry
 - [ ] Crowberry Seed - Crowberry
