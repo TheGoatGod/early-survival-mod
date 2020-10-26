@@ -787,16 +787,15 @@ Ringed mushroom
 ```
 
 *Terrain flora:*
-```JSON
 - [x] Cranberry Shrub
-- [ ] Lingonberry Shrub
-- [ ] Bilberry Shrub
-- [ ] Cloudberry Shrub
-- [ ] Crowberry Shrub
-- [ ] Black-currant Shrub
-- [ ] Goji Shrub
-- [ ] Bilberries Shrub
-- [ ] Acai Shrub
+- [x] Lingonberry Shrub
+- [x] Bilberry Shrub
+- [x] Cloudberry Shrub
+- [x] Crowberry Shrub
+- [x] Black-currant Shrub
+- [x] Goji Shrub
+- [x] Bilberries Shrub
+- [x] Acai Shrub
 - [ ] Birch Tree
 - [ ] Spruce Tree
 - [ ] Breadfruit Tree
@@ -813,7 +812,7 @@ Ringed mushroom
 - [ ] Yarrow Plant
 - [ ] Golden Rod Plant
 - [ ] Calendula Plant
-```
+
 
 *Mushrooms:* **needs proper naming to be included**
 https://en.wikipedia.org/wiki/Edible_mushroom
