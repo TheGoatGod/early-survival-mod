@@ -546,14 +546,13 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 
 *Raw-Fruit:*
 ```JSON
-- [ ] Blueberries
-- [ ] Raspberries
-- [ ] Goji berries
-- [ ] Strawberries
-- [ ] Bilberries
-- [ ] Acai berries
-- [ ] Cranberries
-- [ ] Grapes
+- [ ] lingonberries
+- [ ] bilberries
+- [ ] cloudberries
+- [ ] Crowberry
+- [ ] black-currants
+- [ ] gojiberries
+- [ ] Acaiberries
 ```
 
 
