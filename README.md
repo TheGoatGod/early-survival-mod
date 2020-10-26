@@ -656,11 +656,13 @@ Ringed mushroom
 
 *Items:*
 
-- [ ] Lingonberry Seed - Lingonberry
-- [ ] Bilberry Seed - Bilberry
-- [ ] Cloudberry Seed - Cloudberry
-- [ ] Crowberry Seed - Crowberry
-- [ ] Black-currant Seed - Black-currant
+- [x] Lingonberry Seed - Lingonberry
+- [x] Bilberry Seed - Bilberry
+- [x] Cloudberry Seed - Cloudberry
+- [x] Crowberry Seed - Crowberry
+- [x] Black-currant Seed - Black-currant
+- [x] Goji seed - Goji berries
+- [x] Acai seed - Acai berries
 - [ ] Breadfruit Seed - Breadfruit
 - [ ] Cashew Seed - Cashew Nut
 - [ ] Rice Seed - Rice
@@ -671,9 +673,6 @@ Ringed mushroom
 - [ ] Broad Bean seed - Broad Bean
 - [ ] Rye seed - Rye
 - [ ] Hemp seed - Hemp
-- [ ] Goji seed - Goji berries
-- [ ] Bilberries seed - Bilberries
-- [ ] Acai seed - Acai berries
 - [ ] St. Johns Wort Seed - St. Johns Wort
 - [ ] Yarrow seed - Yarrow
 - [ ] Golden Rod Seed - Golden Rod
