@@ -551,10 +551,10 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [x] lingonberries
 - [x] bilberries
 - [x] cloudberries
-- [x] crowberry
+- [x] crowberries
 - [x] black-currants
 - [x] gojiberries
-- [x] Acaiberries
+- [x] acaiberries
 
 
 
