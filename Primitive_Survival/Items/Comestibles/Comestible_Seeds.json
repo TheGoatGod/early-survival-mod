@@ -93,7 +93,7 @@
     "seed_data": { "plant_name": "gojiberry", "fruit": "gojiberries", "byproducts": [ "withered" ], "grow": "91 days" }
   },
   {
-    "id": "seed_Acaiberries",
+    "id": "seed_acaiberries",
     "copy-from": "seed_fruit",
     "type": "COMESTIBLE",
     "name": { "str_sp": "Acaiberry seeds" },
