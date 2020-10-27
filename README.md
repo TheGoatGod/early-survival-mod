@@ -134,7 +134,7 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
 - [ ] Implement a way to collect `Mud`, `Grass`, `Bark`, `Adobe`, `Vines`, `Peat`, `Moss` and `Leaves`
 
-*new features for after implementing 1.0
+*new features for after implementing 0.5:*
 - [ ] Look through new `Sources` for new `Primitive` features add below this
 
 *For after*
