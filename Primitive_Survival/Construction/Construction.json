@@ -61,7 +61,7 @@
     ],
     "components": [ [ [ "stick", 2 ], [ "stick_long", 8 ] ] ],
     "pre_flags": "DIGGABLE",
-    "post_terrain": "f_wovenfence"
+    "post_terrain": "f_woven_fence"
   },
   {
     "type": "construction",
