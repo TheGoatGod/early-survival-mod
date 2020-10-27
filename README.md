@@ -157,7 +157,7 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [x] Add `Wilderness Overhaul` mod to `JSON files`
 - [x] Add `Wild Living` mod to `JSON files`
 - [x] Add `Cloth_Rollmat` mod to `JSON files`
-- [ ] Add `More_tea_leaf` mod to `JSON files`
+- [x] Add `More_tea_leaf` mod to `JSON files`
 - [ ] Start work on `Wilderness Survival` new `MD` take source over [not sure]
 - [ ] Start work on `Bush Craft Survival` new `MD` take source over [not sure]
 
