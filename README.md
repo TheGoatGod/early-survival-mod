@@ -92,7 +92,7 @@ Use the `home` key to get to the top.
 
 
 ```
-This mod started off as two separate mods `Wilderness Overhaul` and `Wild Living` but also includes `Cloth Roll mat`. My intention is to make this a finished mod for CDDA.
+This mod started off as two separate mods `Wilderness Overhaul` and `Wild Living` but also includes `Cloth Roll mat`, `More_tea_leaf` and `Rice.` My intention is to make this a finished mod for CDDA.
 I wanted to expand the early game and living in the bush or wild living if you will. This is a focused expansion and will be part of a bigger mod that will expand early game and wild living. I want to expand this as much as I can so there is nothing left.
 ```
 
@@ -134,8 +134,8 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [x] Add `Wild Living` mod to `JSON files`
 - [x] Add `Cloth_Rollmat` mod to `JSON files`
 - [ ] Add `More_tea_leaf` mod to `JSON files`
-- [ ] Start work on `Wilderness Survival` new `MD` take source over
-- [ ] Start work on `Bush Craft Survival` new `MD` take source over
+- [ ] Start work on `Wilderness Survival` new `MD` take source over [not sure]
+- [ ] Start work on `Bush Craft Survival` new `MD` take source over [not sure]
 
 
 # Sources
