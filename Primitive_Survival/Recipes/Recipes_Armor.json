@@ -109,7 +109,7 @@
     "time": 15000,
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "backpack_aframe", 1 ] ], [ [ "birchbark_pouch", 1 ] ] ]
+    "components": [ [ [ "backpack_aframe1", 1 ] ], [ [ "birchbark_pouch1", 1 ] ] ]
   },
   {
     "result": "backpack_aframe_birchbark2",
@@ -121,7 +121,7 @@
     "time": 15000,
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "backpack_aframe", 1 ] ], [ [ "birchbark_pouch", 1 ] ] ]
+    "components": [ [ [ "backpack_aframe2", 1 ] ], [ [ "birchbark_pouch2", 1 ] ] ]
   },
   {
     "result": "backpack_aframe_cordage1",
@@ -133,7 +133,7 @@
     "time": 15000,
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "backpack_aframe", 1 ] ], [ [ "cordage_pouch", 1 ] ] ]
+    "components": [ [ [ "backpack_aframe1", 1 ] ], [ [ "cordage_pouch1", 1 ] ] ]
   },
   {
     "result": "backpack_aframe_cordage2",
@@ -145,6 +145,6 @@
     "time": 15000,
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "backpack_aframe", 1 ] ], [ [ "cordage_pouch", 1 ] ] ]
+    "components": [ [ [ "backpack_aframe2", 1 ] ], [ [ "cordage_pouch2", 1 ] ] ]
   }
 ]

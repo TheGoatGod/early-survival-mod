@@ -67,7 +67,7 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "crowberry",
+    "id": "crowberries",
     "name": { "str_sp": "crowberry" },
     "weight": "148 g",
     "color": "red",

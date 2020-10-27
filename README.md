@@ -63,7 +63,9 @@ Use the `home` key to get to the top.
 **Head-Category -** [Versions](#versions)
 0.1 implemented-
 * `mods` - Wilderness_Overhaul. Wild_Living. Cloth_Rollmat. More_tea_leaf. Rice.
-* `fixes` - fixed a missing comma causing game to crash to menu
+* `fixes` - fixed a missing comma causing game to crash to me
+          - fixed no construction group for `plant hedge row`
+          - fix for bugs
 0.2 implementing-
 * `items` - tools. weapons. generic. container.
 0.3 implement-

@@ -65,18 +65,6 @@
   },
   {
     "type": "construction",
-    "id": "c_plant_hedgerow",
-    "group": "plant_hedgerow",
-    "category": "FARM_WOOD",
-    "difficulty": 2,
-    "time": 10,
-    "qualities": [ [ { "id": "DIG", "level": 2 } ] ],
-    "components": [ [ [ "seed_veggy_wild", 10 ] ] ],
-    "pre_flags": "DIGGABLE",
-    "post_terrain": "t_hedgerow"
-  },
-  {
-    "type": "construction",
     "id": "constr_fire_pit",
     "group": "build_fire_pit",
     "category": "FURN",

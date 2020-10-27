@@ -170,19 +170,6 @@
   },
   {
     "type": "recipe",
-    "result": "dog_whistle_prim",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_CONTAINERS",
-    "skill_used": "fabrication",
-    "difficulty": 3,
-    "skills_required": [ "survival", 4 ],
-    "time": 20000,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "stick", 2 ] ] ]
-  },
-  {
-    "type": "recipe",
     "result": "plant_fibre",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
