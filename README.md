@@ -424,12 +424,14 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 
 *Items:*
 ```JSON
-Primitive Glue
+- [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
 - [ ] Ice Block
 - [ ] Woven Sticks
 - [ ] Thatched (woven) Prairie Grass
+- [ ] sprouce_bark
+- [ ] birch_bark
 ```
 
 
@@ -846,8 +848,8 @@ Ringed mushroom
 - [x] Goji Shrub
 - [x] Bilberries Shrub
 - [x] Acai Shrub
-- [ ] Birch Tree
-- [ ] Spruce Tree
+- [x] Birch Tree
+- [x] Spruce Tree
 - [ ] Breadfruit Tree
 - [ ] Cashew Tree
 - [ ] Rubber Tree
