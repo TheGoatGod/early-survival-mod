@@ -6,7 +6,9 @@ Use the `home` key to get to the top.
 
 # Category's
 
-
+- [Versions](#versions)
+  + [0.1](#0.1)
+  + [0.2](#0.2)
 - [Introduction](#introduction)
 - [To-do](#to-do)
 - [Sources](#sources)
@@ -55,6 +57,36 @@ Use the `home` key to get to the top.
     + [Vehicle-Parts](#r-vehicle-parts)
 
 
+
+
+# Versions
+**Head-Category -** [Versions](#versions)
+
+
+## 0.1
+**Head-Category -** [Versions](#versions)
+**Sub-Category -** [0.1](#0.1)
+
+
+* Implemented `Wilderness_Overhaul`
+
+* Implemented `Wild_Living`
+
+* Implemented `Rice`
+
+* Implemented `Cloth_Rollmat`
+
+* Implemented `More_tea_leaf`
+
+
+## 0.2
+**Head-Category -** [Versions](#versions)
+**Sub-Category -** [0.2](#0.2)
+
+
+* Added new `berries` to the game through 3 different JSONs `terrain, seeds and raw_fruit`
+
+
 # Introduction
 **Head-Category -** [Introduction](#introduction)
 
@@ -79,7 +111,6 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [x] Remove all `Materials` in vanilla - add extra code to `Vanilla` Category
 - [ ] Add more to `Bush Craft Survival Sources`
 - [ ] Remove unwanted `Recipes`
-- [ ] Look through new `Sources` for new `Primitive` features add below this
 - [ ] Add new `Construction` method for building with `Sticks`
 - [ ] Add new `Construction` method for building with `Sticks` and `Mud`
 - [ ] Add more `Items`
@@ -87,6 +118,9 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
 - [ ] Implement a way to collect `Mud`, `Grass`, `Bark`, `Adobe`, `Vines`, `Peat`, `Moss` and `Leaves`
+
+*new features for after implementing 1.0
+- [ ] Look through new `Sources` for new `Primitive` features add below this
 
 *For after*
 ---
