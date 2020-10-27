@@ -58,13 +58,15 @@ Use the `home` key to get to the top.
 
 
 # Versions
-**Head-Category -** [Versions](#versions)
+**Head-Category -** [Versions](#versions)\
+
+
 0.1 implemented-
 * `mods` - Wilderness_Overhaul. Wild_Living. Cloth_Rollmat. More_tea_leaf. Rice.
 * `fixes` - fixed a missing comma causing game to crash to me
           - fixed no construction group for `plant hedge row`
           - fix for bugs
-          
+
 0.2 implementing-
 * `items` - tools. weapons. generic. container.
 * `Furniture and Terrain` - flora
@@ -85,7 +87,7 @@ Use the `home` key to get to the top.
 
 
 ## 0.1
-**Head-Category -** [Versions](#versions)
+**Head-Category -** [Versions](#versions)\
 **Sub-Category -** [0.1](#0.1)
 
 
@@ -101,12 +103,12 @@ Use the `home` key to get to the top.
 
 
 ## 0.2
-**Head-Category -** [Versions](#versions)
+**Head-Category -** [Versions](#versions)\
 **Sub-Category -** [0.2](#0.2)
 
 
 * Added new `berries` to the game through 3 different JSONs `terrain, seeds and raw_fruit`
-
+* Added Spruce and birch trees
 
 # Introduction
 **Head-Category -** [Introduction](#introduction)
@@ -263,6 +265,11 @@ I wanted to expand the early game and living in the bush or wild living if you w
 lots of new items,
 ```
 
+*How to collect leaves:*
+Build menu - build_pile_of_leaves  requires- withered 50
+deconstruct pile of leaves to get leaves ATM,
+until I implement leaves falling off trees.
+
 
 # Vanilla-Code
 **Head-Category -** [Vanilla-Code](#vanilla-code)
@@ -299,6 +306,7 @@ Rocks
 Logs
 Sticks
 Long Sticks
+Grass
 ```
 
 *Leather clothing:*
@@ -368,7 +376,6 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 ```
 
 *Items:*
-```JSON
 - [ ] Primitive Grain Grinders
 - [ ] Primitive Mortar And Pestless
 - [ ] Primitive Oldowan chopping tool
@@ -379,7 +386,6 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 - [ ] Primitive Antler Pressure Flaker - might remove
 - [ ] Primitive Chisel
 - [ ] Primitive Torch
-```
 
 
 ## Weapons
@@ -394,7 +400,6 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 ```
 
 *Items:*
-```JSON
 - [ ] Primitive Spears
 - [ ] Primitive Stone Tomahawks
 - [ ] Primitive Hoko Knives
@@ -412,7 +417,6 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 - [ ] Primitive Staff
 - [ ] Mongol Bow And Arrows
 - [x] Atlatls (A.k.a. Spear Throwers) - take from code already made
-```
 
 
 ## Generic
@@ -429,7 +433,6 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 ```
 
 *Items:*
-```JSON
 - [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
@@ -437,8 +440,7 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 - [ ] Woven Sticks
 - [ ] Thatched (woven) Prairie Grass
 - [ ] sprouce_bark
-- [ ] birch_bark
-```
+- [ ] leaves
 
 
 ## Containers
@@ -452,12 +454,10 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 ```
 
 *Items:*
-```JSON
 - [ ] Primitive Backpack
 - [ ] Primitive Sack
 - [ ] Primitive Bucket
 - [ ] Primitive Canteen
-```
 
 
 ## Materials
@@ -466,14 +466,12 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 
 
 *Items:*
-```JSON
 - [ ] Claystone
 - [ ] Limestone
 - [ ] Organic Oil
 - [ ] Mud
 - [ ] Thatch
 ---
-- [ ] Grass
 - [ ] Leaves
 - [ ] Moss
 - [ ] Peat
@@ -482,7 +480,6 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [ ] Ice
 - [ ] Vines
 - [ ] Adobe
-```
 
 
 # Clothing
