@@ -1,4 +1,4 @@
-# Early Survival mod construction
+# Early Survival mod 0.3 construction
 
 
 Use the `home` key to get to the top.
@@ -61,6 +61,18 @@ Use the `home` key to get to the top.
 
 # Versions
 **Head-Category -** [Versions](#versions)
+0.1 implemented-
+* `mods` - Wilderness_Overhaul. Wild_Living. Cloth_Rollmat. More_tea_leaf. Rice.
+0.2 implementing-
+* `items` - tools. weapons. generic. container.
+0.3 implement-
+* `items` - materials. clothing. comestibles
+0.4 implement-
+* `recipes` - tools. weapons. generic. containers.
+0.5 implement-
+* `vehicle's`- vehicles. vehicle_parts.
+* `recipes` - materials. clothing. comestibles.
+0.6
 
 
 ## 0.1
