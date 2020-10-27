@@ -133,6 +133,7 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
 - [ ] Implement a way to collect `Mud`, `Grass`, `Bark`, `Adobe`, `Vines`, `Peat`, `Moss` and `Leaves`
+- [ ] Implement 10 new `professions` and `scenarios` ie, primitive survival easy, normal, hard, other variants that are normal starts like primitive and his dog
 
 *new features for after implementing 0.5:*
 - [ ] Look through new `Sources` for new `Primitive` features add below this
