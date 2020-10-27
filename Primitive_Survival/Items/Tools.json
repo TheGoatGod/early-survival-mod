@@ -113,7 +113,7 @@
     "name": { "str": "stone mattock" },
     "description": "This is a stone mattock, with both an axe head and an adze head.  This is useful for a variety of tasks as well as a passable melee weapon.",
     "price": 1000,
-    "flags": [ "DURABLE_MELEE". "BELT_CLIP", "SHEATH_AXE" ],
+    "flags": [ "DURABLE_MELEE", "BELT_CLIP", "SHEATH_AXE" ],
     "material": [ "stone", "wood" ],
     "weight": "3154 g",
     "volume": "3750 ml",
