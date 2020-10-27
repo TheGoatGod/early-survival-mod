@@ -64,15 +64,23 @@ Use the `home` key to get to the top.
 * `fixes` - fixed a missing comma causing game to crash to me
           - fixed no construction group for `plant hedge row`
           - fix for bugs
+          
 0.2 implementing-
 * `items` - tools. weapons. generic. container.
+* `Furniture and Terrain` - flora
+
 0.3 implement-
 * `items` - materials. clothing. comestibles
+* `Furniture and Terrain` - terrain
+
 0.4 implement-
 * `recipes` - tools. weapons. generic. containers.
+* `Furniture and Terrain` - furniture
+
 0.5 implement-
 * `vehicle's`- vehicles. vehicle_parts.
 * `recipes` - materials. clothing. comestibles.
+
 0.6
 
 
