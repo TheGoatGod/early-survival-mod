@@ -10,4 +10,21 @@
     "name": { "str": "turpentine" },
     "description": "Distilled from pine resin, this solvent has many uses in projects."
   },
+  {
+    "type": "AMMO",
+    "id": "material_Claystone",
+    "category": "spare_parts",
+    "price": 50,
+    "price_postapoc": 10,
+    "name": { "str_sp": "Claystone" },
+    "symbol": "=",
+    "color": "dark_gray",
+    "description": "A handful of small chunks of Claystone.  Useful for experiments at science fairs, but pretty useless as ammo.  Maybe something could be crafted from this stuff…",
+    "material": [ "stone" ],
+    "volume": "250 ml",
+    "weight": "14 g",
+    "bashing": 1,
+    "ammo_type": "components",
+    "count": 50
+  },
 ]
