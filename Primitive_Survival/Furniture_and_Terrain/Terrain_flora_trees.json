@@ -1,20 +1,20 @@
 [
   {
     "type": "terrain",
-    "id": "t_tree_sprouce",
+    "id": "t_tree_spruce",
     "override": true,
-    "name": "sprouce tree",
-    "description": "A massive deciduous sprouce tree, commonly found throughout New England region.  You could cut it down with the right tools.",
+    "name": "spruce tree",
+    "description": "A massive deciduous spruce tree, commonly found throughout New England region.  You could cut it down with the right tools.",
     "symbol": "7",
     "color": [ "green", "green", "green", "brown" ],
     "//": "barren in winter",
     "move_cost": 0,
     "examine_action": "harvest_ter",
-    "transforms_into": "t_tree_sprouce_harvested",
+    "transforms_into": "t_tree_spruce_harvested",
     "harvest_by_season": [
       {
         "seasons": [ "spring", "autumn" ],
-        "entries": [ { "drop": "sprouce_bark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] } ]
+        "entries": [ { "drop": "spruce_bark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] } ]
       }
     ],
     "flags": [ "FLAMMABLE_ASH", "NOITEM", "SUPPORTS_ROOF", "TREE", "REDUCE_SCENT" ],
@@ -29,9 +29,9 @@
   },
   {
     "type": "terrain",
-    "id": "t_tree_sprouce_harvested",
-    "description": "A harvested sprouce tree",
-    "name": "sprouce tree",
+    "id": "t_tree_spruce_harvested",
+    "description": "A harvested spruce tree",
+    "name": "spruce tree",
     "symbol": "7",
     "color": [ "brown", "brown", "brown", "brown" ],
     "//": "barren in winter, not harvestable",
@@ -57,7 +57,7 @@
     "//": "barren in winter",
     "move_cost": 0,
     "examine_action": "harvest_ter",
-    "transforms_into": "t_tree_sprouce_harvested",
+    "transforms_into": "t_tree_birch_harvested",
     "harvest_by_season": [
       {
         "seasons": [ "spring", "autumn" ],
