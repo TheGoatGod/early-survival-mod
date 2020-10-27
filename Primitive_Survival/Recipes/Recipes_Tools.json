@@ -16,5 +16,19 @@
       [ [ "rock", 3 ], [ "ceramic_shard", 3 ] ],
       [ [ "string_6", 6 ], [ "sinew", 120 ], [ "thread", 120 ], [ "plant_fibre", 120 ] ]
     ]
+  },
+  {
+    "type": "recipe",
+    "result": "selfmade_tent_kit",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 3 ],
+    "difficulty": 3,
+    "book_learn": [ [ "fun_survival", 1 ], [ "manual_survival", 1 ], [ "textbook_survival", 1 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "SCREW", "level": 1 } ],
+    "time": "28 m",
+    "autolearn": true,
+    "components": [ [ [ "oilcloth_canvas", 2 ] ], [ [ "foldframe", 2 ], [ "pipe", 8 ] ] ]
   }
 ]
