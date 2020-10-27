@@ -69,10 +69,10 @@ Use the `home` key to get to the top.
           - fixed no construction group for `plant hedge row`
           - fix for bugs
 
-0.2 implementing-
+0.2 implemented-
 * `items` - tools. weapons. generic. materials.
 
-0.3 implement-
+0.3 implementing-
 * `items` - container. clothing. comestibles
 * `Furniture and Terrain` - terrain
 
