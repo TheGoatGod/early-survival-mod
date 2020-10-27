@@ -40,5 +40,15 @@
     "color": "brown",
     "description": "A bundle of atlatl darts, bound up with a rope for easy carrying.",
     "material": [ "wood" ]
+  },
+  {
+    "id": "sleeping_fur_bundle",
+    "type": "GENERIC",
+    "name": { "str": "Sleeping fur rolled-up and tied" },
+    "volume": "3750 ml",
+    "weight": "5000 g",
+    "color": "brown",
+    "description": "A bundle of atlatl darts, bound up with a rope for easy carrying.",
+    "material": [ "wood" ]
   }
 ]

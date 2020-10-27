@@ -206,7 +206,7 @@
     "id": "primitive_chisel",
     "type": "TOOL",
     "symbol": "C",
-    "name": { "str": "Makeshift chisel" },
+    "name": { "str": "Wooden-stone chisel" },
     "description": "A primitive Fire plough.  A fire plough used to start fires.",
     "weight": "450 g",
     "volume": "500 ml",
@@ -215,5 +215,17 @@
     "bashing": 7,
     "material": [ "stone", "wood" ],
     "qualities": [ [ "CHISEL_WOOD", 2 ] ]
+  },
+  {
+    "id": "tomahawk",
+    "type": "TOOL",
+    "symbol": "T",
+    "name": { "str": "Tomahawk" },
+    "description": "A primitive tomahawk.  Can be used to chop trees.  A deadly weapon.",
+    "price": 250,
+    "bashing": 17,
+    "cutting": 15,
+    "material": [ "stone", "wood" ],
+    "qualities": [ [ "AXE", 2 ] ]
   }
 ]

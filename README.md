@@ -20,6 +20,7 @@ Use the `home` key to get to the top.
 - [Items](#items)
   + [Tools](#tools)
   + [Weapons](#weapons)
+  + [Ammo](#ammo)
   + [Generic](#generic)
   + [Containers](#containers)
   + [Resources](#resources)
@@ -70,7 +71,6 @@ Use the `home` key to get to the top.
 
 0.2 implementing-
 * `items` - tools. weapons. generic. materials.
-* `Furniture and Terrain` - flora
 
 0.3 implement-
 * `items` - container. clothing. comestibles
@@ -109,6 +109,8 @@ Use the `home` key to get to the top.
 * Added new `materials` "Mud", "leaves"
 * Added new `resource` "material_Claystone"
 * Added new `items` "Primitive Oldowan chopping tool", "Primitive Antler", "Primitive Sea Shell Saw", "Primitive Fire_Plough", "Primitive Chisel"
+* added new `weapons` "primitive_blowgun", "primitive_spear", "primitive_machete",
+* Added new `ammo` "blowgun_dart_crude", "blowgun_dart",
 
 
 # Introduction
@@ -141,8 +143,11 @@ I wanted to expand the early game and living in the bush or wild living if you w
 - [ ] Add more `Recipes`
 - [ ] Add more `Vehicle Parts`
 - [ ] Implement `Primitive` mod `Ids` to `JSON files`
-- [ ] Implement a way to collect `Mud`, `Grass`, `Bark`, `Adobe`, `Vines`, `Peat`, `Moss` and `Leaves`
+- [ ] Implement a way to collect `Mud`, `Adobe`, and `Leaves`
 - [ ] Implement 10 new `professions` and `scenarios` ie, primitive survival easy, normal, hard, other variants that are normal starts like primitive and his dog
+- [ ] Add more `bamboo` construction
+- [ ] Add more `bamboo` Recipes
+- [ ] Add more `bamboo` anything enclosed
 
 *new features for after implementing 0.5:*
 - [ ] Look through new `Sources` for new `Primitive` features add below this
@@ -383,6 +388,7 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 - [x] Primitive Sea Shell Saw
 - [x] Primitive Fire_Plough
 - [x] Primitive Chisel
+- [x] Primitive Stone Tomahawks
 
 
 ## Weapons
@@ -399,13 +405,18 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 *Items:*
 - [x] Atlatls (A.k.a. Spear Throwers)
 - [x] Primitive Blowgun
-- [ ] Primitive Spears
-- [ ] Primitive Stone Tomahawks
-- [ ] Primitive Hoko Knives
-- [ ] Primitive machete
-- [ ] Primitive Dagger
-- [ ] Primitive Sword
-- [ ] Primitive Staff
+- [x] Primitive Spears
+- [x] Primitive machete
+
+
+## Ammo
+**Head-Category -** [Items](#items)\
+**Sub-Category -** [Ammo](#ammo)
+
+
+*Items:*
+- [x] Blowgun dart
+- [x] Blowgun dart crude
 
 
 ## Generic
@@ -422,17 +433,13 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 ```
 
 *Items:*
-- [ ] Primitive Glue
-- [ ] Bonemeal Fertilizer
-- [ ] Primitive Sleeping fur/pelt
-- [ ] Woven Sticks
-- [ ] sprouce_bark
-- [ ] leaves
-- [ ] Mud
-- [ ] Leaves
-- [ ] Moss
-- [ ] Peat
-- [ ] Vines
+- [x] Primitive Glue
+- [x] Bonemeal Fertilizer
+- [x] Primitive Sleeping fur/pelt
+- [x] sprouce_bark
+- [x] leaves
+- [x] Mud
+
 
 
 ## Containers
@@ -470,7 +477,7 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [x] Mud
 - [x] Leaves
 - [x] Peat
-
+- [x] Bamboo
 
 # Clothing
 **Head-Category -** [Items](#items)\
@@ -1024,12 +1031,18 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [x] add `Generic` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
 
+*Sources:*
+[Primitive glue](https://www.outdoorrevival.com/instant-articles/making-glue-stick-using-primitive-methods.html)
+[Bonemeal Fertilizer](https://balconygardenweb.com/how-to-make-bone-meal-fertilizer-at-home/)
+
 *Unfinished-Items:*
 ```JSON
 - [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
-- [ ] Woven Sticks
+- [ ] sprouce_bark
+- [ ] leaves
+- [ ] Mud
 ```
 
 

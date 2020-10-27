@@ -4,5 +4,11 @@
     "id": "atlatl_dart",
     "name": "atlatl dart",
     "default": "atlatl_dart"
+  },
+  {
+    "type": "ammunition_type",
+    "id": "blowgun_dart",
+    "name": "blowgun dart",
+    "default": "blowgun_dart"
   }
 ]
