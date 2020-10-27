@@ -22,6 +22,7 @@ Use the `home` key to get to the top.
   + [Weapons](#weapons)
   + [Generic](#generic)
   + [Containers](#containers)
+  + [Resources](#resources)
   + [Materials](#materials)
   - [Clothing](#clothing)
     + [Clothes](#clothes)
@@ -68,11 +69,11 @@ Use the `home` key to get to the top.
           - fix for bugs
 
 0.2 implementing-
-* `items` - tools. weapons. generic. container.
+* `items` - tools. weapons. generic. materials.
 * `Furniture and Terrain` - flora
 
 0.3 implement-
-* `items` - materials. clothing. comestibles
+* `items` - container. clothing. comestibles
 * `Furniture and Terrain` - terrain
 
 0.4 implement-
@@ -108,7 +109,10 @@ Use the `home` key to get to the top.
 
 
 * Added new `berries` to the game through 3 different JSONs `terrain, seeds and raw_fruit`
-* Added Spruce and birch trees
+* Added new `flora` Spruce and birch trees
+* Added new `materials` "Mud", "leaves"
+* Added new `resource` "material_Claystone"
+
 
 # Introduction
 **Head-Category -** [Introduction](#introduction)
@@ -436,11 +440,14 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 - [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
-- [ ] Ice Block
 - [ ] Woven Sticks
-- [ ] Thatched (woven) Prairie Grass
 - [ ] sprouce_bark
 - [ ] leaves
+- [ ] Mud
+- [ ] Leaves
+- [ ] Moss
+- [ ] Peat
+- [ ] Vines
 
 
 ## Containers
@@ -460,26 +467,24 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [ ] Primitive Canteen
 
 
+## Resources
+**Head-Category -** [Items](#items)\
+**Sub-Category  -** [Resources](#resources)
+
+
+*Resources:*
+- [x] Claystone
+
+
 ## Materials
 **Head-Category -** [Items](#items)\
 **Sub-Category  -** [Materials](#materials)
 
 
 *Items:*
-- [ ] Claystone
-- [ ] Limestone
-- [ ] Organic Oil
-- [ ] Mud
-- [ ] Thatch
----
-- [ ] Leaves
-- [ ] Moss
-- [ ] Peat
-- [ ] Bark
-- [ ] Fiber
-- [ ] Ice
-- [ ] Vines
-- [ ] Adobe
+- [x] Mud
+- [x] Leaves
+- [x] Peat
 
 
 # Clothing
@@ -808,28 +813,6 @@ Ringed mushroom
 - [ ] Mud Roof
 ```
 
-*Thatched Terrain:*
-```JSON
-- [ ] Thatch Door-frame
-- [ ] Thatch Door
-- [ ] Thatch Floor
-- [ ] Thatch Window-frame
-- [ ] Thatch Window
-- [ ] Thatch Wall
-- [ ] Thatch Roof
-```
-
-*Stone Terrain:*
-```JSON
-- [ ] Stone Door-frame
-- [ ] Stone Door
-- [ ] Stone Floor
-- [ ] Stone Window-frame
-- [ ] Stone Window
-- [ ] Stone Wall
-- [ ] Stone Roof
-```
-
 *Stick Terrain:*
 ```JSON
 - [ ] Stick Door-frame
@@ -1093,9 +1076,7 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
-- [ ] Ice Block
 - [ ] Woven Sticks
-- [ ] Thatched (woven) Prairie Grass
 ```
 
 
@@ -1134,20 +1115,9 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 *Items:*
 ```JSON
 - [ ] Claystone
-- [ ] Limestone
-- [ ] Organic Oil
 - [ ] Mud
-- [ ] Thatch
----
-- [ ] Grass
 - [ ] Leaves
-- [ ] Moss
 - [ ] Peat
-- [ ] Bark
-- [ ] Fiber
-- [ ] Ice
-- [ ] Vines
-- [ ] Adobe
 ```
 
 
