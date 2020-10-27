@@ -1,4 +1,4 @@
-# Early Survival mod 0.3 construction
+# Early Survival mod 0.2 construction
 
 
 Use the `home` key to get to the top.
@@ -58,7 +58,7 @@ Use the `home` key to get to the top.
 
 
 # Versions
-**Head-Category -** [Versions](#versions)\
+**Head-Category -** [Versions](#versions)
 
 
 0.1 implemented-
