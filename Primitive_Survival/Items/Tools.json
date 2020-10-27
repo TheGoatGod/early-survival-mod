@@ -145,5 +145,75 @@
       "door_opened": "f_canvas_door_o",
       "door_closed": "f_canvas_door"
     }
+  },
+  {
+    "id": "primitive_oldowan_chopping_tool",
+    "type": "TOOL",
+    "symbol": "0",
+    "name": { "str": "oldowan chopping tool" },
+    "description": "They can be made with no other tools as they are just pebbles which have had some surfaces broken off leaving a sharper edge.  You can then grip the smooth portion of the tool and use sharper edges for rough chopping or crushing.",
+    "weight": "600 g",
+    "volume": "200 ml",
+    "price": 250,
+    "to_hit": 0,
+    "bashing": 7,
+    "material": [ "stone" ],
+    "qualities": [ [ "CUT", 1 ], [ "BUTCHER", 1 ], [ "HAMMER", 1 ] ]
+  },
+  {
+    "id": "antler",
+    "type": "TOOL",
+    "symbol": "0",
+    "name": { "str": "Antler" },
+    "description": "An antler can be used as a digging and pounding.",
+    "weight": "600 g",
+    "volume": "200 ml",
+    "price": 250,
+    "to_hit": 0,
+    "bashing": 7,
+    "material": [ "bone" ],
+    "qualities": [ [ "DIG", 1 ], [ "HAMMER", 1 ] ]
+  },
+  {
+    "id": "primitive_sea_shell_saw",
+    "type": "TOOL",
+    "symbol": "C",
+    "name": { "str": "Sea shell saw" },
+    "description": "A primitive saw.  Sea shell held in place with some wood.",
+    "weight": "450 g",
+    "volume": "500 ml",
+    "price": 250,
+    "to_hit": 0,
+    "bashing": 7,
+    "material": [ "bone", "wood" ],
+    "qualities": [ [ "SAW_W",, 1 ] ]
+  },
+  {
+    "id": "primitive_fire_plough",
+    "type": "TOOL",
+    "symbol": "C",
+    "name": { "str": "Fire plough" },
+    "description": "A light primitive Fire plough.  A fire plough used to start fires.",
+    "weight": "500 g",
+    "volume": "200 ml",
+    "price": 250,
+    "to_hit": 0,
+    "bashing": 7,
+    "material": [ "bone", "wood" ],
+    "qualities": [ [ "DRILL", 2 ] ]
+  },
+  {
+    "id": "primitive_chisel",
+    "type": "TOOL",
+    "symbol": "C",
+    "name": { "str": "Makeshift chisel" },
+    "description": "A primitive Fire plough.  A fire plough used to start fires.",
+    "weight": "450 g",
+    "volume": "500 ml",
+    "price": 250,
+    "to_hit": 0,
+    "bashing": 7,
+    "material": [ "stone", "wood" ],
+    "qualities": [ [ "CHISEL_WOOD", 2 ] ]
   }
 ]

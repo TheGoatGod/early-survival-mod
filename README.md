@@ -93,13 +93,9 @@ Use the `home` key to get to the top.
 
 
 * Implemented `Wilderness_Overhaul`
-
 * Implemented `Wild_Living`
-
 * Implemented `Rice`
-
 * Implemented `Cloth_Rollmat`
-
 * Implemented `More_tea_leaf`
 
 
@@ -112,6 +108,7 @@ Use the `home` key to get to the top.
 * Added new `flora` Spruce and birch trees
 * Added new `materials` "Mud", "leaves"
 * Added new `resource` "material_Claystone"
+* Added new `items` "Primitive Oldowan chopping tool", "Primitive Antler", "Primitive Sea Shell Saw", "Primitive Fire_Plough", "Primitive Chisel"
 
 
 # Introduction
@@ -285,6 +282,7 @@ Primitive Stone Hammers
 Primitive Hand Axes
 Primitive Adzes
 Primitive Shovel
+Mortar And Pestless
 t_Bellows - Primitive Bellows
 awl_bone - Primitive Bone Awl
 ```
@@ -298,6 +296,7 @@ slingshot - Primitive Slingshot
 *Generic:*
 ```JSON
 Glue
+
 ```
 
 *Materials:*
@@ -379,16 +378,11 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 ```
 
 *Items:*
-- [ ] Primitive Grain Grinders
-- [ ] Primitive Mortar And Pestless
-- [ ] Primitive Oldowan chopping tool
-- [ ] Primitive Antler
-- [ ] Primitive Bone; ribs and long leg bones
-- [ ] Primitive Sea Shell Saw
-- [ ] Primitive Flint Scraper
-- [ ] Primitive Antler Pressure Flaker - might remove
-- [ ] Primitive Chisel
-- [ ] Primitive Torch
+- [x] Primitive Oldowan chopping tool
+- [x] Primitive Antler
+- [x] Primitive Sea Shell Saw
+- [x] Primitive Fire_Plough
+- [x] Primitive Chisel
 
 
 ## Weapons
@@ -403,23 +397,15 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 ```
 
 *Items:*
+- [x] Atlatls (A.k.a. Spear Throwers)
+- [x] Primitive Blowgun
 - [ ] Primitive Spears
 - [ ] Primitive Stone Tomahawks
 - [ ] Primitive Hoko Knives
 - [ ] Primitive machete
-- [ ] Primitive Rock Slings
-- [ ] Primitive Long Bow
-- [ ] Primitive Short bow
-- [ ] Primitive Arrows - curde, non-cude
-- [ ] Primitive Blowgun
-- [ ] Primitive Lassos?
-- [ ] Primitive Throwing/Rabbit Sticks
 - [ ] Primitive Dagger
 - [ ] Primitive Sword
-- [ ] Primitive Viking Axe
 - [ ] Primitive Staff
-- [ ] Mongol Bow And Arrows
-- [x] Atlatls (A.k.a. Spear Throwers) - take from code already made
 
 
 ## Generic
@@ -989,12 +975,8 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Primitive Mortar And Pestless
 - [ ] Primitive Oldowan chopping tool
 - [ ] Primitive Antler
-- [ ] Primitive Bone; ribs and long leg bones
 - [ ] Primitive Sea Shell Saw
-- [ ] Primitive Flint Scraper
-- [ ] Primitive Antler Pressure Flaker - might remove
 - [ ] Primitive Chisel
-- [ ] Primitive Torch
 ```
 
 *Finished-items*
@@ -1024,18 +1006,10 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Primitive Spears
 - [ ] Primitive Stone Tomahawks
 - [ ] Primitive Hoko Knives
-- [ ] Primitive Rock Slings
-- [ ] Primitive Long Bow
-- [ ] Primitive Short bow
-- [ ] Primitive Arrows - curde, non-cude
 - [ ] Primitive Blowgun
-- [ ] Primitive Lassos?
-- [ ] Primitive Throwing/Rabbit Sticks
 - [ ] Primitive Dagger
 - [ ] Primitive Sword
-- [ ] Primitive Viking Axe
 - [ ] Primitive Staff
-- [ ] Mongol Bow And Arrows
 - [ ] Atlatls (A.k.a. Spear Throwers) - take from code already made
 ```
 
