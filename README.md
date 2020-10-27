@@ -211,7 +211,6 @@ I wanted to expand the early game and living in the bush or wild living if you w
 [Primitive Tool : Updated grass wall to mud brick wall](https://www.youtube.com/watch?v=hBMOZti_8_U)\
 [Primitive Technology: Making Copper Bricks and Making Clay Bricks](https://www.youtube.com/watch?v=0_9rtqvl-iw&ab_channel=SurvivalSkillsPrimitive)\
 [Adobe Wall](https://www.youtube.com/watch?v=hzz36cvo88U)\
-[Grass Thatch](https://www.youtube.com/watch?v=Ka2Eu6LxAKo)\
 [Build a Primitive Adobe Rocket Stove (Part 1)](https://www.youtube.com/watch?v=TO3e4NYqr3c)\
 [Build a Primitive Adobe Rocket Stove (Part 2)](https://www.youtube.com/watch?v=hcbrIdEEG60)\
 [Build a Primitive Adobe Rocket Stove (Part 3)](https://www.youtube.com/watch?v=Htx6d9bz2Yo)\
@@ -904,29 +903,8 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Mud Window-frame
 - [ ] Mud Window
 - [ ] Mud Wall
+- [ ] Half-built Mud Wall
 - [ ] Mud Roof
-```
-
-*Thatched Terrain:*
-```JSON
-- [ ] Thatch Door-frame
-- [ ] Thatch Door
-- [ ] Thatch Floor
-- [ ] Thatch Window-frame
-- [ ] Thatch Window
-- [ ] Thatch Wall
-- [ ] Thatch Roof
-```
-
-*Stone Terrain:*
-```JSON
-- [ ] Stone Door-frame
-- [ ] Stone Door
-- [ ] Stone Floor
-- [ ] Stone Window-frame
-- [ ] Stone Window
-- [ ] Stone Wall
-- [ ] Stone Roof
 ```
 
 *Stick Terrain:*
@@ -936,6 +914,7 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Stick Floor
 - [ ] Stick Window-frame
 - [ ] Stick Window
+- [ ] Half-built Stick Wall
 - [ ] Stick Wall
 - [ ] Stick Roof
 ```
