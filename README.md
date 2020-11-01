@@ -453,10 +453,10 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 ```
 
 *Items:*
-- [ ] Primitive Backpack
-- [ ] Primitive Sack
-- [ ] Primitive Bucket
-- [ ] Primitive Canteen
+- [x] Primitive Backpack
+- [x] Primitive Sack
+- [x] Primitive Bucket
+- [x] Primitive Canteen
 
 
 ## Resources
