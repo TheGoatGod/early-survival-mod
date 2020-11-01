@@ -1,0 +1,16 @@
+[
+  {
+    "type": "recipe",
+    "result": "atlatl",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "fabrication",
+    "skills_required": [ "throw", 2 ],
+    "difficulty": 2,
+    "time": 15000,
+    "reversible": false,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1, "amount": 1 } ],
+    "components": [ [ [ "stick", 1 ], [ "broom", 1 ], [ "2x4", 1 ] ] ]
+  }
+]
