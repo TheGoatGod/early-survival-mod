@@ -105,19 +105,21 @@ Use the `home` key to get to the top.
 **Sub-Category -** [0.2](#0.2)
 
 
-* Added new `berries` to the game through 3 different JSONs `terrain, seeds and raw_fruit`
+* Added new `berries` through 3 different JSONs `terrain, seeds and raw_fruit`
 * Added new `flora` Spruce and birch trees
 * Added new `materials` "Mud", "leaves"
 * Added new `resource` "material_Claystone"
 * Added new `items` "Primitive Oldowan chopping tool", "Primitive Antler", "Primitive Sea Shell Saw", "Primitive Fire_Plough", "Primitive Chisel"
-* added new `weapons` "primitive_blowgun", "primitive_spear", "primitive_machete",
+* Added new `weapons` "primitive_blowgun", "primitive_spear", "primitive_machete",
 * Added new `ammo` "blowgun_dart_crude", "blowgun_dart",
 
 
-## 0.2
+## 0.3
 **Head-Category -** [Versions](#versions)\
-**Sub-Category -** [0.2](#0.2)
+**Sub-Category -** [0.3](#0.3)
 
+
+* Added new `containers`
 
 # Introduction
 **Head-Category -** [Introduction](#introduction)
