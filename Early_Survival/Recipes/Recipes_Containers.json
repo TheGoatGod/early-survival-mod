@@ -1,0 +1,43 @@
+[
+  {
+    "type": "recipe",
+    "result": "clay_solution_extractor",
+    "id": "evaporation_salt_water",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 2,
+    "time": "80 m",
+    "autolearn": true,
+    "components": [
+      [ [ "water", 3 ], [ "water_clean", 3 ] ],
+      [ [ "clay_lump", 15 ] ],
+      [ [ "cordage_short", 2, "LIST" ] ],
+      [ [ "leather", 3 ], [ "fur", 3 ], [ "birchbark", 9 ] ],
+      [ [ "adhesive", 2, "LIST" ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "birch_water_jug",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "survival",
+    "difficulty": 2,
+    "time": 30000,
+    "autolearn": true,
+    "components": [ [ [ "birchbark", 4 ] ], [ [ "cordage", 1, "LIST" ], [ "filament", 60, "LIST" ] ], [ [ "pine_bough", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "birch_funnel",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "survival",
+    "difficulty": 2,
+    "time": 30000,
+    "autolearn": true,
+    "components": [ [ [ "birchbark", 2 ] ], [ [ "cordage", 1, "LIST" ], [ "filament", 60, "LIST" ] ], [ [ "pine_bough", 1 ] ] ]
+  }
+]
