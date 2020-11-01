@@ -9,6 +9,7 @@ Use the `home` key to get to the top.
 - [Versions](#versions)
   + [0.1](#0.1)
   + [0.2](#0.2)
+  + [0.3](#0.3)
 - [Introduction](#introduction)
 - [To-do](#to-do)
 - [Sources](#sources)
@@ -111,6 +112,11 @@ Use the `home` key to get to the top.
 * Added new `items` "Primitive Oldowan chopping tool", "Primitive Antler", "Primitive Sea Shell Saw", "Primitive Fire_Plough", "Primitive Chisel"
 * added new `weapons` "primitive_blowgun", "primitive_spear", "primitive_machete",
 * Added new `ammo` "blowgun_dart_crude", "blowgun_dart",
+
+
+## 0.2
+**Head-Category -** [Versions](#versions)\
+**Sub-Category -** [0.2](#0.2)
 
 
 # Introduction
