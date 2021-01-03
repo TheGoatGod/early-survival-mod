@@ -66,7 +66,7 @@ Use the `home` key to get to the top.
 
 0.1 implemented-
 * `mods` - Wilderness_Overhaul. Wild_Living. Cloth_Rollmat. More_tea_leaf. Rice.
-* `fixes` - fixed a missing comma causing game to crash to me
+* `fixes` - fixed a missing comma causing game to crash to menu
           - fixed no construction group for `plant hedge row`
           - fix for bugs
 
