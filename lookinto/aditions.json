@@ -1,0 +1,244 @@
+//Going to melee.json
+
+{ 
+    "type":"GENERIC",
+    "id": "knuckle_nail",
+    "symbol" : "]",
+    "color": "brown",
+    "name": "nail knuckles",
+    "description": "A pair of knuckles consisting of two small squares of wood with several nails coming through them. Usefull in nasty street fights .",
+    "material": "wood",
+    "price": 0,
+    "volume": 1,
+    "weight": 430,
+    "bashing": 2,
+    "cutting": 8,
+    "flags" : ["UNARMED_WEAPON"],
+    "to_hit": 0
+    },
+    {
+        "type":"GENERIC",
+        "id" : "homewrecker",
+        "name" : "homewrecker",
+        "description" : "A long peice of wood with several chunks of steel firmly tied to it. The resulting weapon is unwieldy and slow but very heavy hitting.",
+        "weight" : 3024,
+        "to_hit" : -3,
+        "color" : "brown",
+        "symbol" : "/",
+        "material" : ["wood", "steel"],
+        "techniques" : ["WBLOCK_1"],
+        "volume" : 5,
+        "bashing" : 22,
+        "cutting" : 4,
+        "flags" : ["STAB"],
+        "price" : 80
+    },
+// going to tools.json
+
+{
+    "id" : "makeshift_knife",
+    "type":"TOOL",
+    "symbol":";",
+    "color": "dark_gray",
+    "name" : "makeshift knife",
+    "description" : "A knife consisting of a long somewhat sharpened spike and a thightly wrapped a rag as a handle. It makes a good melee weapon.",
+    "price": 10,
+    "material": ["steel", "null"],
+    "flags": "STAB",
+    "weight": 550,
+    "volume": 2,
+    "bashing": 2,
+    "cutting": 10,
+    "to_hit": -1,
+    "max_charges": 0,
+    "initial_charges": 0,
+    "charges_per_use": 0,
+    "turns_per_charge": 0,
+    "ammo": "NULL",
+    "revert_to": "null",
+    "use_action": "KNIFE",
+    "qualities": [["CUT", 1]]
+    },
+
+//going to recipes.json
+
+},{
+        "type" : "recipe",
+  "result": "makeshift_knife",
+  "category": "CC_WEAPON",
+  "skill_used": "fabrication",
+  "difficulty": 0,
+  "time": 5000,
+  "reversible": true,
+  "autolearn": true,
+  "tools": [
+    [
+      [ "rock", -1 ],
+      [ "scrap", -1]
+    ]
+  ],
+  "components": [
+    [
+      [ "rag", 1 ]
+    ],
+    [
+      [ "spike", 1 ]
+    ]
+  ]
+},{
+        "type" : "recipe",
+  "result": "homewrecker",
+  "category": "CC_WEAPON",
+  "skill_used": "fabrication",
+  "difficulty": 0,
+  "time": 5000,
+  "reversible": true,
+  "autolearn": true,
+  "components": [
+    [
+      [ "string_36", 8 ]
+    ],
+    [
+      [ "steel_chunk", 4 ]
+    ],
+    [
+      [ "stick", 1 ],
+      [ "2x4", 1 ],
+      [ "mop", 1 ],
+      [ "broom", 1 ]
+    ]
+  ]
+},{
+        "type" : "recipe",
+  "result": "knuckle_nail",
+  "category": "CC_WEAPON",
+  "skill_used": "fabrication",
+  "difficulty": 0,
+  "time": 5000,
+  "reversible": true,
+  "autolearn": true,
+"qualities":[
+    {"id":"CUT","level":1,"amount":1}
+    ],
+  "tools": [ 
+    [ 
+      ["rock", -1], 
+      ["primitive_hammer", -1],
+      ["hammer", -1],
+      ["hatchet", -1],
+      ["toolset", -1] 
+    ]
+  ],
+  "components": [
+    [
+      [ "string_36", 4 ]
+    ],
+    [
+      [ "nail", 16 ]
+    ],
+    [
+      [ "stick", 1 ],
+      [ "2x4", 1 ]
+    ]
+  ]
+},{
+       "type" : "recipe",
+  "result": "2byArm_Guards",
+  "category": "CC_ARMOR",
+  "skill_used": "fabrication",
+  "difficulty": 1,
+  "time": 5000,
+  "reversible": true,
+  "autolearn": true,
+  "qualities":[
+    {"id":"CUT","level":1,"amount":1}
+    ],
+  "components": [
+    [
+      [ "string_36", 4 ]
+    ],
+    [
+      [ "2x4", 2 ]
+    ],
+    [
+      [ "rag", 8 ]
+    ]
+  ]
+},{
+       "type" : "recipe",
+  "result": "2byshin_guard",
+  "category": "CC_ARMOR",
+  "skill_used": "fabrication",
+  "difficulty": 1,
+  "time": 5000,
+  "reversible": true,
+  "autolearn": true,
+  "qualities":[
+    {"id":"CUT","level":1,"amount":1}
+    ],
+  "components": [
+    [
+      [ "string_36", 2 ]
+    ],
+    [
+      [ "2x4", 1 ]
+    ],
+    [
+      [ "rag", 4 ]
+    ]
+  ]
+},
+
+
+//Going to Armor.json
+
+{
+        "type" : "ARMOR",
+        "id" : "2byarm_guard",
+        "name" : "2-by-arm guards",
+        "description" : "A pair of improvised arm guards made from broken pieces of a 2by4 that are tied to your arms with rags and string, they offer moderate proection but are really uncomfortable to wear.",
+        "weight" : 300,
+        "techniques" : ["WBLOCK_1"],
+        "color" : "brown",
+        "covers" : ["ARMS"],
+        "price" : 100,
+        "material" : ["wood" ,"null"],
+        "volume" : 6,
+        "cutting" : 0,
+        "warmth" : 5,
+        "phase" : "solid",
+        "enviromental_protection" : 0,
+        "to_hit" : -1,
+        "storage" : 0,
+        "encumbrance" : 3,
+        "bashing" : 8,
+        "symbol" : "[",
+        "coverage" : 75,
+        "material_thickness" : 3
+    },
+    {
+        "type" : "ARMOR",
+        "id" : "2byshin_guard",
+        "name" : "2-by-shin guards",
+        "description" : "A pair of improvised shin guards made from broken pieces of a 2by4 that are tied to your shins  with rags and string, they offer moderate proection and are really hard to run with.",
+        "weight" : 300,
+        "color" : "brown",
+        "covers" : ["LEGS"],
+        "price" : 100,
+        "material" : ["wood" ,"null"],
+        "volume" : 6,
+        "cutting" : 0,
+        "warmth" : 5,
+        "phase" : "solid",
+        "enviromental_protection" : 0,
+        "to_hit" : -1,
+        "storage" : 0,
+        "encumbrance" : 2,
+        "bashing" : 8,
+        "symbol" : "[",
+        "coverage" : 45,
+        "material_thickness" : 3
+    },
+
+
+
