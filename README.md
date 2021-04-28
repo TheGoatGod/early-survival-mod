@@ -87,6 +87,8 @@ Use the `home` key to get to the top.
 
 0.6
 
+* `Bamboo` - construction. items. terrain. recipes. and more.
+
 
 ## 0.1
 **Head-Category -** [Versions](#versions)\
@@ -855,19 +857,19 @@ Ringed mushroom
 *Mushrooms:* **needs proper naming to be included**
 https://en.wikipedia.org/wiki/Edible_mushroom
 ```JSON
-Black ear mushroom
-Sand mushroom
-Noaidi's mushroom
-Yellowcoat mushroom
-Browncoat mushroom
-Bearpaw mushroom
-Hairy mushroom
-Redlegger mushroom
-Yellow fingers mushroom
-Tellervo's gift mushroom
-Ukko's mushroom
-Soft mushroom
-Ringed mushroom
+- [ ] Black ear mushroom
+- [ ] Sand mushroom
+- [ ] Noaidi's mushroom
+- [ ] Yellowcoat mushroom
+- [ ] Browncoat mushroom
+- [ ] Bearpaw mushroom
+- [ ] Hairy mushroom
+- [ ] Redlegger mushroom
+- [ ] Yellow fingers mushroom
+- [ ] Tellervo's gift mushroom
+- [ ] Ukko's mushroom
+- [ ] Soft mushroom
+- [ ] Ringed mushroom
 ```
 
 
