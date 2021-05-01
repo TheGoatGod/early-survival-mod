@@ -1,7 +1,7 @@
 [
   {
-    "type": "MOD_INFO",
     "id": "primitive-survival-mod",
+    "type": "MOD_INFO",
     "name": "Primitive Survival",
     "authors": [ "The Goat God" ],
     "description": "Adds tools, weapons, armor, locations.",

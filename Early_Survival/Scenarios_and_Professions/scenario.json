@@ -1,7 +1,7 @@
 [
   {
-    "type": "scenario",
     "id": "wilderness",
+    "type": "scenario",
     "override": true,
     "name": "Wilderness",
     "points": 0,
