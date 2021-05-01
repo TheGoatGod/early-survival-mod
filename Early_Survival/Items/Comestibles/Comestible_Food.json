@@ -101,7 +101,7 @@
     "material": [ "veggy" ],
     "volume": "250 ml",
     "charges": 3,
-    "spoils-in": 0,
+    "spoils_in": "20 days",
     "flags": [ "EATEN_HOT" ]
   },
   {
@@ -118,7 +118,7 @@
     "weight": "11363 mg",
     "volume": "750 ml",
     "price": 50,
-    "spoils-in": 12,
+    "spoils_in": "20 days",
     "description": "A plain rice patty.",
     "flags": [ "EATEN_HOT" ]
   },
@@ -138,7 +138,7 @@
     "//": "It's just the base weight of the *rice patty*, times 3.10.",
     "volume": "1500 ml",
     "price": 50,
-    "spoils_in": "3 hours",
+    "spoils_in": "20 days",
     "description": "A plain rice burger",
     "flags": [ "EATEN_HOT" ]
   },
