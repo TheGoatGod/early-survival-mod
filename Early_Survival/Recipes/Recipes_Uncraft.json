@@ -2,12 +2,14 @@
   {
     "result": "oilcloth_canvas_dry",
     "type": "uncraft",
+    "activity_level": "fake",
     "time": "1m",
     "components": [ [ [ "oilcloth_canvas", 1 ] ], [ [ "frame_wood_light", 1 ] ] ]
   },
   {
     "result": "willow_reed_bundle",
     "type": "uncraft",
+    "activity_level": "fake",
     "skill_used": "fabrication",
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "components": [ [ [ "willow_reed", 10 ] ] ],
@@ -18,6 +20,7 @@
     "type": "uncraft",
     "id_suffix": "uncraft",
     "category": "CC_NONCRAFT",
+    "activity_level": "fake",
     "difficulty": 0,
     "time": 2000,
     "reversible": true,
@@ -30,6 +33,7 @@
     "type": "uncraft",
     "id_suffix": "uncraft",
     "category": "CC_NONCRAFT",
+    "activity_level": "fake",
     "difficulty": 0,
     "time": 2000,
     "reversible": true,
