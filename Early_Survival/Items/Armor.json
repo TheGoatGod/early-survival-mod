@@ -33,7 +33,7 @@
       "draw_cost": 40,
       "flags": [ "BELT_CLIP" ]
     },
-    "flags": [ "BELTED", "WATER_FRIENDLY" ]
+    "flags": [ "BELTED", "WATER_FRIENDLY", "BELT_CLIP" ]
   },
   {
     "id": "cordage_pouch1",
@@ -250,7 +250,7 @@
       "draw_cost": 50,
       "flags": [ "BELT_CLIP" ]
     },
-    "flags": [ "BELTED" ]
+    "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
     "id": "backpack_aframe_birchbark2",
@@ -331,7 +331,7 @@
       "draw_cost": 50,
       "flags": [ "BELT_CLIP" ]
     },
-    "flags": [ "BELTED" ]
+    "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
     "id": "backpack_aframe_cordage2",
@@ -376,6 +376,6 @@
       "draw_cost": 200,
       "flags": [ "BELT_CLIP" ]
     },
-    "flags": [ "BELTED" ]
+    "flags": [ "BELTED", "BELT_CLIP" ]
   }
 ]
