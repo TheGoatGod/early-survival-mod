@@ -27,11 +27,7 @@
     "use_action": {
       "type": "holster",
       "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s",
-      "multi": 4,
-      "max_volume": "5L",
-      "draw_cost": 40,
-      "flags": [ "BELT_CLIP" ]
+      "holster_msg": "You attach your %s to your %s"
     },
     "flags": [ "BELTED", "WATER_FRIENDLY", "BELT_CLIP" ]
   },
@@ -244,11 +240,7 @@
     "use_action": {
       "type": "holster",
       "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s",
-      "max_volume": 14,
-      "max_weight": 3600,
-      "draw_cost": 50,
-      "flags": [ "BELT_CLIP" ]
+      "holster_msg": "You attach your %s to your %s"
     },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
@@ -288,12 +280,7 @@
     "use_action": {
       "type": "holster",
       "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s",
-      "multi": 3,
-      "min_volume": "250ml",
-      "max_volume": "3L",
-      "draw_cost": 200,
-      "flags": [ "BELT_CLIP" ]
+      "holster_msg": "You attach your %s to your %s"
     },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
@@ -325,11 +312,7 @@
     "use_action": {
       "type": "holster",
       "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s",
-      "max_volume": 14,
-      "max_weight": 3600,
-      "draw_cost": 50,
-      "flags": [ "BELT_CLIP" ]
+      "holster_msg": "You attach your %s to your %s"
     },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
@@ -369,12 +352,7 @@
     "use_action": {
       "type": "holster",
       "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s",
-      "multi": 3,
-      "min_volume": "250ml",
-      "max_volume": "3L",
-      "draw_cost": 200,
-      "flags": [ "BELT_CLIP" ]
+      "holster_msg": "You attach your %s to your %s"
     },
     "flags": [ "BELTED", "BELT_CLIP" ]
   }
