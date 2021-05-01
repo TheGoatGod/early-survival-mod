@@ -12,15 +12,7 @@
     "transforms_into": "t_shrub_cranberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "cranberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_cranberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "cranberries_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -65,15 +57,7 @@
     "transforms_into": "t_shrub_lingonberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "lingonberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_lingonberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "lingonberries_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -118,15 +102,7 @@
     "transforms_into": "t_shrub_bilberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "bilberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_bilberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "bilberry_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -171,15 +147,7 @@
     "transforms_into": "t_shrub_cloudberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "cloudberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_cloudberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "cloudberry_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -224,15 +192,7 @@
     "transforms_into": "t_shrub_crowberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "crowberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_crowberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "crowberry_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -277,15 +237,7 @@
     "transforms_into": "t_shrub_black_currants_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "black-currants", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_black_currant", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "black_currants_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -330,15 +282,7 @@
     "transforms_into": "t_shrub_gojiberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "gojiberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_gojiberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "gojiberry_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
@@ -383,15 +327,7 @@
     "transforms_into": "t_shrub_acaiberry_harvested",
     "examine_action": "harvest_ter_nectar",
     "looks_like": "t_shrub_strawberry",
-    "harvest_by_season": [
-      {
-        "seasons": [ "summer" ],
-        "entries": [
-          { "drop": "Acaiberries", "base_num": [ 2, 5 ], "scale_num": [ 0, 0.5 ] },
-          { "drop": "seed_acaiberries", "base_num": [ 1, 2 ], "scale_num": [ 0, 0.25 ] }
-        ]
-      }
-    ],
+    "harvest_by_season": [ { "seasons": [ "summer" ], "id": "acaiberry_harv" } ],
     "bash": {
       "str_min": 4,
       "str_max": 60,
