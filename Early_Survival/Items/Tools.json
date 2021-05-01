@@ -222,6 +222,8 @@
     "symbol": "T",
     "name": { "str": "Tomahawk" },
     "description": "A primitive tomahawk.  Can be used to chop trees.  A deadly weapon.",
+    "weight": "1200 g",
+    "volume": "1800 ml",
     "price": 250,
     "bashing": 17,
     "cutting": 15,

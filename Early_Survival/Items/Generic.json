@@ -6,7 +6,7 @@
     "name": { "str": "clay evaporation dish" },
     "description": "A very large shallow bowl with a lid used for evaporating water. Holds about 20 litres, probably best used with a charcoal smoker.",
     "weight": "5480 g",
-    "volume": "20 L",
+    "volume": "20100 ml",
     "price": 2500,
     "bashing": 1,
     "material": [ "clay" ],
