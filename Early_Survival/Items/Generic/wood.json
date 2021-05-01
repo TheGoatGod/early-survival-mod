@@ -1,0 +1,69 @@
+[
+  {
+    "id": "birch_water_jug",
+    "type": "GENERIC",
+    "category": "CC_OTHER",
+    "name": { "str": "birch water jug" },
+    "description": "A carefully made birch bark water jug with a lid, it is sealed with pine pitch. It can hold 1.5 liters of water.",
+    "weight": "453 g",
+    "volume": "3752 ml",
+    "price": 2000,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "wood" ],
+    "symbol": ")",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "rigid": true,
+        "watertight": true,
+        "max_contains_volume": "3750 ml",
+        "max_contains_weight": "8 kg"
+      }
+    ]
+  },
+  {
+    "id": "willow_reed",
+    "type": "GENERIC",
+    "name": { "str": "willow reed", "str_pl": "willow reeds" },
+    "description": "A thin six foot willow stave. Useful for weaving into basketry or stripping for its bark.",
+    "material": [ "wood" ],
+    "flags": [ "TRADER_AVOID", "FIREWOOD" ],
+    "weight": "400 g",
+    "volume": "2500 ml",
+    "symbol": "/",
+    "color": "brown"
+  },
+  {
+    "id": "sprucebark",
+    "type": "GENERIC",
+    "symbol": ",",
+    "color": "brown",
+    "name": { "str_sp": "sprucebark" },
+    "description": "A sheet of tough, water-resistant bark taken from a spruce tree.",
+    "price": 0,
+    "price_postapoc": 0,
+    "material": [ "wood" ],
+    "weight": "323 g",
+    "volume": "250 ml",
+    "bashing": 4,
+    "to_hit": 1
+  },
+  {
+    "id": "leaves",
+    "type": "GENERIC",
+    "symbol": ",",
+    "color": "brown",
+    "name": { "str_sp": "leaves" },
+    "description": "Many leaves.  Used in construction and will keep a fire going.",
+    "price": 0,
+    "price_postapoc": 0,
+    "material": [ "wood" ],
+    "weight": "25 g",
+    "volume": "50 ml",
+    "bashing": 4,
+    "to_hit": 1,
+    "flags": [ "FIREWOOD" ]
+  }
+]

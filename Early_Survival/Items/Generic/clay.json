@@ -1,0 +1,52 @@
+[
+  {
+    "id": "clay_solution_extractor",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "clay evaporation dish" },
+    "description": "A very large shallow bowl with a lid used for evaporating water. Holds about 20 litres, probably best used with a charcoal smoker.",
+    "weight": "5480 g",
+    "volume": "20100 ml",
+    "price": 2500,
+    "bashing": 1,
+    "material": [ "clay" ],
+    "symbol": ")",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "rigid": true,
+        "watertight": true,
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "15 kg"
+      }
+    ],
+    "qualities": [ [ "COOK", 3 ], [ "BOIL", 2 ], [ "CONTAIN", 1 ], [ "CHEM", 1 ] ],
+    "use_action": "HEAT_FOOD",
+    "flags": [ "ALLOWS_REMOTE_USE", "TARDIS" ]
+  },
+  {
+    "id": "clay_watercont",
+    "type": "GENERIC",
+    "category": "container",
+    "name": { "str": "large clay pot" },
+    "description": "A bulky and heavy clay pot with a waterproofed lid, meant to store water, but can carry other liquids in a pinch.",
+    "weight": "4887 g",
+    "volume": "37500 ml",
+    "price": 10000,
+    "to_hit": -2,
+    "material": [ "clay" ],
+    "symbol": ")",
+    "color": "brown",
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "rigid": true,
+        "watertight": true,
+        "max_contains_volume": "37 L",
+        "max_contains_weight": "40 kg"
+      }
+    ],
+    "qualities": [ [ "BOIL", 2 ], [ "CONTAIN", 1 ] ]
+  }
+]
