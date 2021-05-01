@@ -3,7 +3,7 @@
     "id": "goats_early_survival",
     "type": "MOD_INFO",
     "name": "Goats Early Survival",
-    "authors": [ "The Goat God" ],
+    "authors": [ "TheGoatGod" ],
     "description": "Adds tools, weapons, armor, locations.",
     "category": "content",
     "dependencies": [ "dda" ]
