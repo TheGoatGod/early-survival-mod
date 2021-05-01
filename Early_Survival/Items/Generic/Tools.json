@@ -1,0 +1,19 @@
+[
+  {
+    "id": "makeshift_umbrella",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "makeshift umbrella", "str_pl": "makeshift umbrella's" },
+    "description": "A crudely made umbrella, used to keep dry when weilded.",
+    "weight": "118 g",
+    "volume": "500 ml",
+    "price": "120 USD",
+    "to_hit": 1,
+    "bashing": 1,
+    "material": [ "plastic", "aluminum" ],
+    "symbol": ",",
+    "color": "dark_gray",
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "RAIN_PROTECT" ]
+  }
+]
