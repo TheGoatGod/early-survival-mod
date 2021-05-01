@@ -18,12 +18,9 @@
   {
     "result": "atlatl_dart_crude_bundle",
     "type": "uncraft",
-    "id_suffix": "uncraft",
-    "category": "CC_NONCRAFT",
     "activity_level": "fake",
     "difficulty": 0,
     "time": 2000,
-    "reversible": true,
     "autolearn": false,
     "flags": [ "BLIND_EASY" ],
     "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart_crude", 10 ] ] ]
@@ -31,12 +28,9 @@
   {
     "result": "atlatl_dart_bundle",
     "type": "uncraft",
-    "id_suffix": "uncraft",
-    "category": "CC_NONCRAFT",
     "activity_level": "fake",
     "difficulty": 0,
     "time": 2000,
-    "reversible": true,
     "autolearn": false,
     "flags": [ "BLIND_EASY" ],
     "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart", 10 ] ] ]

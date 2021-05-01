@@ -1,6 +1,5 @@
 [
   {
-    "override": true,
     "result": "bowl_clay",
     "type": "recipe",
     "activity_level": "fake",
