@@ -16,8 +16,8 @@
     "name": { "str": "willow reed bundle", "str_pl": "willow reed bundles" },
     "description": "A tied bundle of willow reeds, easier to transport",
     "material": [ "wood" ],
-    "flags": [ "FIREWOOD" ],
     "symbol": ",",
+    "extend": { "flags": [ "FIREWOOD" ] },
     "weight": "4000 g",
     "volume": "3000 ml"
   },
