@@ -51,7 +51,7 @@
   {
     "id": "kitchen",
     "type": "item_group",
-    "items": [ [ "tea_green_leaf", 10 ], [ "tea_oolong_leaf", 10 ] ]
+    "items": [ [ "tea_green_leaf", 10 ], [ "tea_oolong_leaf", 10 ], [ "cake_bucket", 15 ], [ "fiesta_bucket", 15 ] ]
   },
   {
     "id": "coffee_display",
@@ -87,5 +87,26 @@
     "id": "survivorzed_extra",
     "type": "item_group",
     "items": [ [ "hat_hooded", 1 ] ]
+  },
+  {
+    "id": "home_hw",
+    "type": "item_group",
+    "ammo": 50,
+    "magazine": 100,
+    "items": [ [ "cake_bucket", 10 ], [ "fiesta_bucket", 10 ] ]
+  },
+  {
+    "id": "livingroom",
+    "type": "item_group",
+    "ammo": 50,
+    "magazine": 100,
+    "items": [ [ "cake_bucket", 10 ], [ "fiesta_bucket", 10 ] ]
+  },
+  {
+    "id": "bedroom",
+    "type": "item_group",
+    "ammo": 50,
+    "magazine": 100,
+    "items": [ [ "cake_bucket", 10 ], [ "fiesta_bucket", 10 ] ]
   }
 ]

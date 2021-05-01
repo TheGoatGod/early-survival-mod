@@ -34,5 +34,32 @@
     "autolearn": true,
     "flags": [ "BLIND_EASY" ],
     "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart", 10 ] ] ]
+  },
+  {
+    "result": "fiesta_bucket",
+    "type": "uncraft",
+    "time": "0 m",
+    "components": [
+      [ [ "holybook_bible1", 1 ] ],
+      [ [ "fd_corn", 3 ] ],
+      [ [ "nachos", 3 ] ],
+      [ [ "raw_beans", 3 ] ],
+      [ [ "dehydrated_chicken", 3 ] ],
+      [ [ "e_tool", 1 ] ],
+      [ [ "jakker_bucket", 1 ] ]
+    ],
+    "flags": [ "BLIND_EASY" ]
+  },
+  {
+    "result": "cake_bucket",
+    "type": "uncraft",
+    "time": "0 m",
+    "components": [
+      [ [ "holybook_bible1", 1 ] ],
+      [ [ "instant_pancakes", 5 ] ],
+      [ [ "dehydrated_syrup", 5 ] ],
+      [ [ "jakker_bucket", 1 ] ]
+    ],
+    "flags": [ "BLIND_EASY" ]
   }
 ]
