@@ -17,6 +17,7 @@
     "description": "A tied bundle of willow reeds, easier to transport",
     "material": [ "wood" ],
     "flags": [ "FIREWOOD" ],
+    "symbol": ",",
     "weight": "4000 g",
     "volume": "3000 ml"
   },
@@ -38,6 +39,7 @@
     "volume": "3750 ml",
     "weight": "5000 g",
     "color": "brown",
+    "symbol": "[",
     "description": "A bundle of atlatl darts, bound up with a rope for easy carrying.",
     "material": [ "wood" ]
   },
@@ -48,6 +50,7 @@
     "volume": "3750 ml",
     "weight": "5000 g",
     "color": "brown",
+    "symbol": "[",
     "description": "A bundle of atlatl darts, bound up with a rope for easy carrying.",
     "material": [ "wood" ]
   }
