@@ -1,0 +1,9 @@
+[
+  {
+    "id": "spruce_harv",
+    "type": "harvest",
+    "entries": [
+      { "drop": "spruce_bark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] }
+    ]
+  }
+]
