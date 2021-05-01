@@ -20,7 +20,7 @@
   {
     "abstract": "tea_template",
     "type": "COMESTIBLE",
-    "name": { "str_sp": "sugarless tea", "str_pl": "sugarless tea" },
+    "name": { "str_sp": "sugarless tea" },
     "description": "Healthy sugarless tea",
     "weight": "250 g",
     "volume": "250 ml",
@@ -42,7 +42,7 @@
   {
     "abstract": "tea_fruit_template",
     "type": "COMESTIBLE",
-    "name": { "str_sp": "fruit tea", "str_pl": "friut tea" },
+    "name": { "str_sp": "fruit tea" },
     "description": "Healthy fruity tea",
     "volume": "250 ml",
     "weight": "250 g",

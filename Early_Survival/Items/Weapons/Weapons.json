@@ -37,5 +37,5 @@
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", -27 ] ],
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "SHEATH_SWORD" ]
-  },
+  }
 ]

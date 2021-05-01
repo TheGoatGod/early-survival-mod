@@ -28,7 +28,6 @@
   {
     "result": "clay_plant_pot",
     "type": "recipe",
-    "override": true,
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",
     "skill_used": "fabrication",

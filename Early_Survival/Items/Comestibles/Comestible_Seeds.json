@@ -25,7 +25,7 @@
     "description": "It is a species of tea leaves.",
     "volume": "10 ml",
     "material": [ "tlgreentea" ],
-    "primary_material": "dried_vegetable",
+    "primary_material": "dried_vegetable"
   },
   {
     "abstract": "seed_fruit",

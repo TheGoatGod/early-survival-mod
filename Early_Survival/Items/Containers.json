@@ -80,5 +80,5 @@
     "symbol": ")",
     "color": "light_gray",
     "flags": [ "TRADER_AVOID" ]
-  },
+  }
 ]

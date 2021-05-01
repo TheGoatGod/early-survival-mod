@@ -2,7 +2,6 @@
   {
     "result": "clay_solution_extractor",
     "type": "recipe",
-    "id": "evaporation_salt_water",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_CONTAINERS",
     "skill_used": "fabrication",

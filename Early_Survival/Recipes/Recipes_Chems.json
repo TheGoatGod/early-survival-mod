@@ -1,7 +1,6 @@
 [
   {
     "result": "rosin",
-    "override": true,
     "type": "recipe",
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_OTHER",
@@ -29,5 +28,5 @@
     "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
     "byproducts": [ [ "rosin", 10 ] ],
     "components": [ [ [ "pine_bough", 1 ] ] ]
-  },
+  }
 ]
