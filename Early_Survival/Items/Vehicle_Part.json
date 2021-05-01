@@ -3,6 +3,7 @@
     "id": "slung_waterskin",
     "type": "vehicle_part",
     "name": { "str": "slung waterskin" },
+    "description": "A large watertight leather bag with a carrying strap, can hold 5 liters of water.",
     "symbol": "O",
     "color": "brown",
     "broken_symbol": "#",
