@@ -1,8 +1,8 @@
 [
   {
-    "id": "primitive-survival-mod",
+    "id": "goats_early_survival",
     "type": "MOD_INFO",
-    "name": "Primitive Survival",
+    "name": "Goats Early Survival",
     "authors": [ "The Goat God" ],
     "description": "Adds tools, weapons, armor, locations.",
     "category": "content",
