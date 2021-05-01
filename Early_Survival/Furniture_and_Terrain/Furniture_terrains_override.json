@@ -2,6 +2,7 @@
   {
     "type": "furniture",
     "id": "f_boulder_large",
+    "copy-from": "f_boulder_large",
     "name": "large boulder",
     "description": "Now how are you going to move this?",
     "symbol": "O",
