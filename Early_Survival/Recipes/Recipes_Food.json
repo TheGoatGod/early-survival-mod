@@ -122,6 +122,7 @@
     "time": 10000,
     "autolearn": true,
     "batch_time_factors": [ 80, 4 ],
+    "flags": [ "NUTRIENT_OVERRIDE" ],
     "qualities": [ { "id": "BOIL", "level": 1, "amount": 1 } ],
     "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
     "components": [ [ [ "tea_raw", 40 ] ] ]
@@ -137,6 +138,7 @@
     "time": 10000,
     "autolearn": true,
     "batch_time_factors": [ 80, 4 ],
+    "flags": [ "NUTRIENT_OVERRIDE" ],
     "qualities": [ { "id": "BOIL", "level": 1, "amount": 1 } ],
     "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
     "components": [ [ [ "tea_raw", 40 ] ] ]
@@ -153,6 +155,7 @@
     "reversible": false,
     "autolearn": true,
     "batch_time_factors": [ 80, 4 ],
+    "flags": [ "NUTRIENT_OVERRIDE" ],
     "qualities": [ { "id": "BOIL", "level": 1, "amount": 1 } ],
     "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
     "components": [ [ [ "tea_raw", 40 ] ] ]
