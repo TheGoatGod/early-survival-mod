@@ -295,7 +295,7 @@
       "draw_cost": 200,
       "flags": [ "BELT_CLIP" ]
     },
-    "flags": [ "BELTED" ]
+    "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
     "id": "backpack_aframe_cordage1",
