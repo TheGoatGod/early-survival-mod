@@ -1,7 +1,7 @@
 [
   {
-    "type": "recipe",
     "result": "clay_solution_extractor_salt_water",
+    "type": "recipe",
     "id": "evaporation_salt_water",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -13,8 +13,8 @@
     "components": [ [ [ "salt_water", 80 ] ], [ [ "clay_solution_extractor", 1 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "clay_solution_extractor_starch_water",
+    "type": "recipe",
     "id": "evaporation_starch_water",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -26,8 +26,8 @@
     "components": [ [ [ "starch_water", 40 ] ], [ [ "water", 40 ], [ "water_clean", 40 ] ], [ [ "clay_solution_extractor", 1 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "salt",
+    "type": "recipe",
     "charges": 800,
     "id": "evaporation_salt_water_disassemble",
     "category": "CC_OTHER",
@@ -42,8 +42,8 @@
     "components": [ [ [ "clay_solution_extractor_salt", 1 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "flour",
+    "type": "recipe",
     "charges": 600,
     "id": "evaporation_starch_water_disassemble",
     "category": "CC_OTHER",
@@ -58,8 +58,8 @@
     "components": [ [ [ "clay_solution_extractor_flour", 1 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "willow_reed_bundle",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
@@ -72,8 +72,8 @@
   },
   {
     "id": "from_willow_reeds",
-    "type": "recipe",
     "result": "willowbark",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
@@ -86,8 +86,8 @@
   },
   {
     "id": "from_willow",
-    "type": "recipe",
     "result": "willow_fibres",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",
@@ -112,8 +112,8 @@
     "components": [ [ [ "willow_fibres", 12 ], [ "withered", 36 ], [ "straw_pile", 36 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "brain_slurry",
+    "type": "recipe",
     "id": "brain_emulsification",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -132,8 +132,8 @@
     "components": [ [ [ "water_clean", 2 ], [ "water", 2 ] ], [ [ "brain", 1 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "tanning_pelt",
+    "type": "recipe",
     "id": "brain_tanning",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -157,8 +157,8 @@
     ]
   },
   {
-    "type": "recipe",
     "result": "plant_fibre",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "survival",

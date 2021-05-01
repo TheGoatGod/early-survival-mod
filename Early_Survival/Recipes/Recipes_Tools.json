@@ -1,7 +1,7 @@
 [
   {
-    "type": "recipe",
     "result": "primitive_mattock",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",
     "skill_used": "fabrication",
@@ -18,8 +18,8 @@
     ]
   },
   {
-    "type": "recipe",
     "result": "selfmade_tent_kit",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",
     "skill_used": "fabrication",
@@ -32,8 +32,8 @@
     "components": [ [ [ "oilcloth_canvas", 2 ] ], [ [ "foldframe", 2 ], [ "pipe", 8 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "flint_hand_drill",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",
     "skill_used": "fabrication",
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "type": "recipe",
     "result": "fish_trap_primitive",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",
     "skill_used": "survival",
@@ -62,8 +62,8 @@
     "components": [ [ [ "stick_long", 8 ] ], [ [ "cordage", 1, "LIST" ] ] ]
   },
   {
-    "type": "recipe",
     "result": "screwdriver",
+    "type": "recipe",
     "id_suffix": "natural_cordage",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_TOOLS",

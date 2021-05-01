@@ -1,7 +1,7 @@
 [
   {
-    "type": "recipe",
     "result": "wooden_rollmat",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
     "skill_used": "survival",
@@ -12,8 +12,8 @@
     "components": [ [ [ "stick_long", 12 ] ], [ [ "cordage", 4, "LIST" ] ] ]
   },
   {
-    "type": "recipe",
     "result": "rollmat",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
     "skill_used": "survival",
@@ -27,8 +27,8 @@
     "components": [ [ [ "rag", 24 ] ], [ [ "cordage", 1, "LIST" ], [ "filament", 360, "LIST" ] ] ]
   },
   {
-    "type": "recipe",
     "result": "atlatl_dart_crude_bundle",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
     "skill_used": "fabrication",
@@ -40,8 +40,8 @@
     "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart_crude", 10 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "atlatl_dart_bundle",
+    "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
     "skill_used": "fabrication",
