@@ -1,0 +1,8 @@
+[
+  {
+    "id": "swamp",
+    "type": "start_location",
+    "name": "Swamp",
+    "terrain": [ "ALLOW_OUTSIDE" ]
+  }
+]

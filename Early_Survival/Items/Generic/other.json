@@ -1,0 +1,18 @@
+[
+  {
+    "id": "foil_alum",
+    "type": "GENERIC",
+    "category": "other",
+    "name": { "str": "aluminum foil wrap" },
+    "//": "Dummied out way back when.",
+    "description": "A half crumpled sheet of aluminum foil, used for cooking and baking.",
+    "weight": "5 g",
+    "volume": "250 ml",
+    "price": "0 cent",
+    "to_hit": -2,
+    "material": [ "aluminum" ],
+    "symbol": ",",
+    "color": "light_gray",
+    "qualities": [ [ "COOK", 1 ] ]
+  }
+]

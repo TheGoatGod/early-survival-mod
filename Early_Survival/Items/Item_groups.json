@@ -67,5 +67,25 @@
     "id": "teashop_kitchen_counter",
     "type": "item_group",
     "items": [ [ "tea_green_leaf", 30 ], [ "tea_oolong_leaf", 30 ] ]
+  },
+  {
+    "id": "medieval",
+    "type": "item_group",
+    "items": [ [ "crossbow_makeshift", 1 ] ]
+  },
+  {
+    "id": "tools_survival",
+    "type": "item_group",
+    "items": [ [ "hobo_stove", 3 ], [ "tinder", 3 ], [ "canteen_wood", 2 ] ]
+  },
+  {
+    "id": "museum_primitive",
+    "type": "item_group",
+    "items": [ [ "atlatl", 50 ], [ "javelin", 30 ] ]
+  },
+  {
+    "id": "survivorzed_extra",
+    "type": "item_group",
+    "items": [ [ "hat_hooded", 1 ] ]
   }
 ]

@@ -10,5 +10,11 @@
     "type": "ammunition_type",
     "name": "blowgun dart",
     "default": "blowgun_dart"
+  },
+  {
+    "id": "javelin",
+    "type": "ammunition_type",
+    "name": "javelin",
+    "default": "javelin"
   }
 ]

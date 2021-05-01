@@ -48,5 +48,19 @@
       }
     ],
     "qualities": [ [ "BOIL", 2 ], [ "CONTAIN", 1 ] ]
+  },
+  {
+    "type": "GENERIC",
+    "id": "clay_plant_pot",
+    "category": "spare_parts",
+    "name": { "str": "clay plant pot" },
+    "description": "A large, open topped clay pot with holes near the bottom for water drainage.",
+    "weight": "3629 g",
+    "color": "light_gray",
+    "symbol": ")",
+    "material": [ "stone" ],
+    "volume": "3 L",
+    "flags": [ "NO_SALVAGE" ],
+    "price": 3500
   }
 ]
