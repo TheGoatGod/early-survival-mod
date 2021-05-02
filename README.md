@@ -71,7 +71,7 @@ Use the `home` key to get to the top.
 
 * Added new `containers`
 * Updated to current cdda build on gmc
-* Added 3 new mods `Natural Brewing`, `Craft Gun Powder`, `More Survival Tools`
+* Added 14 new mods `Natural Brewing`, `Craft Gun Powder`, `More Survival Tools`, `Primitive plank`, `Anaesthetic Crafting`, `Bim Jakkers Buckets`, `Broken Admins Makeshift Items`, `Crude Improvised`, `Camping tools`, `Cursed Thighs`, `Dried Food`, `Survivors Crowbar`, `Your Gonna Get Canned`, `Makeshift Canteen`
 
 
 # Introduction
@@ -81,5 +81,5 @@ Use the `home` key to get to the top.
 This mod started off as two separate mods `Wilderness Overhaul` and `Wild Living` but also includes `Cloth Roll mat`, `More_tea_leaf` and `Rice.` My intention is to make this a finished mod for CDDA.
 I wanted to expand the early game and living in the bush or wild living if you will. This is a focused expansion and will be part of a bigger mod that will expand early game and wild living. I want to expand this as much as I can so there is nothing left.
 
-Included mods - `Wilderness Overhaul`, `Wild Living`, `Cloth Roll Mat` `More Tea Leaf`, `Rice Mod`, `Natural Brewing`, `Craft Gun Powder`, `More Survival Tools`
+Included mods - `Wilderness Overhaul`, `Wild Living`, `Cloth Roll Mat` `More Tea Leaf`, `Rice Mod`, `Natural Brewing`, `Craft Gun Powder`, `More Survival Tools`, `Primitive plank`, `Anaesthetic Crafting`, `Bim Jakkers Buckets`, `Broken Admins Makeshift Items`, `Crude Improvised`, `Camping tools`, `Cursed Thighs`, `Dried Food`, `Survivors Crowbar`, `Your Gonna Get Canned`, `Makeshift Canteen`
 ```
