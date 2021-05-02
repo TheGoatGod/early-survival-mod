@@ -1,0 +1,388 @@
+[
+  {
+    "id": "backpack_fur",
+    "type": "ARMOR",
+    "name": { "str": "fur backpack" },
+    "description": "A medium sized fur backpack, with a few loops for attaching gear.",
+    "weight": "818 g",
+    "volume": "2500 ml",
+    "price": 11900,
+    "material": [ "fur" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 30,
+    "encumbrance": 18,
+    "warmth": 30,
+    "material_thickness": 3,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "25 L",
+        "max_contains_weight": "30 kg",
+        "max_item_length": "40 cm",
+        "moves": 300
+      }
+    ],
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Attach what to backpack loop?",
+      "holster_msg": "You attach your %s to your %s"
+    },
+    "flags": [ "BELTED", "WATER_FRIENDLY", "BELT_CLIP" ]
+  },
+  {
+    "id": "cordage_pouch1",
+    "type": "ARMOR",
+    "name": { "str": "looped cordage pouch [5 L]" },
+    "description": "A net bag made from carefully looped natural cordage, has a strap to wear over your torso",
+    "weight": "500 g",
+    "volume": "750 ml",
+    "price": 11900,
+    "material": [ "veggy" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 15,
+    "encumbrance": 10,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "5 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "40 cm",
+        "moves": 200
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "cordage_pouch2",
+    "type": "ARMOR",
+    "name": { "str": "looped cordage pouch [12 L]" },
+    "description": "A net bag made from carefully looped natural cordage, very flexible, has a strap to wear over your torso",
+    "weight": "500 g",
+    "volume": "750 ml",
+    "price": 11900,
+    "material": [ "veggy" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 15,
+    "encumbrance": 5,
+    "max_encumbrance": 15,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "12 L",
+        "max_contains_weight": "15875 g",
+        "max_item_length": "146 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "5000 g",
+        "max_item_length": "20 cm",
+        "magazine_well": "500 ml",
+        "moves": 80
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "birchbark_pouch1",
+    "type": "ARMOR",
+    "name": { "str": "birchbark pouch [6 L]" },
+    "description": "A bag made from cut and woven strips of birchbark, has a bone tog for fastening it closed, has a strap to wear over your torso",
+    "weight": "1000 g",
+    "volume": "750 ml",
+    "price": 11900,
+    "material": [ "veggy" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 10,
+    "encumbrance": 20,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "6 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "40 cm",
+        "moves": 200
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "birchbark_pouch2",
+    "type": "ARMOR",
+    "name": { "str": "birchbark pouch [12 L]" },
+    "description": "A bag made from cut and woven strips of birchbark, not very flexible, has a bone tog for fastening it closed, has a strap to wear over your torso",
+    "weight": "1000 g",
+    "volume": "750 ml",
+    "price": 11900,
+    "material": [ "veggy" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 10,
+    "encumbrance": 15,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "12 L",
+        "max_contains_weight": "15875 g",
+        "max_item_length": "146 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "5000 g",
+        "max_item_length": "20 cm",
+        "magazine_well": "500 ml",
+        "moves": 80
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "backpack_aframe1",
+    "type": "ARMOR",
+    "name": { "str": "a-frame backpack [6 L]" },
+    "description": "An A-Frame backpack made from heavy sticks. This is just the frame",
+    "weight": "1500 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "6 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "40 cm",
+        "moves": 200
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "backpack_aframe2",
+    "type": "ARMOR",
+    "name": { "str": "a-frame backpack [12 L]" },
+    "description": "An A-Frame backpack made from heavy sticks. This is just the frame",
+    "weight": "1500 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 12,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "12 L",
+        "max_contains_weight": "15875 g",
+        "max_item_length": "146 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "5000 g",
+        "max_item_length": "20 cm",
+        "magazine_well": "500 ml",
+        "moves": 80
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1
+  },
+  {
+    "id": "backpack_aframe_birchbark1",
+    "type": "ARMOR",
+    "name": { "str": "a-frame birchbark backpack [6 L]" },
+    "description": "An A-Frame backpack with a birchbark pouch fastened to it for storage. There is a small loop for carrying am axe or similar",
+    "weight": "2000 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "6 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "40 cm",
+        "moves": 200
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1,
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Attach what to backpack loop?",
+      "holster_msg": "You attach your %s to your %s"
+    },
+    "flags": [ "BELTED", "BELT_CLIP" ]
+  },
+  {
+    "id": "backpack_aframe_birchbark2",
+    "type": "ARMOR",
+    "name": { "str": "a-frame birchbark backpack [12 L]" },
+    "description": "An A-Frame backpack with a birchbark pouch fastened to it for storage. It has some loops for attaching gear",
+    "weight": "2000 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "12 L",
+        "max_contains_weight": "15875 g",
+        "max_item_length": "146 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "5000 g",
+        "max_item_length": "20 cm",
+        "magazine_well": "500 ml",
+        "moves": 80
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1,
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Attach what to backpack loop?",
+      "holster_msg": "You attach your %s to your %s"
+    },
+    "flags": [ "BELTED", "BELT_CLIP" ]
+  },
+  {
+    "id": "backpack_aframe_cordage1",
+    "type": "ARMOR",
+    "name": { "str": "a-frame birchbark backpack [5 L]" },
+    "description": "An A-Frame backpack with a looped cordage pouch fastened to it for storage. There is a small loop for carrying am axe or similar",
+    "weight": "2000 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "5 L",
+        "max_contains_weight": "10 kg",
+        "max_item_length": "40 cm",
+        "moves": 200
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1,
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Attach what to backpack loop?",
+      "holster_msg": "You attach your %s to your %s"
+    },
+    "flags": [ "BELTED", "BELT_CLIP" ]
+  },
+  {
+    "id": "backpack_aframe_cordage2",
+    "type": "ARMOR",
+    "name": { "str": "a-frame cordage backpack [12 L]" },
+    "description": "An A-Frame backpack with a looped cordage pouch fastened to it for storage. It has some loops for attaching gear",
+    "weight": "2000 g",
+    "volume": "2000 ml",
+    "price": 11900,
+    "material": [ "wood" ],
+    "symbol": "[",
+    "color": "brown",
+    "covers": [ "torso" ],
+    "coverage": 20,
+    "encumbrance": 6,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "12 L",
+        "max_contains_weight": "15875 g",
+        "max_item_length": "146 cm",
+        "moves": 100
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "1000 ml",
+        "max_contains_weight": "5000 g",
+        "max_item_length": "20 cm",
+        "magazine_well": "500 ml",
+        "moves": 80
+      }
+    ],
+    "warmth": 0,
+    "material_thickness": 1,
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Attach what to backpack loop?",
+      "holster_msg": "You attach your %s to your %s"
+    },
+    "flags": [ "BELTED", "BELT_CLIP" ]
+  },
+  {
+    "id": "improvised_backpack",
+    "type": "ARMOR",
+    "name": { "str": "improvised backpack" },
+    "description": "An improvised backpack. It can store a lot, but it's vulnerable to being ripped.",
+    "weight": "753 g",
+    "volume": "2400 ml",
+    "price": "5 USD",
+    "price_postapoc": "8 USD",
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "looks_like": "ragpouch",
+    "color": "dark_gray",
+    "covers": [ "torso" ],
+    "coverage": 30,
+    "encumbrance": 1,
+    "max_encumbrance": 25,
+    "warmth": 5,
+    "material_thickness": 1,
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "max_contains_volume": "20 L",
+        "max_contains_weight": "20 kg",
+        "max_item_length": "40 cm",
+        "moves": 300
+      }
+    ]
+  }
+]
