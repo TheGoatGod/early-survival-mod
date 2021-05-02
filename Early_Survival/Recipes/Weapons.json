@@ -66,5 +66,17 @@
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "using": [ [ "cordage", 3 ] ],
     "components": [ [ [ "2x4", 2 ], [ "stick", 4 ] ], [ [ "splinter", 1 ] ] ]
+  },
+  {
+    "result": "crude_sledgehammer",
+    "type": "recipe",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_BASHING",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ [ "fabrication", 2 ], [ "survival", 2 ] ],
+    "time": "12 m",
+    "autolearn": true,
+    "components": [ [ [ "brick", 4 ] ], [ [ "2x4", 2 ], [ "stick", 4 ], [ "rebar", 2 ] ], [ [ "wire", 2 ] ] ]
   }
 ]
