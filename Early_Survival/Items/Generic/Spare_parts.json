@@ -1,0 +1,17 @@
+[
+  {
+    "id": "waterproof_rag",
+    "type": "GENERIC",
+    "category": "spare_parts",
+    "name": { "str": "waterproof rag", "str_pl": "waterproof rags" },
+    "description": "It is a large waterproofed fabric. There is no blade protection, so it can not be treated as a tarpaulin for disassembly.",
+    "looks_like": "fiber_mat",
+    "weight": "2 g",
+    "volume": "1500 ml",
+    "price": "0 cent",
+    "material": [ "cotton", "plastic" ],
+    "symbol": ",",
+    "color": "white",
+    "flags": [ "NO_SALVAGE" ]
+  }
+]
