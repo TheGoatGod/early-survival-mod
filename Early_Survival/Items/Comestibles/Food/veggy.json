@@ -24,7 +24,7 @@
     "spoils_in": "14 days",
     "milling": { "into": "flour", "conversion_rate": 15 },
     "charges": 1
-  }
+  },
   {
     "id": "rice",
     "type": "COMESTIBLE",
