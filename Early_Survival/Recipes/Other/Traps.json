@@ -1,0 +1,43 @@
+[
+  {
+    "result": "snare_trigger",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TRAPS",
+    "skill_used": "traps",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 0,
+    "time": "20 s",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "stick", 1 ], [ "2x4", 1 ] ] ]
+  },
+  {
+    "result": "light_snare_kit",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TRAPS",
+    "skill_used": "traps",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 1,
+    "time": "50 s",
+    "reversible": true,
+    "autolearn": true,
+    "using": [ [ "cordage", 1 ] ],
+    "components": [ [ [ "snare_trigger", 1 ] ] ]
+  },
+  {
+    "result": "heavy_snare_kit",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TRAPS",
+    "skill_used": "traps",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 3,
+    "time": "80 s",
+    "reversible": true,
+    "autolearn": true,
+    "using": [ [ "rope_natural_short", 1 ] ],
+    "components": [ [ [ "snare_trigger", 1 ] ] ]
+  }
+]

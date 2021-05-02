@@ -1,5 +1,33 @@
 [
   {
+    "result": "rope_fiber_6",
+    "type": "recipe",
+    "activity_level": "fake",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "tailor",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 0,
+    "time": 10000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [ [ [ "withered", 6 ] ] ]
+  },
+  {
+    "result": "rope_fiber_30",
+    "type": "recipe",
+    "activity_level": "fake",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "tailor",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 0,
+    "time": 10000,
+    "reversible": true,
+    "autolearn": true,
+    "components": [ [ [ "rope_fiber_6", 5 ], [ "withered", 30 ] ] ]
+  },
+  {
     "result": "clay_solution_extractor_salt_water",
     "type": "recipe",
     "activity_level": "fake",
@@ -169,5 +197,64 @@
     "reversible": false,
     "autolearn": true,
     "components": [ [ [ "dogbane", 4 ] ] ]
+  },
+  {
+    "result": "cured_hide",
+    "type": "recipe",
+    "id_suffix": "drying",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "skills_required": [ "cooking", 2 ],
+    "difficulty": 3,
+    "time": "560 s",
+    "autolearn": true,
+    "batch_time_factors": [ 83, 5 ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "components": [ [ [ "raw_leather", 1 ], [ "raw_tainted_leather", 1 ], [ "raw_hleather", 1 ] ] ]
+  },
+  {
+    "result": "cured_pelt",
+    "type": "recipe",
+    "id_suffix": "drying",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "skills_required": [ "cooking", 2 ],
+    "difficulty": 3,
+    "time": "560 s",
+    "autolearn": true,
+    "batch_time_factors": [ 83, 5 ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
+    "components": [ [ [ "raw_fur", 1 ], [ "raw_tainted_fur", 1 ], [ "raw_hfur", 1 ] ] ]
+  },
+  {
+    "result": "tarp",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 1,
+    "time": "100 s",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [
+      [ [ "folding_poncho", 1 ], [ "folding_poncho_on", 1 ], [ "emer_blanket", 1 ], [ "emer_blanket_on", 1 ] ],
+      [ [ "duct_tape", 20 ] ]
+    ]
+  },
+  {
+    "result": "plant_fibre",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "difficulty": 1,
+    "time": "1 m",
+    "autolearn": true,
+    "components": [ [ [ "dogbane", 1 ], [ "cattail_stalk", 1 ], [ "weed", 1 ] ] ]
   }
 ]
