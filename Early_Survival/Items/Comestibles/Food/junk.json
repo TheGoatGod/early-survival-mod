@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rehydrated_syrup",
+    "type": "COMESTIBLE",
+    "name": { "str": "rehydrated syrup", "str_pl": "rehydrated syrup" },
+    "looks_like": "syrup",
+    "weight": "21 g",
+    "color": "brown",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "quench": 1,
+    "calories": 54,
+    "description": "Rehydrated syrup. Goes great on jakker cakes.",
+    "price": "6 USD",
+    "material": [ "junk" ],
+    "volume": "250 ml",
+    "phase": "liquid",
+    "charges": 4,
+    "fun": 0,
+    "vitamins": [ [ "calcium", 2 ] ],
+    "freezing_point": -70
+  },
+  {
+    "id": "dehydrated_syrup",
+    "type": "COMESTIBLE",
+    "name": { "str": "dehydrated maple syrup", "str_pl": "dehydrated maple syrup" },
+    "looks_like": "flour",
+    "weight": "10 g",
+    "color": "brown",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "quench": -10,
+    "calories": 54,
+    "description": "Dehydrated syrup powder, just add water for 'delicious' maple syrup.",
+    "price": "6 USD",
+    "material": [ "junk" ],
+    "volume": "250 ml",
+    "charges": 16,
+    "fun": 5,
+    "vitamins": [ [ "calcium", 2 ] ],
+    "freezing_point": -70
+  }
+]
