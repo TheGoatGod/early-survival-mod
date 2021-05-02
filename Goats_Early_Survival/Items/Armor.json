@@ -1,8 +1,0 @@
-[
-  {
-    "id": "javelin_bag",
-    "type": "ARMOR",
-    "copy-from": "javelin_bag",
-    "name": { "str": "javelin bag" }
-  }
-]
