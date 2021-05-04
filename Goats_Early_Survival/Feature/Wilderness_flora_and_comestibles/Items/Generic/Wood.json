@@ -1,27 +1,17 @@
 [
   {
-    "id": "birch_water_jug",
+    "id": "pinebark",
     "type": "GENERIC",
-    "category": "CC_OTHER",
-    "name": { "str": "birch water jug" },
-    "description": "A carefully made birch bark water jug with a lid, it is sealed with pine pitch. It can hold 1.5 liters of water.",
-    "weight": "453 g",
-    "volume": "3752 ml",
-    "price": 2000,
-    "to_hit": -1,
-    "bashing": 1,
-    "material": [ "wood" ],
-    "symbol": ")",
+    "looks_like": "tanbark",
+    "symbol": ",",
     "color": "brown",
-    "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "rigid": true,
-        "watertight": true,
-        "max_contains_volume": "3750 ml",
-        "max_contains_weight": "8 kg"
-      }
-    ]
+    "name": { "str_sp": "pinebark" },
+    "description": "A sheet of faintly resinous inner bark, stripped from a pine tree.",
+    "material": [ "wood" ],
+    "weight": "323 g",
+    "volume": "250 ml",
+    "bashing": 4,
+    "to_hit": 1
   },
   {
     "id": "willow_reed",
