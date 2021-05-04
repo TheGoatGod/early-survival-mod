@@ -50,8 +50,8 @@
     "qualities": [ [ "BOIL", 2 ], [ "CONTAIN", 1 ] ]
   },
   {
-    "type": "GENERIC",
     "id": "clay_plant_pot",
+    "type": "GENERIC",
     "category": "spare_parts",
     "name": { "str": "clay plant pot" },
     "description": "A large, open topped clay pot with holes near the bottom for water drainage.",
