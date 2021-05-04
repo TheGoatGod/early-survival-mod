@@ -1,0 +1,48 @@
+[
+  {
+    "result": "makeshift_umbrella",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "survival",
+    "time": "10 m",
+    "difficulty": 4,
+    "book_learn": [
+      [ "survival_book", 3 ],
+      [ "mag_survival", 2 ],
+      [ "pocket_survival", 3 ],
+      [ "textbook_survival", 2 ],
+      [ "textbook_fabrication", 4 ]
+    ],
+    "tools": [ [ [ "soldering_iron", 10 ], [ "toolset", 10 ] ], [ [ "mold_plastic", -1 ] ] ],
+    "components": [
+      [ [ "stick", 1 ], [ "2x4", 1 ], [ "pipe", 1 ] ],
+      [ [ "plastic_chunk", 28 ] ],
+      [ [ "wire", 5 ] ],
+      [ [ "duct_tape", 80 ], [ "superglue", 10 ], [ "bone_glue", 25 ] ]
+    ]
+  },
+  {
+    "id": "makeshift_tent_kit",
+    "type": "TOOL",
+    "name": { "str": "oilcloth tent" },
+    "description": "This is a small personal tent kit made from oilcloth, it's just big enough to fit you comfortably.",
+    "weight": "1833 g",
+    "volume": "2800 ml",
+    "price": 15000,
+    "to_hit": -3,
+    "bashing": 4,
+    "material": [ "oilcloth", "wood" ],
+    "symbol": ";",
+    "color": "green",
+    "use_action": {
+      "type": "deploy_tent",
+      "radius": 1,
+      "broken_type": "broketent",
+      "wall": "f_canvas_wall",
+      "floor": "f_groundsheet",
+      "door_opened": "f_canvas_door_o",
+      "door_closed": "f_canvas_door"
+    }
+  }
+]

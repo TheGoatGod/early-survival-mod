@@ -27,48 +27,5 @@
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1 }, { "id": "SEW", "level": 1 } ],
     "components": [ [ [ "rag", 24 ] ], [ [ "cordage", 1, "LIST" ], [ "filament", 360, "LIST" ] ] ]
-  },
-  {
-    "result": "atlatl_dart_crude_bundle",
-    "type": "recipe",
-    "activity_level": "fake",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_OTHER",
-    "skill_used": "fabrication",
-    "skills_required": [ "throw", 2 ],
-    "difficulty": 2,
-    "time": 3000,
-    "reversible": true,
-    "autolearn": true,
-    "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart_crude", 10 ] ] ]
-  },
-  {
-    "result": "atlatl_dart_bundle",
-    "type": "recipe",
-    "activity_level": "fake",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_OTHER",
-    "skill_used": "fabrication",
-    "skills_required": [ "throw", 3 ],
-    "difficulty": 2,
-    "time": 3000,
-    "reversible": true,
-    "autolearn": true,
-    "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart", 10 ] ] ]
-  },
-  {
-    "result": "waterproof_rag",
-    "type": "recipe",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_OTHER",
-    "skill_used": "fabrication",
-    "skills_required": [ "tailor", 2 ],
-    "difficulty": 2,
-    "book_learn": [ [ "fun_survival", 1 ], [ "manual_survival", 1 ], [ "textbook_survival", 1 ] ],
-    "qualities": [ { "id": "SEW", "level": 1 }, { "id": "CUT", "level": 1 } ],
-    "tools": [ [ [ "soldering_iron", 5 ], [ "toolset", 5 ] ] ],
-    "time": "100 s",
-    "autolearn": true,
-    "components": [ [ [ "rag", 10 ] ], [ [ "plastic_chunk", 5 ] ] ]
   }
 ]

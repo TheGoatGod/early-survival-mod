@@ -12,20 +12,5 @@
     "autolearn": true,
     "qualities": [ { "id": "CUT", "level": 1, "amount": 1 } ],
     "components": [ [ [ "stick", 1 ], [ "broom", 1 ], [ "mop", 1 ], [ "2x4", 1 ], [ "pool_cue", 1 ] ] ]
-  },
-  {
-    "result": "crossbow_makeshift",
-    "type": "recipe",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_RANGED",
-    "skill_used": "fabrication",
-    "skills_required": [ "survival", 1 ],
-    "difficulty": 2,
-    "time": "150 s",
-    "reversible": true,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "using": [ [ "cordage", 3 ] ],
-    "components": [ [ [ "2x4", 2 ], [ "stick", 4 ] ], [ [ "splinter", 1 ] ] ]
   }
 ]

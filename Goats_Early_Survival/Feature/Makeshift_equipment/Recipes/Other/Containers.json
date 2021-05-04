@@ -1,0 +1,74 @@
+[
+  {
+    "result": "SMakeshift_Canteen",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "survival",
+    "difficulty": 0,
+    "time": "5 m",
+    "reversible": true,
+    "autolearn": true,
+    "components": [ [ [ "bottle_plastic", 1 ], [ "jar_glass_sealed", 1 ] ], [ [ "string_36", 2 ] ] ]
+  },
+  {
+    "result": "LMakeshift_Canteen",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "fabrication",
+    "difficulty": 0,
+    "time": "5 m",
+    "reversible": true,
+    "autolearn": true,
+    "components": [ [ [ "jug_plastic", 1 ] ], [ [ "string_36", 2 ] ] ]
+  },
+  {
+    "result": "make_pla_flask",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "survival",
+    "difficulty": 2,
+    "time": "5 m",
+    "book_learn": [
+      [ "survival_book", 1 ],
+      [ "mag_survival", 1 ],
+      [ "pocket_survival", 1 ],
+      [ "textbook_survival", 1 ],
+      [ "textbook_fabrication", 1 ],
+      [ "textbook_anarch", 1 ]
+    ],
+    "tools": [ [ [ "hotplate", 5 ], [ "toolset", 5 ], [ "surface_heat", 1, "LIST" ] ], [ [ "mold_plastic", -1 ] ] ],
+    "//": "You can use a gallon jug, don't see the point. But you can do it.",
+    "components": [
+      [ [ "leather", 2 ] ],
+      [
+        [ "plastic_chunk", 9 ],
+        [ "bottle_plastic", 1 ],
+        [ "bottle_plastic_small", 3 ],
+        [ "makeshift_pla_bottle", 2 ],
+        [ "jug_plastic", 1 ]
+      ]
+    ]
+  },
+  {
+    "result": "makeshift_pla_bottle",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "survival",
+    "book_learn": [
+      [ "survival_book", 2 ],
+      [ "mag_survival", 3 ],
+      [ "pocket_survival", 3 ],
+      [ "textbook_survival", 1 ],
+      [ "textbook_fabrication", 2 ],
+      [ "textbook_anarch", 1 ]
+    ],
+    "difficulty": 3,
+    "time": "5 m",
+    "tools": [ [ [ "hotplate", 5 ], [ "toolset", 5 ], [ "surface_heat", 1, "LIST" ] ], [ [ "mold_plastic", -1 ] ] ],
+    "components": [ [ [ "plastic_chunk", 16 ] ] ]
+  }
+]
