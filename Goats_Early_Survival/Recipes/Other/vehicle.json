@@ -1,6 +1,6 @@
 [
   {
-    "result": "makeshift_raft",
+    "result": "primitive_raft"
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_VEHICLE",
@@ -14,7 +14,7 @@
     "components": [ [ [ "stick", 22 ], [ "2x4", 22 ] ], [ [ "cattail_stalk", 24 ], [ "rope_6", 2 ], [ "string_36", 12 ] ] ]
   },
   {
-    "result": "makeshift_canoe",
+    "result": "primitive_canoe"
     "type": "recipe",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_VEHICLE",

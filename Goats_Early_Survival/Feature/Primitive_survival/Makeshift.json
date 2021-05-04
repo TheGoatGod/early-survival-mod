@@ -1,6 +1,6 @@
 [
   {
-    "id": "makeshift_raft",
+    "id": "primitive_raft"
     "type": "vehicle",
     "blueprint": [ "o#o" ],
     "name": "Makeshift raft",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "id": "makeshift_canoe",
+    "id": "primitive_canoe"
     "type": "vehicle",
     "blueprint": [ "o#o" ],
     "name": "Primitive canoe",
