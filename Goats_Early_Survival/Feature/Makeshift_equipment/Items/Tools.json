@@ -285,23 +285,6 @@
     "qualities": [ [ "DRILL", 1 ] ]
   },
   {
-    "id": "fire_plough",
-    "type": "TOOL",
-    "name": { "str": "fire plough" },
-    "description": "A simple form of primitive firemaking, little more than two pieces of wood with a groove worn into one of them, to light an ember through friction.  Starting a fire with this will be laborious and slow, but it's better than nothing.",
-    "weight": "1040 g",
-    "volume": "2500 ml",
-    "price": "0 cent",
-    "material": [ "wood" ],
-    "symbol": ",",
-    "color": "brown",
-    "initial_charges": 25,
-    "max_charges": 25,
-    "charges_per_use": 1,
-    "use_action": { "type": "firestarter", "moves": 1000, "moves_slow": 50000 },
-    "flags": [ "FIRESTARTER" ]
-  },
-  {
     "id": "char_purifier_fake",
     "type": "TOOL",
     "name": { "str": "makeshift water purifier" },
@@ -316,34 +299,6 @@
     "max_charges": 500,
     "flags": [ "ALLOWS_REMOTE_USE" ]
   },
-  {
-    "id": "pot_canning_clay",
-    "type": "TOOL",
-    "name": { "str": "clay canning pot" },
-    "sub": "pot_canning",
-    "looks_like": "pot_canning",
-    "description": "A very large 25 liter earthenware pot, primarily meant for canning food via the water bath method, though it can cook normal foods just as well.  Canning foods with it will require a lot of water.  If you're only canning a couple of jars at a time, you'd fill it up with rocks or something to displace the water above the lids.",
-    "weight": "3251 g",
-    "volume": "25005 ml",
-    "price": "100 USD",
-    "to_hit": -2,
-    "bashing": 9,
-    "material": [ "clay" ],
-    "symbol": ")",
-    "color": "brown",
-    "pocket_data": [
-      {
-        "pocket_type": "CONTAINER",
-        "watertight": true,
-        "rigid": true,
-        "max_contains_volume": "25 L",
-        "max_contains_weight": "25 kg"
-      }
-    ],
-    "qualities": [ [ "COOK", 3 ], [ "BOIL", 2 ], [ "CONTAIN", 1 ], [ "CHEM", 1 ] ],
-    "use_action": "HEAT_FOOD"
-  },
-  ,
   {
     "id": "makeshift_axe",
     "copy-from": "hand_axe",
