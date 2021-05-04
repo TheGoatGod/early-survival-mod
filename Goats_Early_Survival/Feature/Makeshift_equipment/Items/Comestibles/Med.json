@@ -1,0 +1,17 @@
+[
+  {
+    "id": "bandages_imp",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "symbol": ",",
+    "color": "white",
+    "name": { "str": "improvised bandage" },
+    "description": "Improvised cloth bandages, with skewers to pin them tight and staunch bleeding.",
+    "price": 0,
+    "material": [ "cotton" ],
+    "weight": "80 g",
+    "volume": "250 ml",
+    "flags": [ "NO_SALVAGE" ],
+    "use_action": { "type": "heal", "limb_power": 0, "head_power": 0, "torso_power": 0, "bleed": 1, "move_cost": 400 }
+  }
+]

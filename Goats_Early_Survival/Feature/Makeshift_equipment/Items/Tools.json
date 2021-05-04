@@ -55,43 +55,6 @@
     "color": "brown"
   },
   {
-    "id": "primitive_hoe",
-    "type": "TOOL",
-    "name": { "str": "stone hoe" },
-    "description": "This is a farming implement made with a broad stone blade, that can be used to till earth.",
-    "weight": "1300 g",
-    "volume": "1 L",
-    "price": "10 USD",
-    "to_hit": 1,
-    "bashing": 10,
-    "cutting": 5,
-    "material": [ "stone", "wood" ],
-    "symbol": ";",
-    "color": "brown",
-    "qualities": [ [ "DIG", 1 ] ],
-    "use_action": "MAKEMOUND"
-  },
-  {
-    "id": "makeshift_sled_item",
-    "type": "TOOL",
-    "symbol": "0",
-    "color": "light_gray",
-    "name": { "str": "makeshift sled" },
-    "description": "A simple pulk sled and folded framework that can hold a modest amount of gear, traditionally used to drag equipment across snowy terrain.",
-    "price": "20 USD",
-    "material": [ "wood" ],
-    "weight": "9500 g",
-    "volume": "11250 ml",
-    "bashing": 10,
-    "to_hit": -5,
-    "use_action": {
-      "type": "unfold_vehicle",
-      "vehicle_name": "makeshift_sled_vehicle",
-      "unfold_msg": "You unfold and deploy the makeshift sled.",
-      "moves": 200
-    }
-  },
-  {
     "id": "log_canoe_item",
     "type": "TOOL",
     "symbol": "0",
@@ -379,5 +342,15 @@
     ],
     "qualities": [ [ "COOK", 3 ], [ "BOIL", 2 ], [ "CONTAIN", 1 ], [ "CHEM", 1 ] ],
     "use_action": "HEAT_FOOD"
+  },
+  ,
+  {
+    "id": "makeshift_axe",
+    "copy-from": "hand_axe",
+    "type": "TOOL",
+    "name": { "str": "metal hand axe" },
+    "description": "This is a chunk of steel with one edge hammered down to something resembling a cutting edge.  It works passably well as an axe but really can't compare to a proper axe.",
+    "material": [ "steel" ],
+    "flags": [ "SHEATH_AXE" ]
   }
 ]
