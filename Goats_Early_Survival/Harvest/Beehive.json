@@ -1,0 +1,7 @@
+[
+  {
+    "id": "hive_ready_harv",
+    "type": "harvest",
+    "entries": [ { "drop": "honeycomb", "base_num": [ 1, 8 ] } ]
+  }
+]

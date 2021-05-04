@@ -5,5 +5,14 @@
     "entries": [
       { "drop": "sprucebark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] }
     ]
+  },
+  {
+    "id": "pine_spring_harv",
+    "type": "harvest",
+    "entries": [
+      { "drop": "pine_bough", "base_num": [ 2, 8 ] },
+      { "drop": "pinecone", "base_num": [ 1, 4 ] },
+      { "drop": "pinebark", "base_num": [ 1, 4 ] }
+    ]
   }
 ]

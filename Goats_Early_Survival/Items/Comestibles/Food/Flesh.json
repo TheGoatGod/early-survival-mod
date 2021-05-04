@@ -50,5 +50,17 @@
     "flags": [ "EATEN_HOT" ],
     "fun": 2,
     "vitamins": [ [ "iron", 3 ], [ "vitA", 2 ], [ "vitC", 12 ] ]
+  },
+  ,
+  {
+    "id": "jerky_offal",
+    "copy-from": "jerky",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "jerked offal" },
+    "description": "Salty dried organ meat.  Smells a bit like dog food, but will last a long time.",
+    "fun": -2,
+    "healthy": -1,
+    "calories": 92,
+    "proportional": { "price": 0.8 }
   }
 ]

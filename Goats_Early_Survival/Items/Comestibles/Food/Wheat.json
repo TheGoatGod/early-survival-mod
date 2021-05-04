@@ -42,5 +42,32 @@
     "flags": [ "EATEN_HOT" ],
     "fun": 2,
     "vitamins": [ [ "vitA", 1 ], [ "calcium", 6 ], [ "iron", 4 ] ]
+  },
+  {
+    "id": "bread_garlic",
+    "type": "COMESTIBLE",
+    "copy-from": "bread",
+    "name": { "str_sp": "garlic bread" },
+    "calories": 105,
+    "quench": -2,
+    "description": "Bread cooked with garlic and seasonings.",
+    "price": "1 USD",
+    "material": [ "wheat", "garlic" ],
+    "vitamins": [ [ "vitC", 6 ], [ "calcium", 12 ], [ "iron", 5 ] ],
+    "charges": 3,
+    "fun": 3
+  },
+  {
+    "id": "porridge_cooked",
+    "type": "COMESTIBLE",
+    "copy-from": "wheat",
+    "name": { "str_sp": "porridge" },
+    "weight": "247 g",
+    "spoils_in": "10 days",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "description": "Simple fare made from cooking wheat or barley, bland but filling.",
+    "flags": [ "EATEN_HOT" ],
+    "fun": -1
   }
 ]

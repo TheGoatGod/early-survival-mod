@@ -22,5 +22,19 @@
     "difficulty": 4,
     "action": "snare_heavy",
     "drops": [ "heavy_snare_kit" ]
+  },
+  {
+    "id": "tr_raincatcher_leather",
+    "type": "trap",
+    "name": "leather raincatcher",
+    "color": "brown",
+    "symbol": "V",
+    "visibility": -1,
+    "avoidance": 0,
+    "difficulty": 99,
+    "action": "none",
+    "drops": [ "tarp_raincatcher_leather" ],
+    "benign": true,
+    "funnel_radius": 342
   }
 ]

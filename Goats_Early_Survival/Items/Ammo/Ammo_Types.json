@@ -16,5 +16,12 @@
     "type": "ammunition_type",
     "name": "javelin",
     "default": "javelin"
+  },
+  ,
+  {
+    "id": "pitch_wood",
+    "type": "ammunition_type",
+    "name": "pitch wood",
+    "default": "pitch_wood"
   }
 ]

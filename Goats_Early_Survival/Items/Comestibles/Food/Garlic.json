@@ -1,0 +1,14 @@
+[
+  {
+    "id": "garlic_roasted",
+    "type": "COMESTIBLE",
+    "copy-from": "garlic",
+    "name": { "str_sp": "roasted garlic" },
+    "spoils_in": "180 days",
+    "quench": -1,
+    "description": "Cloves of garlic, lightly seasoned and roasted.",
+    "price": "8 USD",
+    "material": [ "garlic" ],
+    "fun": 1
+  }
+]
