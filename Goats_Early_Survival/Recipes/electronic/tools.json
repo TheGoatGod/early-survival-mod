@@ -1,0 +1,36 @@
+[
+  {
+    "type": "recipe",
+    "result": "electric_firestarter",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_TOOLS",
+    "skill_used": "electronics",
+    "difficulty": 2,
+    "time": "50 s",
+    "reversible": true,
+    "autolearn": true,
+    "qualities": [ { "id": "HAMMER", "level": 1, "amount": 1 } ],
+    "tools": [ [ [ "soldering_iron", 10 ], [ "toolset", 10 ] ] ],
+    "components": [ [ [ "crude_firestarter", 1 ] ], [ [ "cable", 6 ] ], [ [ "amplifier", 1 ] ], [ [ "e_scrap", 2 ] ], [ [ "scrap", 4 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "electric_firestarter_upgraded",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_TOOLS",
+    "skill_used": "electronics",
+    "difficulty": 4,
+    "time": "50 s",
+    "reversible": true,
+    "autolearn": true,
+    "qualities": [ { "id": "HAMMER", "level": 1, "amount": 1 } ],
+    "tools": [ [ [ "soldering_iron", 25 ], [ "toolset", 25 ] ] ],
+    "components": [
+      [ [ "electric_firestarter", 1 ] ],
+      [ [ "cable", 4 ] ],
+      [ [ "power_supply", 1 ] ],
+      [ [ "e_scrap", 4 ] ],
+      [ [ "circuit", 1 ] ]
+    ]
+  }
+]

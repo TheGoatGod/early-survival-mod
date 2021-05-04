@@ -74,5 +74,33 @@
     "autolearn": true,
     "using": [ [ "cordage_short", 2 ], [ "glazing", 3 ], [ "earthenware_firing", 50 ] ],
     "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ], [ [ "clay_lump", 6 ] ], [ [ "cordage_short", 2, "LIST" ] ] ]
+  },
+  {
+    "result": "aspirin",
+    "type": "recipe",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_DRUGS",
+    "skill_used": "cooking",
+    "skills_required": [ "firstaid", 1 ],
+    "difficulty": 3,
+    "time": "4 m",
+    "reversible": false,
+    "autolearn": false,
+    "book_learn": [ [ "adv_chemistry", 2 ], [ "textbook_chemistry", 2 ], [ "recipe_labchem", 2 ], [ "atomic_survival", 3 ] ],
+    "qualities": [ { "id": "CHEM", "level": 2, "amount": 1 } ],
+    "tools": [ [ [ "hotplate", 25 ], [ "toolset", 25 ], [ "fire", -1 ] ] ],
+    "components": [ [ [ "water_clean", 1 ] ], [ [ "oxy_powder", 5 ] ], [ [ "willowbark", 10 ] ] ]
+  },
+  {
+    "result": "lightstrip_inactive",
+    "type": "recipe",
+    "category": "CC_ELECTRONIC",
+    "subcategory": "CSC_ELECTRONIC_LIGHTING",
+    "skill_used": "electronics",
+    "difficulty": 1,
+    "time": "100 s",
+    "reversible": false,
+    "autolearn": true,
+    "components": [ [ [ "amplifier", 1 ] ], [ [ "cable", 5 ] ], [ [ "battery", 15 ] ], [ [ "e_scrap", 1 ] ] ]
   }
 ]

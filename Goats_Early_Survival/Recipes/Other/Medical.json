@@ -16,5 +16,130 @@
       [ [ "codeine", 2 ], [ "heroin", 2 ], [ "morphine", 2 ], [ "poppy_pain", 5 ], [ "oxycodone", 2 ] ],
       [ [ "aspirin", 10 ] ]
     ]
+  },
+  {
+    "result": "bandages_imp",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 0,
+    "time": "1 m",
+    "reversible": false,
+    "autolearn": true,
+    "components": [ [ [ "rag", 1 ] ], [ [ "skewer_bone", 2 ] ] ]
+  },
+  {
+    "result": "irrigator",
+    "type": "recipe",
+    "id_suffix": "refill",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 0,
+    "time": "10 s",
+    "reversible": false,
+    "autolearn": true,
+    "components": [ [ [ "irrigator_empty", 1 ] ], [ [ "saline", 2 ], [ "eyedrops", 4 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "irrigator_empty",
+    "id_suffix": "from_new",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 2,
+    "time": "200 s",
+    "reversible": false,
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1, "amount": 1 } ],
+    "components": [ [ [ "syringe", 1 ] ], [ [ "bottle_plastic_small", 1 ] ], [ [ "plastic_chunk", 1 ] ] ]
+  },
+  {
+    "result": "first_aid",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 3,
+    "time": "20 s",
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "fanny", 1 ], [ "ragpouch", 1 ], [ "leather_pouch", 1 ], [ "runner_bag", 1 ] ],
+      [ [ "scissors", 1 ] ],
+      [ [ "thermometer", 1 ], [ "digital_thermometer", 1 ] ]
+    ]
+  },
+  {
+    "result": "first_aid_supplies",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "firstaid",
+    "difficulty": 3,
+    "time": "20 s",
+    "reversible": true,
+    "autolearn": true,
+    "components": [
+      [ [ "medical_gauze", 5 ], [ "cotton_ball", 10 ] ],
+      [ [ "medical_tape", 10 ], [ "duct_tape", 20 ] ],
+      [ [ "aspirin", 10 ], [ "codeine", 2 ], [ "poppy_pain", 2 ], [ "oxycodone", 2 ] ],
+      [ [ "chem_ethanol", 250 ], [ "disinfectant", 1 ], [ "thyme_oil", 1 ], [ "bfipowder", 1 ] ],
+      [ [ "saline", 10 ], [ "eyedrops", 20 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "kaolinite_jar",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "cooking",
+    "difficulty": 5,
+    "time": "10 m",
+    "autolearn": true,
+    "book_learn": [ [ "adv_chemistry", 5 ], [ "textbook_chemistry", 5 ], [ "recipe_labchem", 5 ], [ "emergency_book", 6 ] ],
+    "qualities": [ { "id": "CHEM", "level": 2, "amount": 1 } ],
+    "tools": [ [ [ "hotplate", 18 ], [ "toolset", 18 ], [ "fire", -1 ] ] ],
+    "components": [
+      [ [ "jar_glass", 1 ] ],
+      [ [ "chem_aluminium_powder", 25 ] ],
+      [ [ "material_sand", 25 ] ],
+      [ [ "lye_powder", 50 ] ],
+      [ [ "acid", 1 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "bomb_noisy",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "electronics",
+    "skills_required": [ "fabrication", 2 ],
+    "difficulty": 2,
+    "time": "30 s",
+    "autolearn": true,
+    "components": [ [ [ "nail_bomb", 1 ] ], [ [ "noise_emitter", 1 ] ], [ [ "amplifier", 1 ] ], [ [ "string_36", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "digital_thermometer",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MEDICAL",
+    "skill_used": "electronics",
+    "skills_required": [ "fabrication", 2 ],
+    "difficulty": 3,
+    "time": "100 s",
+    "autolearn": true,
+    "components": [
+      [ [ "circuit", 1 ] ],
+      [ [ "small_lcd_screen", 1 ] ],
+      [ [ "solar_cell", 1 ] ],
+      [ [ "amplifier", 1 ] ],
+      [ [ "cable", 10 ] ],
+      [ [ "wire", 1 ] ],
+      [ [ "battery", 100 ] ]
+    ]
   }
 ]
