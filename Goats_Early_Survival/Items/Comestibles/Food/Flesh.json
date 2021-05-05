@@ -51,7 +51,6 @@
     "fun": 2,
     "vitamins": [ [ "iron", 3 ], [ "vitA", 2 ], [ "vitC", 12 ] ]
   },
-  ,
   {
     "id": "jerky_offal",
     "copy-from": "jerky",

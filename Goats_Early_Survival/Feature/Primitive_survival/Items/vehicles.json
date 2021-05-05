@@ -1,6 +1,6 @@
 [
   {
-    "id": "primitive_raft"
+    "id": "primitive_raft",
     "type": "TOOL",
     "symbol": "0",
     "color": "brown",
@@ -15,7 +15,7 @@
     "use_action": { "type": "unfold_vehicle", "vehicle_name": "primitive_raft" "unfold_msg": "You unfold the %s.", "moves": 500 }
   },
   {
-    "id": "primitive_canoe"
+    "id": "primitive_canoe",
     "type": "TOOL",
     "symbol": "0",
     "color": "brown",
