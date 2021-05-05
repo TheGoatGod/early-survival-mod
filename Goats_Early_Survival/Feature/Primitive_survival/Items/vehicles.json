@@ -12,7 +12,7 @@
     "volume": "20 L",
     "bashing": 8,
     "to_hit": -5,
-    "use_action": { "type": "unfold_vehicle", "vehicle_name": "primitive_raft" "unfold_msg": "You unfold the %s.", "moves": 500 }
+    "use_action": { "type": "unfold_vehicle", "vehicle_name": "primitive_raft", "unfold_msg": "You unfold the %s.", "moves": 500 }
   },
   {
     "id": "primitive_canoe",
@@ -27,6 +27,6 @@
     "volume": "75 L",
     "bashing": 8,
     "to_hit": -25,
-    "use_action": { "type": "unfold_vehicle", "vehicle_name": "primitive_canoe" "unfold_msg": "You place the %s.", "moves": 500 }
+    "use_action": { "type": "unfold_vehicle", "vehicle_name": "primitive_canoe", "unfold_msg": "You place the %s.", "moves": 500 }
   }
 ]
