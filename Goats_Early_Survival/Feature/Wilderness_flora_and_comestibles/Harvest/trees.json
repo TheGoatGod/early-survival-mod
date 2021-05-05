@@ -2,9 +2,7 @@
   {
     "id": "spruce_harv",
     "type": "harvest",
-    "entries": [
-      { "drop": "sprucebark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] }
-    ]
+    "entries": [ { "drop": "sprucebark", "base_num": [ 2, 5 ], "scale_num": [ 0, 1 ] } ]
   },
   {
     "id": "pine_spring_harv",

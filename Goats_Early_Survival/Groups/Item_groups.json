@@ -56,7 +56,13 @@
   {
     "id": "coffee_display",
     "type": "item_group",
-    "items": [ [ "tea_green_leaf", 40 ], [ "tea_oolong_leaf", 40 ], [ "b_dried_apple", 20 ], [ "b_dried_blueberries", 20 ], [ "b_dried_cranberries", 20 ] ]
+    "items": [
+      [ "tea_green_leaf", 40 ],
+      [ "tea_oolong_leaf", 40 ],
+      [ "b_dried_apple", 20 ],
+      [ "b_dried_blueberries", 20 ],
+      [ "b_dried_cranberries", 20 ]
+    ]
   },
   {
     "id": "displays",

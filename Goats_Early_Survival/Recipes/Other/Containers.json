@@ -33,9 +33,6 @@
     "time": "20 s",
     "reversible": true,
     "autolearn": true,
-    "components": [
-      [ [ "backpack_leather", 1 ], [ "backpack", 1 ] ],
-      [ [ "scissors", 1 ] ]
-    ]
+    "components": [ [ [ "backpack_leather", 1 ], [ "backpack", 1 ] ], [ [ "scissors", 1 ] ] ]
   }
 ]

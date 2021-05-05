@@ -24,11 +24,7 @@
         "moves": 300
       }
     ],
-    "use_action": {
-      "type": "holster",
-      "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s"
-    },
+    "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
     "flags": [ "BELTED", "WATER_FRIENDLY", "BELT_CLIP" ]
   },
   {
@@ -237,11 +233,7 @@
     ],
     "warmth": 0,
     "material_thickness": 1,
-    "use_action": {
-      "type": "holster",
-      "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s"
-    },
+    "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
@@ -277,11 +269,7 @@
     ],
     "warmth": 0,
     "material_thickness": 1,
-    "use_action": {
-      "type": "holster",
-      "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s"
-    },
+    "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
@@ -309,11 +297,7 @@
     ],
     "warmth": 0,
     "material_thickness": 1,
-    "use_action": {
-      "type": "holster",
-      "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s"
-    },
+    "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
@@ -349,11 +333,7 @@
     ],
     "warmth": 0,
     "material_thickness": 1,
-    "use_action": {
-      "type": "holster",
-      "holster_prompt": "Attach what to backpack loop?",
-      "holster_msg": "You attach your %s to your %s"
-    },
+    "use_action": { "type": "holster", "holster_prompt": "Attach what to backpack loop?", "holster_msg": "You attach your %s to your %s" },
     "flags": [ "BELTED", "BELT_CLIP" ]
   },
   {
