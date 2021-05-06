@@ -70,18 +70,5 @@
       [ [ "lye_powder", 50 ] ],
       [ [ "acid", 1 ] ]
     ]
-  },
-  {
-    "type": "recipe",
-    "result": "bomb_noisy",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_MEDICAL",
-    "skill_used": "electronics",
-    "skills_required": [ "fabrication", 2 ],
-    "difficulty": 2,
-    "time": "30 s",
-    "autolearn": true,
-    "components": [ [ [ "nail_bomb", 1 ] ], [ [ "noise_emitter", 1 ] ], [ [ "amplifier", 1 ] ], [ [ "string_36", 1 ] ] ]
-  },
   }
 ]
