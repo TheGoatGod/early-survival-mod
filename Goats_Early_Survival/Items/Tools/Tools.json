@@ -92,55 +92,5 @@
     "use_action": "CROWBAR",
     "techniques": [ "WBLOCK_2", "PRECISE" ],
     "flags": [ "BELT_CLIP", "DURABLE_MELEE", "NONCONDUCTIVE" ]
-  },
-  {
-    "id": "bomb_noisy",
-    "type": "TOOL",
-    "symbol": "*",
-    "color": "light_gray",
-    "name": { "str": "noisy bomb" },
-    "description": "This is an explosive attached to a noise emitter.  When activated, it will emit an unholy racket for 40 turns before it detonates.",
-    "price": 1500,
-    "material": [ "steel", "plastic" ],
-    "weight": "360 g",
-    "volume": "500 ml",
-    "bashing": 5,
-    "to_hit": 1,
-    "category": "weapons",
-    "use_action": {
-      "type": "transform",
-      "msg": "You activate the bomb.",
-      "need_fire": 1,
-      "need_fire_msg": "You need a source of fire to light the %s",
-      "active": true,
-      "target": "bomb_noisy_act",
-      "target_charges": 40
-    }
-  },
-  {
-    "id": "bomb_noisy_act",
-    "type": "TOOL",
-    "symbol": "*",
-    "color": "light_gray",
-    "name": { "str": "active noisy bomb" },
-    "description": "This noisy bomb is active and making a racket!  Throw it immediately!",
-    "price": 0,
-    "material": [ "steel", "plastic" ],
-    "weight": "360 g",
-    "volume": "500 ml",
-    "bashing": 5,
-    "to_hit": 1,
-    "max_charges": 40,
-    "initial_charges": 40,
-    "turns_per_charge": 1,
-    "category": "weapons",
-    "use_action": {
-      "type": "explosion",
-      "sound_volume": 60,
-      "sound_msg": "KKkkkkkxxckkckckkkkck",
-      "no_deactivate_msg": "You've already activated it, throw it!",
-      "explosion": { "power": 12, "shrapnel": { "recovery": 10, "drop": "nail" } }
-    }
-  },
   }
 ]
