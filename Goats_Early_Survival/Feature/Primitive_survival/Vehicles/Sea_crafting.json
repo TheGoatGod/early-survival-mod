@@ -3,7 +3,7 @@
     "id": "primitive_raft",
     "type": "vehicle",
     "blueprint": [ "o#o" ],
-    "name": "Makeshift raft",
+    "name": "Primitive raft",
     "parts": [
       { "x": 0, "y": 0, "parts": [ "frame_wood_cross", "seat_wood", "boat_board" ] },
       { "x": 0, "y": 0, "part": "hand_paddles" },
