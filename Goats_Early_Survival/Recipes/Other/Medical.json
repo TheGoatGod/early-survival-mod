@@ -83,24 +83,5 @@
     "autolearn": true,
     "components": [ [ [ "nail_bomb", 1 ] ], [ [ "noise_emitter", 1 ] ], [ [ "amplifier", 1 ] ], [ [ "string_36", 1 ] ] ]
   },
-  {
-    "type": "recipe",
-    "result": "digital_thermometer",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_MEDICAL",
-    "skill_used": "electronics",
-    "skills_required": [ "fabrication", 2 ],
-    "difficulty": 3,
-    "time": "100 s",
-    "autolearn": true,
-    "components": [
-      [ [ "circuit", 1 ] ],
-      [ [ "small_lcd_screen", 1 ] ],
-      [ [ "solar_cell", 1 ] ],
-      [ [ "amplifier", 1 ] ],
-      [ [ "cable", 10 ] ],
-      [ [ "wire", 1 ] ],
-      [ [ "battery", 100 ] ]
-    ]
   }
 ]
