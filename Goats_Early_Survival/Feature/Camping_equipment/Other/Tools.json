@@ -1,0 +1,14 @@
+[
+  {
+    "result": "brazier_small",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "difficulty": 2,
+    "time": "50 s",
+    "autolearn": true,
+    "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SCREW", "level": 1 } ],
+    "components": [ [ [ "scrap", 2 ] ] ]
+  }
+]

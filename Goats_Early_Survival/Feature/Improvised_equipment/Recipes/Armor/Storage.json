@@ -1,0 +1,17 @@
+[
+  {
+    "result": "improvised_backpack",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_STORAGE",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "survival", 1 ],
+    "time": "120 s",
+    "autolearn": true,
+    "components": [
+      [ [ "pillow", 1 ], [ "blanket", 1 ], [ "electric_blanket", 1 ] ],
+      [ [ "string_6", 4 ], [ "wire", 1 ], [ "thread", 60 ] ]
+    ]
+  }
+]

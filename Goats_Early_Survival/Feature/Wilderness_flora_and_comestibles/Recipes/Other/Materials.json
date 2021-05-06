@@ -27,6 +27,48 @@
     "autolearn": true,
     "components": [ [ [ "rope_fiber_6", 5 ], [ "withered", 30 ] ] ]
   },
+
+  {
+    "result": "cordage_6_leather",
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "result_mult": 3,
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "time": "20 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "proficiencies": [ { "proficiency": "prof_fibers", "required": false, "time_multiplier": 4 } ],
+    "components": [ [ [ "leather", 1 ], [ "fur", 1 ], [ "cured_hide", 1 ], [ "cured_pelt", 1 ] ] ]
+  },
+  {
+    "result": "cordage_36_leather",
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "time": "40 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "proficiencies": [ { "proficiency": "prof_fibers", "required": false, "time_multiplier": 4 } ],
+    "components": [ [ [ "leather", 2 ], [ "fur", 2 ], [ "cured_hide", 2 ], [ "cured_pelt", 2 ] ] ]
+  },
+  {
+    "result": "cordage_36_leather",
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "id_suffix": "weaving",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "survival",
+    "time": "5 m",
+    "reversible": true,
+    "autolearn": true,
+    "proficiencies": [ { "proficiency": "prof_fibers", "required": false, "time_multiplier": 4 } ],
+    "components": [ [ [ "cordage_6_leather", 6 ] ] ]
+  },
   {
     "result": "salt",
     "type": "recipe",

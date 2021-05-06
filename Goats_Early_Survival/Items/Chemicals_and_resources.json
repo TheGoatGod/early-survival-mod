@@ -1,15 +1,5 @@
 [
   {
-    "id": "turpentine",
-    "type": "AMMO",
-    "category": "chems",
-    "copy-from": "rosin",
-    "weight": "15 g",
-    "volume": "250 ml",
-    "name": { "str": "turpentine" },
-    "description": "Distilled from pine resin, this solvent has many uses in projects."
-  },
-  {
     "id": "material_Claystone",
     "type": "AMMO",
     "category": "spare_parts",
