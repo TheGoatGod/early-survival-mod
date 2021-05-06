@@ -25,8 +25,8 @@
     "components": [ [ [ "irrigator_empty", 1 ] ], [ [ "saline", 2 ], [ "eyedrops", 4 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "irrigator_empty",
+    "type": "recipe",
     "id_suffix": "from_new",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MEDICAL",

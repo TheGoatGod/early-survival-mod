@@ -1,7 +1,7 @@
 [
   {
-    "type": "recipe",
     "result": "electric_firestarter",
+    "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
     "skill_used": "electronics",
@@ -14,8 +14,8 @@
     "components": [ [ [ "crude_firestarter", 1 ] ], [ [ "cable", 6 ] ], [ [ "amplifier", 1 ] ], [ [ "e_scrap", 2 ] ], [ [ "scrap", 4 ] ] ]
   },
   {
-    "type": "recipe",
     "result": "electric_firestarter_upgraded",
+    "type": "recipe",
     "category": "CC_ELECTRONIC",
     "subcategory": "CSC_ELECTRONIC_TOOLS",
     "skill_used": "electronics",
