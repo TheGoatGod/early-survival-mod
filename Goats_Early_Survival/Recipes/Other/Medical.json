@@ -18,45 +18,6 @@
     ]
   },
   {
-    "result": "bandages_imp",
-    "type": "recipe",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_MEDICAL",
-    "skill_used": "firstaid",
-    "difficulty": 0,
-    "time": "1 m",
-    "reversible": false,
-    "autolearn": true,
-    "components": [ [ [ "rag", 1 ] ], [ [ "skewer_bone", 2 ] ] ]
-  },
-  {
-    "result": "irrigator",
-    "type": "recipe",
-    "id_suffix": "refill",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_MEDICAL",
-    "skill_used": "firstaid",
-    "difficulty": 0,
-    "time": "10 s",
-    "reversible": false,
-    "autolearn": true,
-    "components": [ [ [ "irrigator_empty", 1 ] ], [ [ "saline", 2 ], [ "eyedrops", 4 ] ] ]
-  },
-  {
-    "type": "recipe",
-    "result": "irrigator_empty",
-    "id_suffix": "from_new",
-    "category": "CC_OTHER",
-    "subcategory": "CSC_OTHER_MEDICAL",
-    "skill_used": "firstaid",
-    "difficulty": 2,
-    "time": "200 s",
-    "reversible": false,
-    "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1, "amount": 1 } ],
-    "components": [ [ [ "syringe", 1 ] ], [ [ "bottle_plastic_small", 1 ] ], [ [ "plastic_chunk", 1 ] ] ]
-  },
-  {
     "result": "first_aid",
     "type": "recipe",
     "category": "CC_OTHER",
