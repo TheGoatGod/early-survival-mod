@@ -1,14 +1,14 @@
 [
   {
+    "id": "quiver_crossbow_wanderer",
     "type": "item_group",
     "subtype": "collection",
-    "id": "quiver_crossbow_wanderer",
     "entries": [ { "item": "bolt_wood", "charges": 20 } ]
   },
   {
+    "id": "quiver_javelin_prehistoric",
     "type": "item_group",
     "subtype": "collection",
-    "id": "quiver_javelin_prehistoric",
     "entries": [ { "item": "javelin_stone", "charges": 4 } ]
   }
 ]
