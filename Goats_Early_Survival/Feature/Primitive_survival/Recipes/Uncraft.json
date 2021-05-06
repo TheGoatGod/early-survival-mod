@@ -1,0 +1,38 @@
+[
+  {
+    "result": "oilcloth_canvas_dry",
+    "type": "uncraft",
+    "activity_level": "fake",
+    "time": "1m",
+    "components": [ [ [ "oilcloth_canvas", 1 ] ], [ [ "frame_wood_light", 1 ] ] ]
+  },
+  {
+    "result": "willow_reed_bundle",
+    "type": "uncraft",
+    "activity_level": "fake",
+    "skill_used": "fabrication",
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "willow_reed", 10 ] ] ],
+    "flags": [ "BLIND_EASY" ]
+  },
+  {
+    "result": "atlatl_dart_crude_bundle",
+    "type": "uncraft",
+    "activity_level": "fake",
+    "difficulty": 0,
+    "time": 2000,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+    "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart_crude", 10 ] ] ]
+  },
+  {
+    "result": "atlatl_dart_bundle",
+    "type": "uncraft",
+    "activity_level": "fake",
+    "difficulty": 0,
+    "time": 2000,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+    "components": [ [ [ "rope_6", 1 ], [ "rope_fiber_6", 1 ] ], [ [ "atlatl_dart", 10 ] ] ]
+  }
+]
