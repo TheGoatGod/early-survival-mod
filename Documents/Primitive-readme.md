@@ -54,8 +54,13 @@ Use the `home` key to get to the top.
 # To-do
 **Head-Category -** [To-do](#to-do)
 
+
+
 *Priority Todos:*
 ---
+
+
+
 ```markdown
 - [x] Fix `Recipes` to contain all items and `Vehicle-Parts`
 - [x] Make `Vanilla` Category
@@ -77,8 +82,13 @@ Use the `home` key to get to the top.
 - [ ] Add more `bamboo` anything enclosed
 ```
 
+
+
 *For after*
 ---
+
+
+
 ```markdown
 - [x] Gut `More_tea_leaf` mod
 - [x] Gut `Rice` mod
@@ -96,6 +106,7 @@ Use the `home` key to get to the top.
 
 # Primitive Survival Sources
 **Head-Category -** [Primitive Survival Sources](#primitive-survival-sources)
+
 
 
 [Primitive Technology YouTube](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA)\
@@ -134,8 +145,12 @@ Use the `home` key to get to the top.
 [Build a Primitive Adobe Rocket Stove (Part 4)](https://www.youtube.com/watch?v=N34CxATbf7Q)
 
 
+
 # Features
+
 **Head-Category -** [Features](#features)
+
+
 
 
 ```JSON
@@ -148,12 +163,16 @@ deconstruct pile of leaves to get leaves ATM,
 until I implement leaves falling off trees.
 
 
+
 # Vanilla-Code
+
 **Head-Category -** [Vanilla-Code](#vanilla-code)
 
 
+
 *Tools:*
-```JSON
+
+```markdown
 Primitive Knife
 Primitive Stone Hammers
 Primitive Hand Axes
@@ -164,20 +183,28 @@ t_Bellows - Primitive Bellows
 awl_bone - Primitive Bone Awl
 ```
 
+
+
 *Weapons:*
-```JSON
+
+```markdown
 bolas - Primitive Bolas
 slingshot - Primitive Slingshot
 ```
 
-*Generic:*
-```JSON
-Glue
 
+
+*Generic:*
+
+```markdown
+Glue
 ```
 
+
+
 *Materials:*
-```JSON
+
+```markdown
 Leather
 Clay
 Rubber
@@ -188,14 +215,20 @@ Long Sticks
 Grass
 ```
 
+
+
 *Leather clothing:*
-```JSON
+
+```markdown
 leather_belt - Leather belt
 dress_shoes -  Leather shoes
 ```
 
+
+
 *Raw-Fruit:*
-```JSON
+
+```markdown
 Blueberries
 Raspberries
 Strawberries
@@ -203,13 +236,19 @@ Cranberries
 Grapes
 ```
 
+
+
 *Food:*
-```JSON
+
+```markdown
 soup_meat - Meat soup
 ```
 
+
+
 *Seeds:*
-```JSON
+
+```markdown
 seed_barley - Barley Seed - Barley
 seed_cabbage - Cabbage Seed - Cabbage
 coffee_pod - Coffee Bean - Coffee
@@ -220,15 +259,20 @@ seed_tomato - Tomato Seed - Tomato
 seed_wheat - Wheat Seed - Wheat
 ```
 
+
+
 *Terrain flora:*
-```JSON
+
+```markdown
 t_shrub_blueberry - Blueberry bush
 t_shrub_strawberry - Strawberry bush
 t_shrub_raspberry - Raspberry bush
 ```
 
 
+
 # Items
+
 **Head-Category -** [Items](#items)
 
 
@@ -248,19 +292,27 @@ t_shrub_raspberry - Raspberry bush
 **Sub-Category -** [Tools](#tools)
 
 
+
 *Sources:*
-```JSON
-https://www.survivalsullivan.com/primitive-survival-tools/
-https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
-```
+
+[Primitive tools](https://www.survivalsullivan.com/primitive-survival-tools/)\
+
+[Primitive Tools and Weapons](https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/)
+
+
 
 *Items:*
+
+```markdown
 - [x] Primitive Oldowan chopping tool
 - [x] Primitive Antler
 - [x] Primitive Sea Shell Saw
 - [x] Primitive Fire_Plough
 - [x] Primitive Chisel
 - [x] Primitive Stone Tomahawks
+```
+
+
 
 
 ## Weapons
@@ -268,27 +320,39 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 **Sub-Category -** [Weapons](#weapons)
 
 
+
 *Sources*
-```JSON
-https://www.survivalsullivan.com/primitive-survival-tools/
-https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
-```
+
+[Primitive Tools and Weapons](https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/)
+
+
 
 *Items:*
+
+```markdown
 - [x] Atlatls (A.k.a. Spear Throwers)
 - [x] Primitive Blowgun
 - [x] Primitive Spears
 - [x] Primitive machete
+```
+
 
 
 ## Ammo
+
 **Head-Category -** [Items](#items)\
 **Sub-Category -** [Ammo](#ammo)
 
 
+
 *Items:*
+
+```markdown
 - [x] Blowgun dart
 - [x] Blowgun dart crude
+```
+
+
 
 
 ## Generic
@@ -296,21 +360,31 @@ https://secretsofsurvival.com/22-primitive-survival-tools-and-weapons/
 **Sub-Category -** [Generic](#generic)
 
 
-*TODO:*
-- [ ] Add more `Fertilizer`
 
-*Sources:*
-```JSON
-https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVDBZtOS0pViv8s1zGB-6qnshdM3vnXqOGo8lLMU25pHJ2BoCTBoQAvD_BwE
+*TODO:*
+
+```markdown
+- [ ] Add more `Fertilizer`
 ```
 
+
+
+*Sources:*
+
+[Bonemeal](https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVDBZtOS0pViv8s1zGB-6qnshdM3vnXqOGo8lLMU25pHJ2BoCTBoQAvD_BwE)
+
+
+
 *Items:*
+
+```markdown
 - [x] Primitive Glue
 - [x] Bonemeal Fertilizer
 - [x] Primitive Sleeping fur/pelt
 - [x] sprouce_bark
 - [x] leaves
 - [x] Mud
+```
 
 
 
@@ -319,39 +393,59 @@ https://www.agrigem.co.uk/bonemeal-25kg?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTqPYepqJVD
 **Sub-Category  -** [Containers](#containers)
 
 
+
 *Sources:*
-```JSON
-https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
-```
+
+[Sack](https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G)
+
+
 
 *Items:*
+
+```markdown
 - [x] Primitive Backpack
 - [x] Primitive Sack
 - [x] Primitive Bucket
 - [x] Primitive Canteen
+```
+
 
 
 ## Resources
+
 **Head-Category -** [Items](#items)\
 **Sub-Category  -** [Resources](#resources)
 
 
+
 *Resources:*
-- [x] Claystone
+
+```markdown
+- [x] Clayston
+```
+
 
 
 ## Materials
+
 **Head-Category -** [Items](#items)\
 **Sub-Category  -** [Materials](#materials)
 
 
+
 *Items:*
+
+```markdown
 - [x] Mud
 - [x] Leaves
 - [x] Peat
 - [x] Bamboo
+```
+
+
 
 # Clothing
+
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)
 
@@ -368,8 +462,10 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 **Sub-Category -** [Clothes](#clothes)
 
 
+
 *Cloth Clothing:*
-```JSON
+
+```markdown
 - [ ] Cloth Cap
 - [ ] Cloth Shirt
 - [ ] Cloth Mittens
@@ -381,8 +477,11 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [ ] Cloth Gloves
 ```
 
+
+
 *Leather clothing:*
-```JSON
+
+```markdown
 - [ ] Leather cap
 - [ ] Leather shirt
 - [ ] Leather leggings
@@ -390,8 +489,11 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [ ] Leather Gloves
 ```
 
+
+
 *Fur clothing:*
-```JSON
+
+```markdown
 - [ ] Fur Cap
 - [ ] Fur Shirt
 - [ ] Fur Mittens
@@ -403,20 +505,20 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [ ] Fur Gloves
 ```
 
-*Birch-bark:*
-```JSON
-- [ ] Birch-bark shoes
-- [ ] Birch-bark cap
+
+
+*Bark:*
+
+```markdown
+- [ ] bark shoes
+- [ ] bark cap
 ```
 
-*Source-bark:*
-```JSON
-- [ ] Source-bark shoes
-- [ ] Source-bark cap
-```
+
 
 *Combination clothes:*
-```JSON
+
+```markdown
 - [ ] Fur-Leather Belt
 - [ ] Fur-Leather Cap
 - [ ] Fur-Leather Shirt
@@ -428,31 +530,39 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 ```
 
 
+
 ## Armor
+
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Clothing](#clothing)\
 **Sub-Category -** [Armor](#armor)
 
 
+
 *Leather clothing:*
-```JSON
+
+```markdown
 - [ ] Leather forearm guards
 - [ ] Leather shin guards
 - [ ] Leather cuirass
 ```
 
+
+
 *Combination clothes:*
-```JSON
+
+```markdown
 - [ ] Fur-Leather forearm guards
 - [ ] Fur-Leather shin guards
 - [ ] Fur-Leather cuirass
 ```
 
 
+
 # Comestibles
+
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Comestibles](#comestibles)
-
 
 *All Sub Category's:*\
 [Raw-Fruit](#raw-Fruit)\
@@ -462,16 +572,23 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 [Medicine](#medicine)
 
 
+
 ## Raw-Fruit
+
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Comestibles](#comestibles)\
 **Sub-Category -** [Raw-Fruit](#raw-Fruit)
 
 
+
 *Source:*
 [Berries Source](https://www.womenfitness.net/cloudberries.htm)
 
+
+
 *Raw-Fruit:*
+
+```markdown
 - [x] lingonberries
 - [x] bilberries
 - [x] cloudberries
@@ -479,6 +596,7 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 - [x] black-currants
 - [x] gojiberries
 - [x] acaiberries
+```
 
 
 
@@ -488,20 +606,25 @@ https://www.amazon.co.uk/GardenMate-Premium-large-Hessian-Sacks/dp/B00VYM5I9G
 **Sub-Category -** [Drink](#drink)
 
 
+
 *Sources:*
-```JSON
-https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry values
-```
+
+[berry values](https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5)
 
 *Comestibles:*
-```JSON
+
+```markdown
 - [ ] Blueberry Juice
 - [ ] Raspberry Juice
 - [ ] Goji berry Juice
 - [ ] Strawberry Juice
 - [ ] Bilberry Juice
-- [ ] Acai berry Juice
+- [ ] Acai berry Juices
 - [ ] Grape Juice
+- [ ] Black-currant juice
+- [ ] Lingonberries juice
+- [ ] Cloudberry juice
+- [ ] Crowberry juice
 ```
 
 
@@ -511,13 +634,16 @@ https://www.healthline.com/nutrition/8-healthy-berries#TOC_TITLE_HDR_5 - berry v
 **Sub-Category -** [Food](#food)
 
 
+
 *Sources:*
-```JSON
-https://primitive.fandom.com/wiki/Consumables
-```
+
+[Primitive consumables](https://primitive.fandom.com/wiki/Consumables)
+
+
 
 *Items:*
-```JSON
+
+```markdown
 - [ ] Cashew Nuts
 - [ ] Cashew Milk
 - [ ] Ground Cashew Nuts
@@ -545,30 +671,32 @@ https://primitive.fandom.com/wiki/Consumables
 ## Mushrooms
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Comestibles](#comestibles)\
-**Sub-Category -** [Mushrooms](#mushrooms)\
-**needs updated to be added**
+**Sub-Category -** [Mushrooms](#mushrooms)
+
 
 
 *Sources:*
-```JSON
-https://en.wikipedia.org/wiki/Edible_mushroom
-```
+
+[Edible Mushrooms](https://en.wikipedia.org/wiki/Edible_mushroom)
+
+
 
 *Mushrooms:*
-```JSON
-Black ear mushroom
-Sand mushroom
-Noaidi's mushroom
-Yellowcoat mushroom
-Browncoat mushroom
-Bearpaw mushroom
-Hairy mushroom
-Redlegger mushroom
-Yellow fingers mushroom
-Tellervo's gift mushroom
-Ukko's mushroom
-Soft mushroom
-Ringed mushroom
+
+```markdown
+- [ ] Black ear mushroom
+- [ ] Sand mushroom
+- [ ] Noaidi's mushroom
+- [ ] Yellowcoat mushroom
+- [ ] Browncoat mushroom
+- [ ] Bearpaw mushroom
+- [ ] Hairy mushroom
+- [ ] Redlegger mushroom
+- [ ] Yellow fingers mushroom
+- [ ] Tellervo's gift mushroom
+- [ ] Ukko's mushroom
+- [ ] Soft mushroom
+- [ ] Ringed mushroom
 ```
 
 
@@ -578,8 +706,10 @@ Ringed mushroom
 **Sub-Category -** [Seeds](#seeds)
 
 
+
 *Items:*
 
+```markdown
 - [x] Lingonberry Seed - Lingonberry
 - [x] Bilberry Seed - Bilberry
 - [x] Cloudberry Seed - Cloudberry
@@ -601,6 +731,7 @@ Ringed mushroom
 - [ ] Yarrow seed - Yarrow
 - [ ] Golden Rod Seed - Golden Rod
 - [ ] Calendula seed - Calendula
+```
 
 
 
@@ -610,8 +741,10 @@ Ringed mushroom
 **Sub-Category -** [Medicine](#medicine)
 
 
+
 *GENERIC:*
-```JSON
+
+```markdown
 - [ ] St. Johns Wort
 - [ ] Yarrow
 - [ ] Golden Rod
@@ -619,18 +752,24 @@ Ringed mushroom
 ```
 
 
+
 # Resources
+
 **Head-Category -** [Items](#items)\
 **Sub-Head-Category -** [Resources](#resources)
 
 
+
 *Wood:*
-```JSON
+
+```markdown
 - [ ] Firewood
 ```
 
 
+
 # Furniture and Terrain
+
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)
 
 
@@ -639,13 +778,17 @@ Ringed mushroom
 [Terrain](#terrain)
 
 
+
 ## Furniture
+
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
 **Sub-Category -** [Furniture](#furniture)
 
 
+
 *Construction:*
-```JSON
+
+```markdown
 - [ ] Apiary
 - [ ] Bakers Oven
 - [ ] Cauldron
@@ -661,13 +804,17 @@ Ringed mushroom
 ```
 
 
+
 ## Terrain
+
 **Head-Category -** [Furniture and Terrain](#furniture-and-terrain)\
 **Sub-category -** [Terrain](#terrain)
 
 
+
 *Mud Terrain:*
-```JSON
+
+```markdown
 - [ ] Mud Door-frame
 - [ ] Mud Door
 - [ ] Mud Floor
@@ -677,8 +824,11 @@ Ringed mushroom
 - [ ] Mud Roof
 ```
 
+
+
 *Stick Terrain:*
-```JSON
+
+```markdown
 - [ ] Stick Door-frame
 - [ ] Stick Door
 - [ ] Stick Floor
@@ -688,7 +838,11 @@ Ringed mushroom
 - [ ] Stick Roof
 ```
 
+
+
 *Terrain flora:*
+
+```markdown
 - [x] Cranberry Shrub
 - [x] Lingonberry Shrub
 - [x] Bilberry Shrub
@@ -714,11 +868,17 @@ Ringed mushroom
 - [ ] Yarrow Plant
 - [ ] Golden Rod Plant
 - [ ] Calendula Plant
+```
+
 
 
 *Mushrooms:* **needs proper naming to be included**
+
+```Markdown
 https://en.wikipedia.org/wiki/Edible_mushroom
-```JSON
+```
+
+```markdown
 - [ ] Black ear mushroom
 - [ ] Sand mushroom
 - [ ] Noaidi's mushroom
@@ -735,17 +895,24 @@ https://en.wikipedia.org/wiki/Edible_mushroom
 ```
 
 
+
 # Construction
+
 **Head-Category -** [Construction](#construction)
 
 
+
 *Sources:*
-```JSON
+
+```markdown
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
+
+
 *Tools:*
-```JSON
+
+```markdown
 - [ ] Apiary
 - [ ] Bakers Oven
 - [ ] Cauldron
@@ -760,8 +927,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Weapon Rack
 ```
 
+
+
 *Mud Terrain:*
-```JSON
+
+```markdown
 - [ ] Mud Door-frame
 - [ ] Mud Door
 - [ ] Mud Floor
@@ -772,41 +942,52 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Mud Roof
 ```
 
+
+
 *Stick Terrain:*
-```JSON
+
+```markdown
 - [ ] Stick Door-frame
 - [ ] Stick Door
 - [ ] Stick Floor
 - [ ] Stick Window-frame
 - [ ] Stick Window
-- [ ] Half-built Stick Wall
 - [ ] Stick Wall
 - [ ] Stick Roof
 ```
 
 
+
 # Vehicles
+
 **Head-Category -** [Vehicles](#vehicles)
 
 
 *All Sub Category's:*\
 [Vehicle-Parts](#vehicle-parts)
 
+
+
 *Vehicles:*
-```JSON
-- [ ] Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
+
+```markdown
+- [x] Raft - 6 Strapped wood, Tying equipment, Mast, Steering stick attached to steering wood
 - [ ] Large Raft - 16 Strapped wood, Tying equipment, Large mast, Steering stick attached to steering wood
 - [ ] Materials Cart - Sticks, Tying equipment
 ```
 
 
+
 ## Vehicle-Parts
+
 **Head-Category -** [Vehicles](#vehicles)\
 **Sub-Category -** [Vehicle-Parts](#vehicle-parts)
 
 
+
 *Items:*
-```JSON
+
+```markdown
 - [ ] Strapped wood
 - [ ] Mast
 - [ ] Large Mast
@@ -814,7 +995,9 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 # Recipes
+
 **Head-Category -** [Recipes](#recipes)
 
 
@@ -823,10 +1006,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 [Vehicles](#r-Vehicles)
 
 
+
 ## R-Items
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)
-
 
 *All Sub Category's:*\
 [Tools](#r-tools)\
@@ -838,18 +1022,27 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 [Comestibles](#r-comestibles)
 
 
+
 ## R-Tools
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Tools](#r-tools)
 
 
-*TODO:*\
+
+*TODO:*
+
+```markdown
 - [x] add `Tools` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
+```
+
+
 
 *Items:*
-```JSON
+
+```markdown
 - [ ] Primitive Grain Grinders
 - [ ] Primitive Mortar And Pestless
 - [ ] Primitive Oldowan chopping tool
@@ -858,8 +1051,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Primitive Chisel
 ```
 
+
+
 *Finished-items*
-```JSON
+
+```markdown
 - [ ] Birch-bark box  - birch-bark, knife
 - [ ] Birch-bark basket - birch-bark, knife
 - [ ] Birch-bark rope - birch-bark, knife, water - (tying equipment)
@@ -871,17 +1067,26 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Weapons
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Weapons](#r-weapons)
 
 
-*TODO:*\
+
+*TODO:*
+
+```markdown
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
+```
+
+
 
 *Unfinished-Items:*
-```JSON
+
+```markdown
 - [ ] Primitive Spears
 - [ ] Primitive Stone Tomahawks
 - [ ] Primitive Hoko Knives
@@ -893,22 +1098,33 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Generic
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Generic](#r-generic)
 
 
+
 *TODO:*
+
+```markdown
 - [x] add `Generic` from `Items` Category
 - [ ] Sort `Unfinished-Items` into `Finished-Items`
+```
+
+
 
 *Sources:*
 [Primitive glue](https://www.outdoorrevival.com/instant-articles/making-glue-stick-using-primitive-methods.html)
 [Bonemeal Fertilizer](https://balconygardenweb.com/how-to-make-bone-meal-fertilizer-at-home/)
 
+
+
 *Unfinished-Items:*
-```JSON
+
+```markdown
 - [ ] Primitive Glue
 - [ ] Bonemeal Fertilizer
 - [ ] Primitive Sleeping fur/pelt
@@ -918,40 +1134,61 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Containers
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Containers](#r-containers)
 
 
+
 *TODO:*
+
+```markdown
 - [ ] Sort `Unfinished-Containers` into `Containers`
+```
+
+
 
 *Containers:*
-```JSON
+
+```markdown
 - [ ] Primitive Backpack - Primitive Sack, Cord - bone awl
 - [ ] Primitive Sack - Cord - Bone awl
 - [ ] Primitive Bucket - Wood, Cord - Cutting tool
 - [ ] Primitive Canteen - Wood, Chisel - Cutting tool
 ```
 
+
+
 *Unfinished-Containers:*
-```JSON
+
+```markdown
 - [ ] Primitive Canteen
 ```
 
 
+
 ## R-Materials
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category -** [Materials](#r-materials)
 
 
+
 *TODO:*
+
+```markdown
 - [x] add `Materials` from `Items` Category
+```
+
+
 
 *Items:*
-```JSON
+
+```markdown
 - [ ] Claystone
 - [ ] Mud
 - [ ] Leaves
@@ -959,26 +1196,31 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 # R-Clothing
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Clothing](#r-clothing)
-
 
 *All Sub Category's:*\
 [Clothes](#r-clothes)\
 [Armor](#r-armor)
 
 
+
 ## R-Clothes
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Clothing](#r-clothing)\
 **Sub-Category -** [Clothes](#r-clothes)
 
 
+
 *Cloth Clothing:*
-```JSON
+
+```markdown
 - [ ] Cloth Cap
 - [ ] Cloth Shirt
 - [ ] Cloth Mittens
@@ -990,8 +1232,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Cloth Gloves
 ```
 
+
+
 *Leather clothing:*
-```JSON
+
+```markdown
 - [ ] Leather cap
 - [ ] Leather shirt
 - [ ] Leather leggings
@@ -999,8 +1244,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Leather Gloves
 ```
 
+
+
 *Fur clothing:*
-```JSON
+
+```markdown
 - [ ] Fur Cap
 - [ ] Fur Shirt
 - [ ] Fur Mittens
@@ -1012,20 +1260,29 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Fur Gloves
 ```
 
+
+
 *Birch-bark:*
-```JSON
+
+```markdown
 - [ ] Birch-bark shoes
 - [ ] Birch-bark cap
 ```
 
+
+
 *Source-bark:*
-```JSON
+
+```markdown
 - [ ] Source-bark shoes
 - [ ] Source-bark cap
 ```
 
+
+
 *Combination clothes:*
-```JSON
+
+```markdown
 - [ ] Fur-Leather Belt
 - [ ] Fur-Leather Cap
 - [ ] Fur-Leather Shirt
@@ -1037,32 +1294,46 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Armor
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Clothing](#r-clothing)\
 **Sub-Category -** [Armor](#r-armor)
 
 
+
 *TODO:*
-- [x] add `Armor` from `Items` Category
+
+```markdown
+- [ ] add `Armor` from `Items` Category
+```
+
+
 
 *Leather clothing:*
-```JSON
+
+```markdown
 - [ ] Leather forearm guards
 - [ ] Leather shin guards
 - [ ] Leather cuirass
 ```
 
+
+
 *Combination clothes:*
-```JSON
+
+```markdown
 - [ ] Fur-Leather forearm guards
 - [ ] Fur-Leather shin guards
 - [ ] Fur-Leather cuirass
 ```
 
 
+
 # R-Comestibles
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)
@@ -1074,22 +1345,31 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 [Seeds](#r-seeds)
 
 
+
 ## R-Drink
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
 **Sub-Category -** [Drink](#r-drink)
 
 
+
 *TODO:*
+
+```markdown
 - [x] add `Drink` from `Items` Category
-- [ ] Primitive `Tea` Recipes
-- [ ] Primitive `Coffee` Recipes
 - [x] `Juices` Recipes
 - [x] `Juice` Recipes
+- [ ] Primitive `Tea` Recipes
+- [ ] Primitive `Coffee` Recipes
+```
+
+
 
 *Unfinished-Comestibles:*
-```JSON
+
+```markdown
 - [ ] Blueberry Juice
 - [ ] Raspberry Juice
 - [ ] Goji berry Juice
@@ -1100,22 +1380,30 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Food
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
 **Sub-Category -** [Food](#r-food)
 
 
+
 *TODO:*
+
+```markdown
 - [x] add `Food` from `Items` Category
 - [ ] add process to `Unfinished Food`
 - [ ] add `Unfinished food` to `Finished Food`
 - [ ] add more `Breads`
+```
+
 
 
 *Finished Food:*
-```JSON
+
+```markdown
 - [ ] Homemade Soap - water, vegetables, seasoning - knife - boil
 - [ ] Meat soup - raw meat, water, vegetables, seasoning - knife - boil
 - [ ] Meat stew - raw meat, water, vegetables, seasoning - knife - bake
@@ -1131,8 +1419,11 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 - [ ] Vegetable stew - vegetables, water, mushrooms, seasoning - bake
 ```
 
+
+
 *unfinished food:*
-```JSON
+
+```markdown
 - [ ] Cashew Nuts
 - [ ] Cashew Milk
 - [ ] Ground Cashew
@@ -1142,15 +1433,19 @@ https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 ```
 
 
+
 ## R-Seeds
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Items](#r-items)\
 **Sub-Category-Header -** [Comestibles](#r-comestibles)\
 **Sub-Category -** [Seeds](#r-seeds)
 
 
-fruit = seeds
-*Seeds:*
+
+fruit seeds:
+
+```markdown
 - [ ] Lingonberry Seed - Lingonberry
 - [ ] Bilberry Seed - Bilberry
 - [ ] Cloudberry Seed - Cloudberry
@@ -1173,6 +1468,7 @@ fruit = seeds
 - [ ] Yarrow seed - Yarrow
 - [ ] Golden Rod Seed - Golden Rod
 - [ ] Calendula seed - Calendula
+```
 
 
 
@@ -1185,20 +1481,30 @@ fruit = seeds
 [Vehicle-Parts](#r-vehicle-parts)
 
 
+
 ## R-Vehicle-Parts
+
 **Head-Category -** [Recipes](#recipes)\
 **Sub-Head-Category -** [Vehicles](#r-Vehicles)\
 **Sub-Category -** [Vehicle-Parts](#r-vehicle-parts)
 
 
+
 *TODO:*
+
+```markdown
 - [x] add `Vehicle-Parts` from `Vehicles` Category
 - [x] add `Unfinished-Items` to `Items`
+```
+
+
 
 *Items:*
-```JSON
+
+```markdown
 - [ ] Strapped wood - cordage or leather rope or rope or fibre rope, 2 logs. - Saw, axe
 - [ ] Mast - 7 sticks, Sheet
 - [ ] Large Mast - 1 log, 4 Sheets
 - [ ] Steering stick attached to steering wood - stick, log - cutting tool
 ```
+
