@@ -1,0 +1,47 @@
+[
+  {
+    "id": "build_fire_pit",
+    "type": "construction_group",
+    "name": "Build Fire Pit"
+  },
+  {
+    "id": "build_woven_fence",
+    "type": "construction_group",
+    "name": "Build Woven Fence"
+  },
+  {
+    "id": "build_cpurifier",
+    "type": "construction_group",
+    "name": "Build Charcoal Purifier"
+  },
+  {
+    "id": "build_door_curtain_leather",
+    "type": "construction_group",
+    "name": "Build Leather Door Curtain"
+  },
+  {
+    "id": "build_pulley_lifter",
+    "type": "construction_group",
+    "name": "Build Pulley Lifter"
+  },
+  {
+    "id": "build_bucket_pulley_well",
+    "type": "construction_group",
+    "name": "Add Bucket And Pulley To Covered Well"
+  },
+  {
+    "id": "build_wood_windbreak",
+    "type": "construction_group",
+    "name": "Build Wooden Windbreak"
+  },
+  {
+    "id": "build_tarp_leanto",
+    "type": "construction_group",
+    "name": "Build Leather Tarp Lean-To"
+  },
+  {
+    "id": "build_wooden_platform",
+    "type": "construction_group",
+    "name": "Build Wooden Platform"
+  }
+]

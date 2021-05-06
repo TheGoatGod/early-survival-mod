@@ -1,0 +1,47 @@
+[
+  {
+    "id": "build_makeshift_fence",
+    "type": "construction_group",
+    "name": "Build Makeshift Fence"
+  },
+  {
+    "id": "build_makeshift_gate",
+    "type": "construction_group",
+    "name": "Build Makeshift Gate"
+  },
+  {
+    "id": "build_makeshift_still",
+    "type": "construction_group",
+    "name": "Build Makeshift Still"
+  },
+  {
+    "id": "build_still_dirt",
+    "type": "construction_group",
+    "name": "Build Makeshift Still"
+  },
+  {
+    "id": "build_makeshift_rack",
+    "type": "construction_group",
+    "name": "Build Makeshift Wooden Rack"
+  },
+  {
+    "id": "build_makeshift_counter",
+    "type": "construction_group",
+    "name": "Build Makeshift Counter"
+  },
+  {
+    "id": "build_makeshift_table",
+    "type": "construction_group",
+    "name": "Build Makeshift Table"
+  },
+  {
+    "id": "build_makeshift_chair",
+    "type": "construction_group",
+    "name": "Build Makeshift Chair"
+  },
+  {
+    "id": "build_makeshift_bench",
+    "type": "construction_group",
+    "name": "Build Makeshift Bench"
+  }
+]
