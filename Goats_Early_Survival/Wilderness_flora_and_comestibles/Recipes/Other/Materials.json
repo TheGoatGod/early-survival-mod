@@ -27,7 +27,6 @@
     "autolearn": true,
     "components": [ [ [ "rope_fiber_6", 5 ], [ "withered", 30 ] ] ]
   },
-
   {
     "result": "cordage_6_leather",
     "type": "recipe",
