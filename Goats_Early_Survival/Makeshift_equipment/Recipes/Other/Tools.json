@@ -158,7 +158,6 @@
       [ [ "vehicle_sled", 2, "LIST" ] ]
     ]
   },
-  ,
   {
     "result": "log_frame_item",
     "type": "recipe",
