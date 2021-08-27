@@ -35,7 +35,7 @@
     "id": "reciprocating_saw",
     "looks_like": "chainsaw_off",
     "type": "TOOL",
-    "name": { "str": "reciprocating saw (off)", "str_pl": "reciprocating saws (off)" },
+    "name": { "str": "reciprocating saw", "str_pl": "reciprocating saws" },
     "description": "this saw has a blade which moves back and forth very quickly.  use it to turn it on",
     "weight": "2500 g",
     "volume": "7900 ml",
