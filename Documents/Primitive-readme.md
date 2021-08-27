@@ -6,7 +6,7 @@ Use the `home` key to get to the top.
 # Table of contents
 
 * [To-do](#to-do)
-* [Primitive Survival Sources](#primitive-survival-sources)=
+* [Primitive Survival Sources](#primitive-survival-sources)
 * [Features](#features)
 * [Vanilla-Code](#vanilla-code)
 * [Items](#items)
