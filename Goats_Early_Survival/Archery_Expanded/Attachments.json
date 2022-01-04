@@ -1,5 +1,6 @@
 [
   {
+    
     "id": "tuned_mechanism",
     "type": "GUNMOD",
     "copy-from": "tuned_mechanism",
