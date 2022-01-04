@@ -1017,7 +1017,7 @@ endif
 ifeq ($(NATIVE), osx)
 APPTARGETDIR=Cataclysm.app
 APPRESOURCESDIR=$(APPTARGETDIR)/Contents/Resources
-APPDATADIR=$(APPRESOURCESDIR)/data
+APPDATADIR=$(APPRESOURCESDIR)/Goats_Early_Survival
 ifndef FRAMEWORK
   SDLLIBSDIR=$(shell sdl2-config --libs | sed -n 's/.*-L\([^ ]*\) .*/\1/p')
 endif  # ifndef FRAMEWORK
